@@ -1,0 +1,3215 @@
+% 外国人名（音译）参考读音；读音规则参考 ： doc/foreign_names.md
+詹姆斯#ziam1 m2 se1
+约翰#iêh4 hang5
+罗伯特#lo5 bêh4 dêg8
+迈克尔#main6 kiog4 re2
+威廉#ui1 liam5
+大卫#dai6 uê6
+理查德#li2 cê5 dêg4
+约瑟夫#iêh4 sêg4 hu1
+托马斯#toh4 bhê2 se1
+查尔斯#cê5 re2 se1
+克里斯#kiog4 li2 se1
+丹尼尔#dang1 nin5 re2
+马修#bhê2 siu1
+安东尼#ang1 dang1 nin5
+马克#bhê2 kiog4
+唐纳德#tang5 nab8 dêg4
+史蒂文#se2 di3 bhung5
+保罗#bo2 lo5
+安德鲁#ang1 dêg4 lu2
+约书亚#iêh4 ze1 a1
+凯文#kai2 bhung5
+布莱恩#bu3 lai5 eng1
+乔治#kiou5 di7
+爱德华#ain3 dêg4 hua5
+罗纳德#lo5 nab8 dêg4
+蒂莫西#di3 mog8 sai1
+杰森#giêg8 siam1
+杰弗里#giêg8 hug4 li2
+瑞安#sui6 ang1
+雅各布#ngian2 gag4 bu3
+拉里#la1 li2
+弗兰克#hug4 lang5 kiog4
+乔纳森#kiou5 nab8 siam1
+斯科特#se1 kuê1 dêg8
+埃里克#ai1 li2 kiog4
+斯蒂芬#se1 di3 hung1
+丹尼斯#dang1 nin5 se1
+杰里#giêg8 li2
+哈里#hah4 li2
+彼得#bi2 dig4
+道格拉斯#dao6 gêh4 la1 se1
+罗杰#lo5 giêg8
+亚瑟#a1 sêg4
+帕特里克#pê3 dêg8 li2 kiog4
+杰克#giêg8 kiog4
+亨利#hêng1 li6
+卡尔#ka2 re2
+阿瑟#a1 sêg4
+格里高利#gêh4 li2 gao1 li6
+雷蒙德#lui5 mong5 dêg4
+本杰明#bung2 giêg8 mêng5
+塞缪尔#sai3 niun6 re2
+内森#lai6 siam1
+尼古拉斯#nin5 gou2 la1 se1
+华莱士#hua5 lai5 se6
+杰弗森#giêg8 hug4 siam1
+杰斐逊#giêg8 hui1 sung3
+欧文#ao1 bhung5
+查理#cê5 li2
+查利#cê5 li6
+威利#ui1 li6
+劳伦斯#lao5 lung5 se1
+加里#gia1 li2
+胡安#hu5 ang1
+何塞#ho5 sai3
+路易斯#lou7 êg8 se1
+弗朗西斯科#hug4 lang2 sai1 se1 kuê1
+安赫尔#ang1 hêh4 re2
+拉斐尔#la1 hui1 re2
+埃米利奥#ai1 bhi2 li6 o3
+费利佩#hui3 li6 buê6
+费尔南多#hui3 re2 lam5 do1
+亚历杭德罗#a1 lêh8 hang5 dêg4 lo5
+迭戈#diêg4 ko1
+里卡多#li2 ka2 do1
+阿曼多#a1 bhuêng6 do1
+哈维尔#hah4 rui6 re2
+米格尔#bhi2 gêh4 re2
+圣地亚哥#sêng3 di7 a1 go1
+马特奥#bhê2 dêg8 o3
+尼克#nin5 kiog4
+诺亚#nab8 a1
+卢克#lu5 kiog4
+利亚姆#li6 a1 m2
+梅森#bhuê5 siam1
+伊森#i1 siam1
+亚历山大#a1 lêh8 suan1 dai6
+塞巴斯蒂安#sai3 ba1 se1 di3 ang1
+戴维#dai3 rui6
+克里斯托弗#kiog4 li2 se1 toh4 hug4
+伊万#i1 bhuêng7
+伊恩#i1 eng1
+奥斯卡#o3 se1 ka2
+奥利弗#o3 li6 hug4
+伊莱亚斯#i1 lai5 a1 se1
+卢卡斯#lu5 ka2 se1
+西奥多#sai1 o3 do1
+西奥#sai1 o3
+泰迪#tai3 dêg8
+特德#dêg8 dêg4
+泰德#tai3 dêg4
+埃德温#ai1 dêg4 ung1
+埃德加#ai1 dêg4 gia1
+埃弗里特#ai1 hug4 li2 dêg8
+厄尔#êh4 re2
+埃尔默#ai1 re2 mig8
+尤金#iu5 gim1
+尤斯塔斯#iu5 se1 tah4 se1
+伊莱#i1 lai5
+伊利亚#i1 li6 a1
+以撒#in2 sag4
+艾萨克#ain3 sag4 kiog4
+以实玛利#in2 sig8 man2 li6
+伊斯雷尔#i1 se1 lui5 re2
+伊凡#i1 huam5
+艾略特#ain3 liag8 dêg8
+埃利奥特#ai1 li6 o3 dêg8
+埃米尔#ai1 bhi2 re2
+埃米特#ai1 bhi2 dêg8
+欧内斯特#ao1 lai6 se1 dêg8
+厄尼#êh4 nin5
+埃弗里#ai1 hug4 li2
+埃文#ai1 bhung5
+埃弗雷特#ai1 hug4 lui5 dêg8
+泽维尔#zêg8 rui6 re2
+扎卡里#zag4 ka2 li2
+扎克#zag4 kiog4
+齐克#ci5 kiog4
+耶利米#ia5 li6 bhi2
+杰里迈亚#giêg8 li2 main6 a1
+杰梅因#giêg8 bhuê5 ing1
+杰拉尔德#giêg8 la1 re2 dêg4
+杰罗姆#giêg8 lo5 m2
+杰瑞德#giêg8 sui6 dêg4
+贾里德#gia2 li2 dêg4
+哈罗德#hah4 lo5 dêg4
+哈维#hah4 rui6
+海登#hai2 dêng1
+休伯特#hiun1 bêh4 dêg8
+霍华德#kag4 hua5 dêg4
+雨果#u2 guê2
+汉克#hang3 kiog4
+汉弗莱#hang3 hug4 lai5
+亨特#hêng1 dêg8
+以赛亚#in2 sai3 a1
+伊西亚#i1 sai1 a1
+艾维#ain3 rui6
+艾弗#ain3 hug4
+杰布#giêg8 bu3
+杰德#giêg8 dêg4
+约翰尼#iêh4 hang5 nin5
+乔尼#kiou5 nin5
+乔纳斯#kiou5 nab8 se1
+乔尔#kiou5 re2
+乔舒亚#kiou5 su1 a1
+乔什#kiou5 sib8
+朱迪#zu1 dêg8
+犹大#iu5 dai6
+裘德#kiu5 dêg4
+贾德#gia2 dêg4
+贾德森#gia2 dêg4 siam1
+贾斯廷#gia2 se1 têng5
+贾斯汀#gia2 se1 dêng1
+贾森#gia2 siam1
+凯莱布#kai2 lai5 bu3
+凯勒布#kai2 lêg8 bu3
+卡梅伦#ka2 bhuê5 lung5
+卡梅隆#ka2 bhuê5 long5
+卡尔文#ka2 re2 bhung5
+克里斯蒂安#kiog4 li2 se1 di3 ang1
+柯蒂斯#ko1 di3 se1
+塞德里克#sai3 dêg4 li2 kiog4
+克莱德#kiog4 lai5 dêg4
+科迪#kuê1 dêg8
+科尔#kuê1 re2
+科林#kuê1 lim5
+康纳#kang1 nab8
+库珀#kou3 pêg4
+科伊尔#kuê1 i1 re2
+克雷格#kiog4 lui5 gêh4
+达尔顿#dag8 re2 dung6
+达伦#dag8 lung5
+迪克兰#dêg8 kiog4 lang5
+德里克#dêg4 li2 kiog4
+德温#dêg4 ung1
+多明尼克#do1 mêng5 nin5 kiog4
+杜鲁门#dou6 lu2 mung5
+埃利#ai1 li6
+以利亚#in2 li6 a1
+埃利斯#ai1 li6 se1
+厄尼斯特#êh4 nin5 se1 dêg8
+埃斯特班#ai1 se1 dêg8 bang1
+费利克斯#hui3 li6 kiog4 se1
+芬尼根#hung1 nin5 geng1
+弗洛伊德#hug4 log8 i1 dêg4
+弗兰基#hug4 lang5 gi1
+富兰克林#bu3 lang5 kiog4 lim5
+弗雷德#hug4 lui5 dêg4
+弗雷德里克#hug4 lui5 dêg4 li2 kiog4
+弗里茨#hug4 li2 ce5
+盖博瑞尔#gai3 pag4 sui6 re2
+加布里埃尔#gia1 bu3 li2 ai1 re2
+加布#gia1 bu3
+加雷思#gia1 lui5 se1
+加文#gia1 bhung5
+杰拉德#giêg8 la1 dêg4
+杰里米#giêg8 li2 bhi2
+格斯#gêh4 se1
+格温#gêh4 ung1
+哈珀#hah4 pêg4
+海克托#hai2 kiog4 toh4
+赫克托#hêh4 kiog4 toh4
+休戈#hiun1 ko1
+杰斯#giêg8 se1
+杰斯罗#giêg8 se1 lo5
+杰思罗#giêg8 se1 lo5
+乔纳#kiou5 nab8
+乔丹#kiou5 dang1
+豪尔赫#hao5 re2 hêh4
+乔西亚#kiou5 sai1 a1
+约西亚#iêh4 sai1 a1
+卡尔顿#ka2 re2 dung6
+卡洛斯#ka2 log8 se1
+卡森#ka2 siam1
+塞西尔#sai3 sai1 re2
+查德#cê5 dêg4
+查尔顿#cê5 re2 dung6
+蔡斯#cua3 se1
+切特#ciêg4 dêg8
+切斯特#ciêg4 se1 dêg8
+奇普#ki5 pou2
+克莱#kiog4 lai5
+克莱顿#kiog4 lai5 dung6
+康拉德#kang1 la1 dêg4
+科尔顿#kuê1 re2 dung6
+科宾#kuê1 bing1
+考特尼#kao2 dêg8 nin5
+玛丽#man2 li6
+帕特丽夏#pê3 dêg8 li6 hê7
+珍妮弗#diêng1 nin5 hug4
+琳达#lim5 dag8
+芭芭拉#ba1 ba1 la1
+伊丽莎白#i1 li6 sa1 bêh8
+苏珊#sou1 sang1
+杰西卡#giêg8 sai1 ka2
+莎拉#sa1 la1
+凯伦#kai2 lung5
+南希#lam5 hi1
+玛格丽特#man2 gêh4 li6 dêg8
+贝蒂#buê6 di3
+多萝西#do1 lo5 sai1
+丽莎#li6 sa1
+艾美#ain3 muin2
+艾米#ain3 bhi2
+艾米丽#ain3 bhi2 li6
+米歇尔#bhi2 hiah4 re2
+阿曼达#a1 bhuêng6 dag8
+安德烈娅#ang1 dêg4 liêg8 a1
+卡罗琳#ka2 lo5 lim5
+萨曼莎#sag4 bhuêng6 sa1
+凯瑟琳#kai2 sêg4 lim5
+克里斯汀#kiog4 li2 se1 dêng1
+玛丽亚#man2 li6 a1
+海伦#hai2 lung5
+黛博拉#dai3 pag4 la1
+桑德拉#sang1 dêg4 la1
+唐娜#tang5 non5
+卡罗尔#ka2 lo5 re2
+露丝#lou7 si1
+莎朗#sa1 lang2
+劳拉#lao5 la1
+斯蒂芬妮#se1 di3 hung1 nin5
+黛安#dai3 ang1
+爱丽丝#ain3 li6 si1
+丽贝卡#li6 buê6 ka2
+路易丝#lou7 êg8 si1
+特蕾莎#dêg8 lui2 sa1
+弗吉尼亚#hug4 gig4 nin5 a1
+安妮#ang1 nin5
+娜塔莉#non5 tah4 li6
+布伦达#bu3 lung5 dag8
+麦迪逊#bhêh8 dêg8 sung3
+阿比盖尔#a1 bi2 gai3 re2
+艾娃#ain3 ua1
+米娅#bhi2 a1
+克洛伊#kiog4 log8 i1
+艾丽卡#ain3 li6 ka2
+埃莉诺#ai1 li6 nab8
+艾丽西亚#ain3 li6 sai1 a1
+伊芙琳#i1 hu5 lim5
+艾蜜莉#ain3 mig8 li6
+索菲娅#sog4 hui1 a1
+索菲亚#sog4 hui1 a1
+奥利维亚#o3 li6 rui6 a1
+伊莎贝拉#i1 sa1 buê6 la1
+夏洛特#hê7 log8 dêg8
+阿米莉亚#a1 bhi2 li6 a1
+莉莉#li6 li6
+艾弗里#ain3 hug4 li2
+埃娃#ai1 ua1
+艾拉#ain3 la1
+赛迪#sai3 dêg8
+艾迪生#ain3 dêg8 sêng1
+莉莲#li6 liêng5
+娜娜#non5 non5
+莱拉#lai5 la1
+皮帕#puê5 pê3
+佩内洛普#buê6 lai6 log8 pou2
+乔治娅#kiou5 di7 a1
+温妮弗雷德#ung1 nin5 hug4 lui5 dêg4
+温妮#ung1 nin5
+露西#lou7 sai1
+克拉拉#kiog4 la1 la1
+亚历山德拉#a1 lêh8 suan1 dêg4 la1
+加布里埃拉#gia1 bu3 li2 ai1 la1
+纳塔莉亚#nab8 tah4 li6 a1
+瓦伦蒂娜#ua1 lung5 di3 non5
+艾玛#ain3 man2
+哈泽尔#hah4 zêg8 re2
+娜奥米#non5 o3 bhi2
+埃玛#ai1 man2
+安娜#ang1 non5
+玛莎#man2 sa1
+萨拉#sag4 la1
+拉结#la1 gig4
+利亚#li6 a1
+蕾贝卡#lui2 buê6 ka2
+米利暗#bhi2 li6 am3
+米利亚姆#bhi2 li6 a1 m2
+以斯帖#in2 se1 tiab4
+埃丝特#ai1 si1 dêg8
+朱迪思#zu1 dêg8 se1
+犹滴#iu5 di1
+苏珊娜#sou1 sang1 non5
+路得#lou7 dig4
+拿俄米#nan2 ngon5 bhi2
+底波拉#di2 bo1 la1
+雅亿#ngian2 êg8
+约珥#iêh4 ri7
+约伯#iêh4 bêh4
+以利沙#in2 li6 sa1
+以西结#in2 sai1 gig4
+但以理#dang6 in2 li2
+何西阿#ho5 sai1 a1
+约拿#iêh4 nan2
+拿菲力#nan2 hui1 lag8
+弥迦#min5 gia1
+那鸿#nan2 hong5
+哈巴谷#hah4 ba1 gog4
+西番雅#sai1 huêng1 ngian2
+哈该#hah4 gai1
+撒迦利亚#sag4 gia1 li6 a1
+玛拉基#man2 la1 gi1
+雅各#ngian2 gag4
+安得烈#ang1 dig4 liêg8
+腓力#hui1 lag8
+巴多罗买#ba1 do1 lo5 bhoi2
+多马#do1 bhê2
+马太#bhê2 tai3
+亚勒腓的儿子雅各#a1 lêg8 hui1 di1 ri5 ze2 ngian2 gag4
+达太#dag8 tai3
+奋锐党的西门#hung3 ruê6 dang2 di1 sai1 mung5
+西门#sai1 mung5
+加略人犹大#gia1 liag8 nang5 iu5 dai6
+巴拿巴#ba1 nan2 ba1
+提摩太#ti5 mon5 tai3
+提多#ti5 do1
+西拉#sai1 la1
+路加#lou7 gia1
+马可#bhê2 ko2
+约翰马可#iêh4 hang5 bhê2 ko2
+亚波罗#a1 bo1 lo5
+百基拉#bêh4 gi1 la1
+亚居拉#a1 ge1 la1
+罗马#lo5 bhê2
+格拉古#gêh4 la1 gou2
+西庇阿#sai1 bi3 a1
+汉尼拔#hang3 nin5 buêg8
+凯撒#kai2 sag4
+奥古斯都#o3 gou2 se1 dou1
+尼禄#nin5 log8
+君士坦丁#gung1 se6 tang2 dêng1
+查士丁尼#cê5 se6 dêng1 nin5
+皮埃尔#puê5 ai1 re2
+雅克#ngian2 kiog4
+菲利普#hui1 li6 pou2
+弗朗索瓦#hug4 lang2 sog4 ua1
+路易#lou7 êg8
+夏尔#hê7 re2
+安德烈#ang1 dêg4 liêg8
+西蒙#sai1 mong5
+吕克#le6 kiog4
+克劳德#kiog4 lao5 dêg4
+热拉尔#riêg8 la1 re2
+伯纳德#bêh4 nab8 dêg4
+蒂埃里#di3 ai1 li2
+阿兰#a1 lang5
+奥利维耶#o3 li6 rui6 ia5
+帕斯卡#pê3 se1 ka2
+洛朗#log8 lang2
+朱利安#zu1 li6 ang1
+纪尧姆#gi2 ngioun5 m2
+尼古拉#nin5 gou2 la1
+安托万#ang1 toh4 bhuêng7
+雷蒙#lui5 mong5
+雷米#lui5 bhi2
+马塞尔#bhê2 sai3 re2
+马蒂厄#bhê2 di3 êh4
+卢瓦克#lu5 ua1 kiog4
+达米安#dag8 bhi2 ang1
+艾蒂安#ain3 di3 ang1
+贝特朗#buê6 dêg8 lang2
+雷内#lui5 lai6
+热罗姆#riêg8 lo5 m2
+法比安#huab4 bi2 ang1
+法布里斯#huab4 bu3 li2 se1
+阿诺#a1 nab8
+阿诺德#a1 nab8 dêg4
+伯努瓦#bêh4 non3 ua1
+邦雅曼#bang1 ngian2 bhuêng6
+埃杜瓦尔#ai1 dou6 ua1 re2
+于格#i1 gêh4
+伊夫#i1 hu1
+约阿希姆#iêh4 a1 hi1 m2
+若昂#riag8 ngang1
+若埃尔#riag8 ai1 re2
+朱尔#zu1 re2
+朱斯坦#zu1 se1 tang2
+朗贝尔#lang2 buê6 re2
+莱昂#lai5 ngang1
+利昂内尔#li6 ngang1 lai6 re2
+马库斯#bhê2 kou3 se1
+莫里斯#mog8 li2 se1
+内斯托尔#lai6 se1 toh4 re2
+奥克塔夫#o3 kiog4 tah4 hu1
+帕布罗#pê3 bu3 lo5
+帕特里斯#pê3 dêg8 li2 se1
+拉乌尔#la1 ou1 re2
+勒内#lêg8 lai6
+理查#li2 cê5
+罗歇#lo5 hiah4
+罗兰#lo5 lang5
+鲁道夫#lu2 dao6 hu1
+萨沙#sag4 sa1
+塞尔日#sai3 re2 rig8
+西尔万#sai1 re2 bhuêng7
+蒂博#di3 pag4
+唐吉#tang5 gig4
+瓦伦丁#ua1 lung5 dêng1
+樊尚#huam6 siang6
+约安#iêh4 ang1
+佐伊#zo2 i1
+汉斯#hang3 se1
+海因里希#hai2 ing1 li2 hi1
+弗里德里希#hug4 li2 dêg4 li2 hi1
+马蒂亚斯#bhê2 di3 a1 se1
+安德烈亚斯#ang1 dêg4 liêg8 a1 se1
+约尔格#iêh4 re2 gêh4
+于尔根#i1 re2 geng1
+克劳斯#kiog4 lao5 se1
+迪特尔#dêg8 dêg8 re2
+哈拉尔德#hah4 la1 re2 dêg4
+格哈德#gêh4 hah4 dêg4
+格奥尔格#gêh4 o3 re2 gêh4
+阿尔弗雷德#a1 re2 hug4 lui5 dêg4
+阿洛伊斯#a1 log8 i1 se1
+阿图尔#a1 tu5 re2
+贝托尔特#buê6 toh4 re2 dêg8
+伯恩德#bêh4 eng1 dêg4
+贝恩德#buê6 eng1 dêg4
+布鲁诺#bu3 lu2 nab8
+迪尔克#dêg8 re2 kiog4
+多尔特#do1 re2 dêg8
+埃尔温#ai1 re2 ung1
+埃里希#ai1 li2 hi1
+欧根#ao1 geng1
+弗朗茨#hug4 lang2 ce5
+贡特尔#gong3 dêg8 re2
+古斯塔夫#gou2 se1 tah4 hu1
+海纳#hai2 nab8
+海因茨#hai2 ing1 ce5
+亨宁#hêng1 lêng5
+赫尔穆特#hêh4 re2 mog8 dêg8
+霍尔格#kag4 re2 gêh4
+霍斯特#kag4 se1 dêg8
+胡贝特#hu5 buê6 dêg8
+约翰内斯#iêh4 hang5 lai6 se1
+尤尔根#iu5 re2 geng1
+海茨#hai2 ce5
+卡尔海茨#ka2 re2 hai2 ce5
+克尼特尔#kiog4 nin5 dêg8 re2
+库尔特#kou3 re2 dêg8
+兰伯特#lang5 bêh4 dêg8
+拉尔斯#la1 re2 se1
+路德维希#lou7 dêg4 rui6 hi1
+曼弗雷德#bhuêng6 hug4 lui5 dêg4
+马丁#bhê2 dêng1
+马克西米利安#bhê2 kiog4 sai1 bhi2 li6 ang1
+米夏埃尔#bhi2 hê7 ai1 re2
+莫里茨#mog8 li2 ce5
+诺贝特#nab8 buê6 dêg8
+奥拉夫#o3 la1 hu1
+奥托#o3 toh4
+拉法埃尔#la1 huab4 ai1 re2
+赖因哈德#nain6 ing1 hah4 dêg4
+罗尔夫#lo5 re2 hu1
+罗兰德#lo5 lang5 dêg4
+西格弗里德#sai1 gêh4 hug4 li2 dêg4
+斯特凡#se1 dêg8 huam5
+蒂尔#di3 re2
+乌韦#ou1 ui2
+瓦尔德马#ua1 re2 dêg4 bhê2
+维尔纳#rui6 re2 nab8
+沃尔夫冈#og4 re2 hu1 gang1
+沃尔夫拉姆#og4 re2 hu1 la1 m2
+约格#iêh4 gêh4
+曼努埃尔#bhuêng6 non3 ai1 re2
+安东尼奥#ang1 dang1 nin5 o3
+佩德罗#buê6 dêg4 lo5
+巴勃罗#ba1 buêg8 lo5
+安德烈斯#ang1 dêg4 liêg8 se1
+费德里科#hui3 dêg4 li2 kuê1
+贡萨洛#gong3 sag4 log8
+古斯塔沃#gou2 se1 tah4 og4
+伊格纳西奥#i1 gêh4 nab8 sai1 o3
+哈科沃#hah4 kuê1 og4
+胡利安#hu5 li6 ang1
+利奥波多#li6 o3 bo1 do1
+洛伦索#log8 lung5 sog4
+马科斯#bhê2 kuê1 se1
+毛罗#mon5 lo5
+劳尔#lao5 re2
+罗德里戈#lo5 dêg4 li2 ko1
+鲁本#lu2 bung2
+萨尔瓦多#sag4 re2 ua1 do1
+塞萨尔#sai3 sag4 re2
+塞尔吉奥#sai3 re2 gig4 o3
+巴伦丁#ba1 lung5 dêng1
+比森特#bi2 siam1 dêg8
+哈伊罗#hah4 i1 lo5
+扎卡里亚斯#zag4 ka2 li2 a1 se1
+阿隆索#a1 long5 sog4
+阿尔瓦罗#a1 re2 ua1 lo5
+安德雷斯#ang1 dêg4 lui5 se1
+阿里亚斯#a1 li2 a1 se1
+阿图罗#a1 tu5 lo5
+奥古斯托#o3 gou2 se1 toh4
+本哈明#bung2 hah4 mêng5
+贝尼托#buê6 nin5 toh4
+布拉沃#bu3 la1 og4
+卡耶塔诺#ka2 ia5 tah4 nab8
+卡尔洛斯#ka2 re2 log8 se1
+塞莱斯蒂诺#sai3 lai5 se1 di3 nab8
+克里斯托瓦尔#kiog4 li2 se1 toh4 ua1 re2
+克里奥多#kiog4 li2 o3 do1
+达里奥#dag8 li2 o3
+德梅特里奥#dêg4 bhuê5 dêg8 li2 o3
+多明戈#do1 mêng5 ko1
+埃杜瓦多#ai1 dou6 ua1 do1
+埃利奥#ai1 li6 o3
+埃洛伊#ai1 log8 i1
+恩里克#eng1 li2 kiog4
+恩斯特#eng1 se1 dêg8
+埃斯泰班#ai1 se1 tai3 bang1
+欧斯塔基奥#ao1 se1 tah4 gi1 o3
+费尔明#hui3 re2 mêng5
+加夫列尔#gia1 hu1 liêg8 re2
+格雷戈里奥#gêh4 lui5 ko1 li2 o3
+海梅#hai2 bhuê5
+埃内斯托#ai1 lai6 se1 toh4
+伊尼戈#i1 nin5 ko1
+伊西德罗#i1 sai1 dêg4 lo5
+哈辛托#hah4 sing1 toh4
+赫苏斯#hêh4 sou1 se1
+若热#riag8 riêg8
+哈斯托#hah4 se1 toh4
+莱昂纳多#lai5 ngang1 nab8 do1
+马戈#bhê2 ko1
+马塞洛#bhê2 sai3 log8
+莫德斯托#mog8 dêg4 se1 toh4
+诺贝托#nab8 buê6 toh4
+奥拉西奥#o3 la1 sai1 o3
+帕特里西奥#pê3 dêg8 li2 sai1 o3
+罗伯托#lo5 bêh4 toh4
+罗穆洛#lo5 mog8 log8
+桑托斯#sang1 toh4 se1
+西尔维斯特#sai1 re2 rui6 se1 dêg8
+特奥多罗#dêg8 o3 do1 lo5
+瓦西里#ua1 sai1 li2
+阿列克谢#a1 liêg8 kiog4 sia7
+德米特里#dêg4 bhi2 dêg8 li2
+谢尔盖#sia7 re2 gai3
+米哈伊尔#bhi2 hah4 i1 re2
+弗拉基米尔#hug4 la1 gi1 bhi2 re2
+叶夫根尼#hiab8 hu1 geng1 nin5
+维克托#rui6 kiog4 toh4
+阿纳托利#a1 nab8 toh4 li6
+鲍里斯#bao6 li2 se1
+格列布#gêh4 liêg8 bu3
+列昂尼德#liêg8 ngang1 nin5 dêg4
+马克西姆#bhê2 kiog4 sai1 m2
+尼基塔#nin5 gi1 tah4
+奥列格#o3 liêg8 gêh4
+帕维尔#pê3 rui6 re2
+罗曼#lo5 bhuêng6
+斯坦尼斯拉夫#se1 tang2 nin5 se1 la1 hu1
+斯捷潘#se1 ziab8 puan1
+尤里#iu5 li2
+雅罗斯拉夫#ngian2 lo5 se1 la1 hu1
+阿尔卡季#a1 re2 ka2 kui3
+阿尔乔姆#a1 re2 kiou5 m2
+阿尔谢尼#a1 re2 sia7 nin5
+博格拉丹#pag4 gêh4 la1 dang1
+瓦列里#ua1 liêg8 li2
+瓦连京#ua1 liêng5 gian1
+维亚切斯拉夫#rui6 a1 ciêg4 se1 la1 hu1
+格奥尔吉#gêh4 o3 re2 gig4
+格尔曼#gêh4 re2 bhuêng6
+格里戈里#gêh4 li2 ko1 li2
+达尼尔#dag8 nin5 re2
+叶戈尔#hiab8 ko1 re2
+叶菲姆#hiab8 hui1 m2
+费奥多尔#hui3 o3 do1 re2
+菲利浦#hui1 li6 pou2
+加夫里尔#gia1 hu1 li2 re2
+伊戈尔#i1 ko1 re2
+卡利斯特拉特#ka2 li6 se1 dêg8 la1 dêg8
+康斯坦丁#kang1 se1 tang2 dêng1
+库兹马#kou3 ze1 bhê2
+列夫#liêg8 hu1
+马特维#bhê2 dêg8 rui6
+罗斯季斯拉夫#lo5 se1 kui3 se1 la1 hu1
+鲁斯兰#lu2 se1 lang5
+萨瓦#sag4 ua1
+谢苗#sia7 mioun5
+斯维亚托斯拉夫#se1 rui6 a1 toh4 se1 la1 hu1
+季莫费#kui3 mog8 hui3
+季穆尔#kui3 mog8 re2
+弗拉季斯拉夫#hug4 la1 kui3 se1 la1 hu1
+维塔利#rui6 tah4 li6
+弗谢沃洛德#hug4 sia7 og4 log8 dêg4
+雅科夫#ngian2 kuê1 hu1
+乔瓦尼#kiou5 ua1 nin5
+温琴佐#ung1 kim5 zo2
+弗朗切斯科#hug4 lang2 ciêg4 se1 kuê1
+马泰奥#bhê2 tai3 o3
+洛伦佐#log8 lung5 zo2
+卢卡#lu5 ka2
+亚历山德罗#a1 lêh8 suan1 dêg4 lo5
+安德烈亚#ang1 dêg4 liêg8 a1
+菲利波#hui1 li6 bo1
+托马索#toh4 bhê2 sog4
+埃托雷#ai1 toh4 lui5
+朱塞佩#zu1 sai3 buê6
+彼得罗#bi2 dig4 lo5
+塞尔焦#sai3 re2 ziou1
+斯蒂法诺#se1 di3 huab4 nab8
+达尼埃莱#dag8 nin5 ai1 lai5
+阿尔多#a1 re2 do1
+阿尔贝托#a1 re2 buê6 toh4
+阿莱索#a1 lai5 sog4
+阿马德奥#a1 bhê2 dêg4 o3
+安布罗焦#ang1 bu3 lo5 ziou1
+阿梅代奥#a1 bhuê5 dai3 o3
+安杰洛#ang1 giêg8 log8
+阿尔卡德#a1 re2 ka2 dêg4
+阿里奥斯托#a1 li2 o3 se1 toh4
+贝尔纳多#buê6 re2 nab8 do1
+贝纳尔多#buê6 nab8 re2 do1
+贝佩#buê6 buê6
+博纳文图拉#pag4 nab8 bhung5 tu5 la1
+卡尔洛#ka2 re2 log8
+切萨雷#ciêg4 sag4 lui5
+克里斯托福罗#kiog4 li2 se1 toh4 hog4 lo5
+科拉多#kuê1 la1 do1
+科西莫#kuê1 sai1 mog8
+迪诺#dêg8 nab8
+多梅尼科#do1 bhuê5 nin5 kuê1
+恩里科#eng1 li2 kuê1
+埃乌杰尼奥#ai1 ou1 giêg8 nin5 o3
+费利切#hui3 li6 ciêg4
+费迪南多#hui3 dêg8 lam5 do1
+菲奥拉万特#hui1 o3 la1 bhuêng7 dêg8
+福尔科#hog4 re2 kuê1
+加埃塔诺#gia1 ai1 tah4 nab8
+加布里埃莱#gia1 bu3 li2 ai1 lai5
+贾科莫#gia2 kuê1 mog8
+詹尼#ziam1 nin5
+詹卢卡#ziam1 lu5 ka2
+杰罗拉莫#giêg8 lo5 la1 mog8
+贾恩卡洛#gia2 eng1 ka2 log8
+朱利奥#zu1 li6 o3
+伊尼亚齐奥#i1 nin5 a1 ci5 o3
+卢多维科#lu5 do1 rui6 kuê1
+马西米利亚诺#bhê2 sai1 bhi2 li6 a1 nab8
+马蒂亚#bhê2 di3 a1
+米凯莱#bhi2 kai2 lai5
+纳塔莱#nab8 tah4 lai5
+尼科洛#nin5 kuê1 log8
+奥托内#o3 toh4 lai6
+皮耶罗#puê5 ia5 lo5
+皮埃特罗#puê5 ai1 dêg8 lo5
+萨穆埃莱#sag4 mog8 ai1 lai5
+塞巴斯蒂亚诺#sai3 ba1 se1 di3 a1 nab8
+塔奥#tah4 o3
+翁贝托#ong1 buê6 toh4
+维琴佐#rui6 kim5 zo2
+维托里奥#rui6 toh4 li2 o3
+太郎#tai3 lang5
+次郎#ce3 lang5
+三郎#san1 lang5
+悠太#hiun1 tai3
+悠真#hiun1 zing1
+阳翔#iang5 siang5
+大和#dai6 hua5
+海斗#hai2 dao2
+飒太#sab4 tai3
+阳向#iang5 hiang3
+一树#zêg8 ciu7
+和真#hua5 zing1
+大辅#dai6 hu6
+大辉#dai6 hui1
+凉太#liang5 tai3
+斉藤#ci5 ding5
+铃木#lêng1 bhag8
+高桥#gao1 giê5
+田中#cang5 dong1
+伊藤#i1 ding5
+渡边#dou7 biêng1
+山本#suan1 bung2
+中村#dong1 ceng1
+小林#siou2 lim5
+加藤#gia1 ding5
+吉田#gig4 cang5
+山田#suan1 cang5
+佐佐木#zo2 zo2 bhag8
+松本#song5 bung2
+井上#zên2 ziên7
+穆罕默德#mog8 hang2 mig8 dêg4
+艾哈迈德#ain3 hah4 main6 dêg4
+优素福#iu1 su3 hog4
+阿里#a1 li2
+哈桑#hah4 sang1
+侯赛因#hou5 sai3 ing1
+奥马尔#o3 bhê2 re2
+奥斯曼#o3 se1 bhuêng6
+阿卜杜拉#a1 bog4 dou6 la1
+阿卜杜勒#a1 bog4 dou6 lêg8
+拉赫曼#la1 hêh4 bhuêng6
+阿卜杜勒拉赫曼#a1 bog4 dou6 lêg8 la1 hêh4 bhuêng6
+哈立德#hah4 lib8 dêg4
+瓦利德#ua1 li6 dêg4
+塔里克#tah4 li2 kiog4
+赛义德#sai3 ngin6 dêg4
+法蒂玛#huab4 di3 man2
+阿伊莎#a1 i1 sa1
+扎伊纳布#zag4 i1 nab8 bu3
+哈蒂嘉#hah4 di3 gia1
+麦尔彦#bhêh8 re2 ngang6
+玛丽亚姆#man2 li6 a1 m2
+亚当#a1 dang1
+夏娃#hê7 ua1
+亚伯#a1 bêh4
+该隐#gai1 ng2
+塞特#sai3 dêg8
+以挪士#in2 non5 se6
+玛土撒拉#man2 tou2 sag4 la1
+挪亚#non5 a1
+雅弗#ngian2 hug4
+亚伯拉罕#a1 bêh4 la1 hang2
+撒拉#sag4 la1
+利百加#li6 bêh4 gia1
+以扫#in2 sao3
+约瑟#iêh4 sêg4
+便雅悯#biêng6 ngian2 miêng2
+摩西#mon5 sai1
+亚伦#a1 lung5
+迦勒#gia1 lêg8
+俄陀聂#ngon5 to5 niab4
+巴拉#ba1 la1
+基甸#gi1 diêng6
+耶弗他#ia5 hug4 ta1
+参孙#siam1 sung1
+撒母耳#sag4 bho2 re2
+扫罗#sao3 lo5
+所罗门#so2 lo5 mung5
+罗波安#lo5 bo1 ang1
+亚比央#a1 bi2 iang1
+亚撒#a1 sag4
+约沙法#iêh4 sa1 huab4
+耶洗别#ia5 soi2 biêg8
+约阿施#iêh4 a1 si1
+耶罗波安#ia5 lo5 bo1 ang1
+亚哈#a1 hah4
+希西家#hi1 sai1 gê1
+施洗约翰#si1 soi2 iêh4 hang5
+耶稣#ia5 sou1
+马利亚#bhê2 li6 a1
+马大#bhê2 dai6
+拉撒路#la1 sag4 lou7
+撒马利亚#sag4 bhê2 li6 a1
+凯撒奥古斯都#kai2 sag4 o3 gou2 se1 dou1
+希律#hi1 lug8
+本丢彼拉多#bung2 diu1 bi2 la1 do1
+彼拉多#bi2 la1 do1
+克劳狄#kiog4 lao5 dêg8
+提图斯#ti5 tu5 se1
+图拉真#tu5 la1 zing1
+哈德良#hah4 dêg4 liang5
+奥勒留#o3 lêg8 liu5
+马可奥勒留#bhê2 ko2 o3 lêg8 liu5
+康茂德#kang1 mong6 dêg4
+戴克里先#dai3 kiog4 li2 soin1
+希拉克略#hi1 la1 kiog4 liag8
+卢修斯#lu5 siu1 se1
+马尔库斯#bhê2 re2 kou3 se1
+盖乌斯#gai3 ou1 se1
+塞克斯图斯#sai3 kiog4 se1 tu5 se1
+普布利乌斯#pou2 bu3 li6 ou1 se1
+昆图斯#kung1 tu5 se1
+德基穆斯#dêg4 gi1 mog8 se1
+阿庇乌斯#a1 bi3 ou1 se1
+奥卢斯#o3 lu5 se1
+斯普利乌斯#se1 pou2 li6 ou1 se1
+尼乌斯#nin5 ou1 se1
+提贝里乌斯#ti5 buê6 li2 ou1 se1
+德西穆斯#dêg4 sai1 mog8 se1
+奥鲁斯#o3 lu2 se1
+斯普里乌斯#se1 pou2 li2 ou1 se1
+马尼乌斯#bhê2 nin5 ou1 se1
+克文图斯#kiog4 bhung5 tu5 se1
+努梅里乌斯#non3 bhuê5 li2 ou1 se1
+沃鲁苏斯#og4 lu2 sou1 se1
+西塞罗#sai1 sai3 lo5
+塞涅卡#sai3 niab4 ka2
+小塞涅卡#siou2 sai3 niab4 ka2
+普鲁塔克#pou2 lu2 tah4 kiog4
+希罗多德#hi1 lo5 do1 dêg4
+修昔底德#siu1 sêg4 di2 dêg4
+色诺芬#sêg4 nab8 hung1
+柏拉图#bêh4 la1 tu5
+亚里士多德#a1 li2 se6 do1 dêg4
+苏格拉底#sou1 gêh4 la1 di2
+阿基米德#a1 gi1 bhi2 dêg4
+欧几里得#ao1 gi1 li2 dig4
+毕达哥拉斯#big8 dag8 go1 la1 se1
+希波克拉底#hi1 bo1 kiog4 la1 di2
+盖伦#gai3 lung5
+托勒密#toh4 lêg8 mig8
+斯特拉波#se1 dêg8 la1 bo1
+阿维森纳#a1 rui6 siam1 nab8
+阿威罗伊#a1 ui1 lo5 i1
+史密斯#se2 mig8 se1
+约翰逊#iêh4 hang5 sung3
+威廉姆斯#ui1 liam5 m2 se1
+布朗#bu3 lang2
+琼斯#kuang5 se1
+米勒#bhi2 lêg8
+戴维斯#dai3 rui6 se1
+加西亚#gia1 sai1 a1
+罗德里格斯#lo5 dêg4 li2 gêh4 se1
+威尔逊#ui1 re2 sung3
+马丁内斯#bhê2 dêng1 lai6 se1
+安德森#ang1 dêg4 siam1
+泰勒#tai3 lêg8
+埃尔南德斯#ai1 re2 lam5 dêg4 se1
+穆尔#mog8 re2
+杰克逊#giêg8 kiog4 sung3
+汤普森#teng1 pou2 siam1
+怀特#huai5 dêg8
+洛佩斯#log8 buê6 se1
+冈萨雷斯#gang1 sag4 lui5 se1
+哈里斯#hah4 li2 se1
+克拉克#kiog4 la1 kiog4
+刘易斯#lao5 êg8 se1
+鲁宾逊#lu2 bing1 sung3
+沃克#og4 kiog4
+佩雷斯#buê6 lui5 se1
+霍尔#kag4 re2
+艾伦#ain3 lung5
+桑切斯#sang1 ciêg4 se1
+赖特#nain6 dêg8
+格林#gêh4 lim5
+贝克#buê6 kiog4
+亚当斯#a1 dang1 se1
+纳尔逊#nab8 re2 sung3
+希尔#hi1 re2
+拉米雷斯#la1 bhi2 lui5 se1
+坎贝尔#kam2 buê6 re2
+米切尔#bhi2 ciêg4 re2
+罗伯茨#lo5 bêh4 ce5
+卡特#ka2 dêg8
+菲利普斯#hui1 li6 pou2 se1
+埃文斯#ai1 bhung5 se1
+特纳#dêg8 nab8
+托雷斯#toh4 lui5 se1
+帕克#pê3 kiog4
+柯林斯#ko1 lim5 se1
+爱德华兹#ain3 dêg4 hua5 ze1
+斯图尔特#se1 tu5 re2 dêg8
+弗洛雷斯#hug4 log8 lui5 se1
+墨菲#bhag8 hui1
+里维拉#li2 rui6 la1
+库克#kou3 kiog4
+罗杰斯#lo5 giêg8 se1
+摩根#mon5 geng1
+彼得森#bi2 dig4 siam1
+里德#li2 dêg4
+贝利#buê6 li6
+贝尔#buê6 re2
+戈麦斯#ko1 bhêh8 se1
+凯利#kai2 li6
+沃德#og4 dêg4
+考克斯#kao2 kiog4 se1
+迪亚斯#dêg8 a1 se1
+理查森#li2 cê5 siam1
+伍德#ngoun2 dêg4
+沃森#og4 siam1
+布鲁克斯#bu3 lu2 kiog4 se1
+贝内特#buê6 lai6 dêg8
+格雷#gêh4 lui5
+雷耶斯#lui5 ia5 se1
+克鲁兹#kiog4 lu2 ze1
+休斯#hiun1 se1
+普赖斯#pou2 nain6 se1
+迈尔斯#main6 re2 se1
+福斯特#hog4 se1 dêg8
+桑德斯#sang1 dêg4 se1
+罗斯#lo5 se1
+莫拉莱斯#mog8 la1 lai5 se1
+鲍威尔#bao6 ui1 re2
+沙利文#sa1 li6 bhung5
+拉塞尔#la1 sai3 re2
+奥尔蒂斯#o3 re2 di3 se1
+詹金斯#ziam1 gim1 se1
+古铁雷斯#gou2 tih4 lui5 se1
+佩里#buê6 li2
+巴特勒#ba1 dêg8 lêg8
+巴恩斯#ba1 eng1 se1
+费希尔#hui3 hi1 re2
+亨德森#hêng1 dêg4 siam1
+科尔曼#kuê1 re2 bhuêng6
+西蒙斯#sai1 mong5 se1
+帕特森#pê3 dêg8 siam1
+雷诺兹#lui5 nab8 ze1
+汉密尔顿#hang3 mig8 re2 dung6
+格雷厄姆#gêh4 lui5 êh4 m2
+拉莫斯#la1 mog8 se1
+伯恩斯#bêh4 eng1 se1
+巴斯克斯#ba1 se1 kiog4 se1
+史蒂文斯#se2 di3 bhung5 se1
+霍姆斯#kag4 m2 se1
+布拉德利#bu3 la1 dêg4 li6
+毕晓普#big8 hiou2 pou2
+沃尔什#og4 re2 sib8
+纽曼#niun2 bhuêng6
+门德斯#mung5 dêg4 se1
+道森#dao6 siam1
+布莱克#bu3 lai5 kiog4
+马尔克斯#bhê2 re2 kiog4 se1
+鲍尔#bao6 re2
+黑尔#hêg4 re2
+席尔瓦#siah8 re2 ua1
+鲍恩#bao6 eng1
+福勒#hog4 lêg8
+吉布森#gig4 bu3 siam1
+辛普森#sing1 pou2 siam1
+奥尔森#o3 re2 siam1
+邓恩#dêng6 eng1
+海斯#hai2 se1
+霍夫曼#kag4 hu1 bhuêng6
+赖斯#nain6 se1
+罗伯逊#lo5 bêh4 sung3
+霍尔特#kag4 re2 dêg8
+普雷斯顿#pou2 lui5 se1 dung6
+弗莱彻#hug4 lai5 tiêg4
+巴克#ba1 kiog4
+马修斯#bhê2 siu1 se1
+布拉德福德#bu3 la1 dêg4 hog4 dêg4
+巴雷特#ba1 lui5 dêg8
+斯皮尔斯#se1 puê5 re2 se1
+迪恩#dêg8 eng1
+汉森#hang3 siam1
+索托#sog4 toh4
+弗里曼#hug4 li2 bhuêng6
+韦布#ui2 bu3
+韦尔奇#ui2 re2 ki5
+舒尔茨#su1 re2 ce5
+布思#bu3 se1
+马尔多纳多#bhê2 re2 do1 nab8 do1
+赫夫#hêh4 hu1
+博伊德#pag4 i1 dêg4
+卢纳#lu5 nab8
+迈耶#main6 ia5
+麦科伊#bhêh8 kuê1 i1
+科布#kuê1 bu3
+霍兰#kag4 lang5
+欣顿#hng1 dung6
+丹尼尔斯#dang1 nin5 re2 se1
+巴拉德#ba1 la1 dêg4
+马克斯韦尔#bhê2 kiog4 se1 ui2 re2
+波普#bo1 pou2
+德克尔#dêg4 kiog4 re2
+梅奥#bhuê5 o3
+霍恩#kag4 eng1
+格雷罗#gêh4 lui5 lo5
+麦克丹尼尔#bhêh8 kiog4 dang1 nin5 re2
+法默#huab4 mig8
+哈蒙德#hah4 mong5 dêg4
+贝茨#buê6 ce5
+奥康纳#o3 kang1 nab8
+奥尼尔#o3 nin5 re2
+奥布赖恩#o3 bu3 nain6 eng1
+迪布瓦#dêg8 bu3 ua1
+莫罗#mog8 lo5
+勒菲弗#lêg8 hui1 hug4
+贝尔纳#buê6 re2 nab8
+珀蒂#pêg4 di3
+迪蓬#dêg8 pong5
+卢梭#lu5 so1
+盖兰#gai3 lang5
+方丹#huang1 dang1
+富尼耶#bu3 nin5 ia5
+莫雷尔#mog8 lui5 re2
+吉拉尔#gig4 la1 re2
+梅西耶#bhuê5 sai1 ia5
+勒穆瓦纳#lêg8 mog8 ua1 nab8
+迪皮伊#dêg8 puê5 i1
+舍瓦利耶#sia3 ua1 li6 ia5
+佩兰#buê6 lang5
+莫兰#mog8 lang5
+鲁瓦#lu2 ua1
+布谢#bu3 sia7
+克莱芒#kiog4 lai5 mang5
+罗班#lo5 bang1
+里夏尔#li2 hê7 re2
+巴尔比耶#ba1 re2 bi2 ia5
+勒克莱尔#lêg8 kiog4 lai5 re2
+罗贝尔#lo5 buê6 re2
+马松#bhê2 song5
+帕潘#pê3 puan1
+戈捷#ko1 ziab8
+迪瓦尔#dêg8 ua1 re2
+皮卡尔#puê5 ka2 re2
+勒布朗#lêg8 bu3 lang2
+雷诺#lui5 nab8
+科兰#kuê1 lang5
+巴龙#ba1 lêng5
+马尔尚#bhê2 re2 siang6
+迪马#dêg8 bhê2
+施密特#si1 mig8 dêg8
+施耐德#si1 nain6 dêg4
+菲舍尔#hui1 sia3 re2
+韦伯#ui2 bêh4
+贝克尔#buê6 kiog4 re2
+里希特#li2 hi1 dêg8
+克莱因#kiog4 lai5 ing1
+沃尔夫#og4 re2 hu1
+施罗德#si1 lo5 dêg4
+诺伊曼#nab8 i1 bhuêng6
+施瓦茨#si1 ua1 ce5
+齐默尔曼#ci5 mig8 re2 bhuêng6
+布劳恩#bu3 lao5 eng1
+克吕格尔#kiog4 le6 gêh4 re2
+哈特曼#hah4 dêg8 bhuêng6
+瓦格纳#ua1 gêh4 nab8
+朗格#lang2 gêh4
+施米茨#si1 bhi2 ce5
+迈尔#main6 re2
+克勒#kiog4 lêg8
+赫尔曼#hêh4 re2 bhuêng6
+瓦尔特#ua1 re2 dêg8
+贝尔格#buê6 re2 gêh4
+耶格尔#ia5 gêh4 re2
+彼得斯#bi2 dig4 se1
+伯姆#bêh4 m2
+福格尔#hog4 gêh4 re2
+布施#bu3 si1
+赛德尔#sai3 dêg4 re2
+哈斯#hah4 se1
+勃兰特#buêg8 lang5 dêg8
+京特#gian1 dêg8
+凯泽#kai2 zêg8
+富克斯#bu3 kiog4 se1
+哈恩#hah4 eng1
+舒伯特#su1 bêh4 dêg8
+迪特里希#dêg8 dêg8 li2 hi1
+埃雷拉#ai1 lui5 la1
+梅迪纳#bhuê5 dêg8 nab8
+卡斯蒂略#ka2 se1 di3 liag8
+卡斯特罗#ka2 se1 dêg8 lo5
+苏亚雷斯#sou1 a1 lui5 se1
+奥尔特加#o3 re2 dêg8 gia1
+查韦斯#cê5 ui2 se1
+德尔加多#dêg4 re2 gia1 do1
+佩尼亚#buê6 nin5 a1
+卡夫雷拉#ka2 hu1 lui5 la1
+萨拉查#sag4 la1 cê5
+莫利纳#mog8 li6 nab8
+富恩特斯#bu3 eng1 dêg8 se1
+卡里略#ka2 li2 liag8
+罗梅罗#lo5 bhuê5 lo5
+多明格斯#do1 mêng5 gêh4 se1
+伊达尔戈#i1 dag8 re2 ko1
+努涅斯#non3 niab4 se1
+贝加#buê6 gia1
+安德拉德#ang1 dêg4 la1 dêg4
+纳瓦罗#nab8 ua1 lo5
+罗尔丹#lo5 re2 dang1
+塞拉诺#sai3 la1 nab8
+罗西#lo5 sai1
+比安基#bi2 ang1 gi1
+韦尔迪#ui2 re2 dêg8
+费拉里#hui3 la1 li2
+鲁索#lu2 sog4
+隆巴迪#long5 ba1 dêg8
+莫雷蒂#mog8 lui5 di3
+加利#gia1 li6
+孔蒂#kong2 di3
+德卢卡#dêg4 lu5 ka2
+科斯塔#kuê1 se1 tah4
+焦尔达诺#ziou1 re2 dag8 nab8
+罗马诺#lo5 bhê2 nab8
+格雷科#gêh4 lui5 kuê1
+布鲁尼#bu3 lu2 nin5
+巴尔别里#ba1 re2 biêg8 li2
+丰塔纳#hong1 tah4 nab8
+桑托罗#sang1 toh4 lo5
+里佐#li2 zo2
+曼奇尼#bhuêng6 ki5 nin5
+隆戈#long5 ko1
+加拉格尔#gia1 la1 gêh4 re2
+佩莱格里诺#buê6 lai5 gêh4 li2 nab8
+卡鲁索#ka2 lu2 sog4
+马里诺#bhê2 li2 nab8
+里纳尔迪#li2 nab8 re2 dêg8
+莱奥#lai5 o3
+塞拉#sai3 la1
+贝内代蒂#buê6 lai6 dai3 di3
+卡普托#ka2 pou2 toh4
+桑纳#sang1 nab8
+法里纳#huab4 li2 nab8
+梅西纳#bhuê5 sai1 nab8
+维拉#rui6 la1
+帕里西#pê3 li2 sai1
+巴西莱#ba1 sai1 lai5
+科波拉#kuê1 bo1 la1
+法布里#huab4 bu3 li2
+帕伦博#pê3 lung5 pag4
+伊万诺夫#i1 bhuêng7 nab8 hu1
+彼得罗夫#bi2 dig4 lo5 hu1
+西多罗夫#sai1 do1 lo5 hu1
+斯米尔诺夫#se1 bhi2 re2 nab8 hu1
+瓦西里耶夫#ua1 sai1 li2 ia5 hu1
+波波夫#bo1 bo1 hu1
+库兹涅佐夫#kou3 ze1 niab4 zo2 hu1
+尼古拉耶夫#nin5 gou2 la1 ia5 hu1
+米哈伊洛夫#bhi2 hah4 i1 log8 hu1
+费奥多罗夫#hui3 o3 do1 lo5 hu1
+索科洛夫#sog4 kuê1 log8 hu1
+帕夫洛夫#pê3 hu1 log8 hu1
+斯捷潘诺夫#se1 ziab8 puan1 nab8 hu1
+阿列克谢耶夫#a1 liêg8 kiog4 sia7 ia5 hu1
+莫罗佐夫#mog8 lo5 zo2 hu1
+沃尔科夫#og4 re2 kuê1 hu1
+扎伊采夫#zag4 i1 cai2 hu1
+博格达诺夫#pag4 gêh4 dag8 nab8 hu1
+沃罗比约夫#og4 lo5 bi2 iêh4 hu1
+雅科夫列夫#ngian2 kuê1 hu1 liêg8 hu1
+叶尔绍夫#hiab8 re2 siou6 hu1
+安东诺夫#ang1 dang1 nab8 hu1
+季莫费耶夫#kui3 mog8 hui3 ia5 hu1
+尼基京#nin5 gi1 gian1
+谢苗诺夫#sia7 mioun5 nab8 hu1
+科瓦廖夫#kuê1 ua1 liou7 hu1
+伊林#i1 lim5
+古谢夫#gou2 sia7 hu1
+吉洪诺夫#gig4 hong5 nab8 hu1
+谢尔巴科夫#sia7 re2 ba1 kuê1 hu1
+华盛顿#hua5 sêng6 dung6
+乔治华盛顿#kiou5 di7 hua5 sêng6 dung6
+布什#bu3 zab8
+乔治布什#kiou5 di7 bu3 zab8
+托马斯杰斐逊#toh4 bhê2 se1 giêg8 hui1 sung3
+林肯#lim5 kêng2
+亚伯拉罕林肯#a1 bêh4 la1 hang2 lim5 kêng2
+罗斯福#lo5 se1 hog4
+西奥多罗斯福#sai1 o3 do1 lo5 se1 hog4
+富兰克林罗斯福#bu3 lang5 kiog4 lim5 lo5 se1 hog4
+德怀特#dêg4 huai5 dêg8
+艾森豪威尔#ain3 siam1 hao5 ui1 re2
+德怀特艾森豪威尔#dêg4 huai5 dêg8 ain3 siam1 hao5 ui1 re2
+肯尼迪#kêng2 nin5 dêg8
+约翰肯尼迪#iêh4 hang5 kêng2 nin5 dêg8
+尼克松#nin5 kiog4 song5
+理查德尼克松#li2 cê5 dêg4 nin5 kiog4 song5
+福特#hog4 dêg8
+杰拉尔德福特#giêg8 la1 re2 dêg4 hog4 dêg8
+吉米#gig4 bhi2
+吉米卡特#gig4 bhi2 ka2 dêg8
+里根#li2 geng1
+罗纳德里根#lo5 nab8 dêg4 li2 geng1
+比尔#bi2 re2
+克林顿#kiog4 lim5 dung6
+比尔克林顿#bi2 re2 kiog4 lim5 dung6
+贝拉克#buê6 la1 kiog4
+奥巴马#o3 ba1 bhê2
+贝拉克奥巴马#buê6 la1 kiog4 o3 ba1 bhê2
+特朗普#dêg8 lang2 pou2
+唐纳德特朗普#tang5 nab8 dêg4 dêg8 lang2 pou2
+拜登#bai3 dêng1
+卡玛拉#ka2 man2 la1
+卡玛拉哈里斯#ka2 man2 la1 hah4 li2 se1
+戈尔巴乔夫#ko1 re2 ba1 kiou5 hu1
+米哈伊尔戈尔巴乔夫#bhi2 hah4 i1 re2 ko1 re2 ba1 kiou5 hu1
+叶利钦#hiab8 li6 kim1
+鲍里斯叶利钦#bao6 li2 se1 hiab8 li6 kim1
+普京#pou2 gian1
+弗拉基米尔普京#hug4 la1 gi1 bhi2 re2 pou2 gian1
+梅德韦杰夫#bhuê5 dêg4 ui2 giêg8 hu1
+德米特里梅德韦杰夫#dêg4 bhi2 dêg8 li2 bhuê5 dêg4 ui2 giêg8 hu1
+斯大林#se1 dai6 lim5
+约瑟夫斯大林#iêh4 sêg4 hu1 se1 dai6 lim5
+列宁#liêg8 lêng5
+弗拉基米尔列宁#hug4 la1 gi1 bhi2 re2 liêg8 lêng5
+勃列日涅夫#buêg8 liêg8 rig8 niab4 hu1
+列昂尼德勃列日涅夫#liêg8 ngang1 nin5 dêg4 buêg8 liêg8 rig8 niab4 hu1
+赫鲁晓夫#hêh4 lu2 hiou2 hu1
+尼基塔赫鲁晓夫#nin5 gi1 tah4 hêh4 lu2 hiou2 hu1
+温斯顿#ung1 se1 dung6
+丘吉尔#kiu1 gig4 re2
+温斯顿丘吉尔#ung1 se1 dung6 kiu1 gig4 re2
+托尼#toh4 nin5
+布莱尔#bu3 lai5 re2
+托尼布莱尔#toh4 nin5 bu3 lai5 re2
+撒切尔#sag4 ciêg4 re2
+玛格丽特撒切尔#man2 gêh4 li6 dêg8 sag4 ciêg4 re2
+戴维卡梅伦#dai3 rui6 ka2 bhuê5 lung5
+鲍里斯约翰逊#bao6 li2 se1 iêh4 hang5 sung3
+里希#li2 hi1
+苏纳克#sou1 nab8 kiog4
+里希苏纳克#li2 hi1 sou1 nab8 kiog4
+埃马纽埃尔#ai1 bhê2 niun2 ai1 re2
+马克龙#bhê2 kiog4 lêng5
+埃马纽埃尔马克龙#ai1 bhê2 niun2 ai1 re2 bhê2 kiog4 lêng5
+密特朗#mig8 dêg8 lang2
+弗朗索瓦密特朗#hug4 lang2 sog4 ua1 mig8 dêg8 lang2
+希拉克#hi1 la1 kiog4
+雅克希拉克#ngian2 kiog4 hi1 la1 kiog4
+安格拉#ang1 gêh4 la1
+默克尔#mig8 kiog4 re2
+安格拉默克尔#ang1 gêh4 la1 mig8 kiog4 re2
+朔尔茨#suag4 re2 ce5
+奥拉夫朔尔茨#o3 la1 hu1 suag4 re2 ce5
+维利#rui6 li6
+维利勃兰特#rui6 li6 buêg8 lang5 dêg8
+赫尔穆特科尔#hêh4 re2 mog8 dêg8 kuê1 re2
+西尔维奥#sai1 re2 rui6 o3
+贝卢斯科尼#buê6 lu5 se1 kuê1 nin5
+西尔维奥贝卢斯科尼#sai1 re2 rui6 o3 buê6 lu5 se1 kuê1 nin5
+马里奥#bhê2 li2 o3
+德拉吉#dêg4 la1 gig4
+马里奥德拉吉#bhê2 li2 o3 dêg4 la1 gig4
+穆希卡#mog8 hi1 ka2
+何塞穆希卡#ho5 sai3 mog8 hi1 ka2
+菲德尔#hui1 dêg4 re2
+菲德尔卡斯特罗#hui1 dêg4 re2 ka2 se1 dêg8 lo5
+乌戈#ou1 ko1
+乌戈查韦斯#ou1 ko1 cê5 ui2 se1
+萨科齐#sag4 kuê1 ci5
+尼古拉萨科齐#nin5 gou2 la1 sag4 kuê1 ci5
+金正恩#gim1 zian3 eng1
+文在寅#bhung5 zai6 ing5
+尹锡悦#ng2 siah4 ruêg8
+李明博#li2 mêng5 pag4
+朴槿惠#piou5 geng2 hui6
+福田康夫#hog4 cang5 kang1 hu1
+安倍晋三#ang1 buê6 zing3 san1
+岸田文雄#ngain6 cang5 bhung5 hiong5
+石破茂#ziêh8 pua3 mong6
+希拉里#hi1 la1 li2
+希拉里克林顿#hi1 la1 li2 kiog4 lim5 dung6
+迈克#main6 kiog4
+彭斯#pên5 se1
+迈克彭斯#main6 kiog4 pên5 se1
+佩洛西#buê6 log8 sai1
+南希佩洛西#lam5 hi1 buê6 log8 sai1
+米奇#bhi2 ki5
+麦康奈尔#bhêh8 kang1 nain6 re2
+米奇麦康奈尔#bhi2 ki5 bhêh8 kang1 nain6 re2
+克里#kiog4 li2
+约翰克里#iêh4 hang5 kiog4 li2
+布林肯#bu3 lim5 kêng2
+安东尼布林肯#ang1 dang1 nin5 bu3 lim5 kêng2
+劳埃德#lao5 ai1 dêg4
+奥斯汀#o3 se1 dêng1
+劳埃德奥斯汀#lao5 ai1 dêg4 o3 se1 dêng1
+珍妮特#diêng1 nin5 dêg8
+耶伦#ia5 lung5
+珍妮特耶伦#diêng1 nin5 dêg8 ia5 lung5
+史蒂夫#se2 di3 hu1
+乔布斯#kiou5 bu3 se1
+史蒂夫乔布斯#se2 di3 hu1 kiou5 bu3 se1
+沃兹尼亚克#og4 ze1 nin5 a1 kiog4
+史蒂夫沃兹尼亚克#se2 di3 hu1 og4 ze1 nin5 a1 kiog4
+蒂姆#di3 m2
+蒂姆库克#di3 m2 kou3 kiog4
+盖茨#gai3 ce5
+比尔盖茨#bi2 re2 gai3 ce5
+保罗艾伦#bo2 lo5 ain3 lung5
+埃隆#ai1 long5
+马斯克#bhê2 se1 kiog4
+埃隆马斯克#ai1 long5 bhê2 se1 kiog4
+扎克伯格#zag4 kiog4 bêh4 gêh4
+马克扎克伯格#bhê2 kiog4 zag4 kiog4 bêh4 gêh4
+佩奇#buê6 ki5
+拉里佩奇#la1 li2 buê6 ki5
+布林#bu3 lim5
+谢尔盖布林#sia7 re2 gai3 bu3 lim5
+杰夫#giêg8 hu1
+贝索斯#buê6 sog4 se1
+杰夫贝索斯#giêg8 hu1 buê6 sog4 se1
+贾西#gia2 sai1
+安德鲁贾西#ang1 dêg4 lu2 gia2 sai1
+萨姆#sag4 m2
+奥特曼#o3 dêg8 bhuêng6
+萨姆奥特曼#sag4 m2 o3 dêg8 bhuêng6
+阿尔特曼#a1 re2 dêg8 bhuêng6
+萨姆阿尔特曼#sag4 m2 a1 re2 dêg8 bhuêng6
+哈斯廷斯#hah4 se1 têng5 se1
+里德哈斯廷斯#li2 dêg4 hah4 se1 têng5 se1
+里德霍夫曼#li2 dêg4 kag4 hu1 bhuêng6
+彼得蒂尔#bi2 dig4 di3 re2
+马克安德森#bhê2 kiog4 ang1 dêg4 siam1
+霍洛维茨#kag4 log8 rui6 ce5
+斯皮格尔#se1 puê5 gêh4 re2
+埃文斯皮格尔#ai1 bhung5 se1 puê5 gêh4 re2
+鲍比#bao6 bi2
+鲍比墨菲#bao6 bi2 bhag8 hui1
+切斯基#ciêg4 se1 gi1
+布莱恩切斯基#bu3 lai5 eng1 ciêg4 se1 gi1
+格比亚#gêh4 bi2 a1
+布莱卡斯亚克#bu3 lai5 ka2 se1 a1 kiog4
+内森布莱卡斯亚克#lai6 siam1 bu3 lai5 ka2 se1 a1 kiog4
+埃克#ai1 kiog4
+丹尼尔埃克#dang1 nin5 re2 ai1 kiog4
+洛伦岑#log8 lung5 ngim5
+马丁洛伦岑#bhê2 dêng1 log8 lung5 ngim5
+科里森#kuê1 li2 siam1
+帕特里克科里森#pê3 dêg8 li2 kiog4 kuê1 li2 siam1
+约翰科里森#iêh4 hang5 kuê1 li2 siam1
+多西#do1 sai1
+杰克多西#giêg8 kiog4 do1 sai1
+埃文威廉姆斯#ai1 bhung5 ui1 liam5 m2 se1
+比兹#bi2 ze1
+斯通#se1 tong1
+比兹斯通#bi2 ze1 se1 tong1
+格拉斯#gêh4 la1 se1
+诺亚格拉斯#nab8 a1 gêh4 la1 se1
+凯文罗斯#kai2 bhung5 lo5 se1
+克里格#kiog4 li2 gêh4
+迈克克里格#main6 kiog4 kiog4 li2 gêh4
+西斯特罗姆#sai1 se1 dêg8 lo5 m2
+凯文西斯特罗姆#kai2 bhung5 sai1 se1 dêg8 lo5 m2
+布赖恩#bu3 nain6 eng1
+布赖恩切斯基#bu3 nain6 eng1 ciêg4 se1 gi1
+帕扎尔#pê3 zag4 re2
+马修帕扎尔#bhê2 siu1 pê3 zag4 re2
+贝萨拉#buê6 sag4 la1
+杰斯贝萨拉#giêg8 se1 buê6 sag4 la1
+伦道夫#lung5 dao6 hu1
+马克伦道夫#bhê2 kiog4 lung5 dao6 hu1
+欧德宁#ao1 dêg4 lêng5
+保罗欧德宁#bo2 lo5 ao1 dêg4 lêng5
+帕特#pê3 dêg8
+基辛格#gi1 sing1 gêh4
+帕特基辛格#pê3 dêg8 gi1 sing1 gêh4
+牛顿#ghu5 dung6
+罗伯特牛顿#lo5 bêh4 dêg8 ghu5 dung6
+戈登#ko1 dêng1
+摩尔#mon5 re2
+戈登摩尔#ko1 dêng1 mon5 re2
+诺伊斯#nab8 i1 se1
+罗伯特诺伊斯#lo5 bêh4 dêg8 nab8 i1 se1
+安迪#ang1 dêg8
+格鲁夫#gêh4 lu2 hu1
+安迪格鲁夫#ang1 dêg8 gêh4 lu2 hu1
+克里斯坦森#kiog4 li2 se1 tang2 siam1
+克莱顿克里斯坦森#kiog4 lai5 dung6 kiog4 li2 se1 tang2 siam1
+埃里克霍夫曼#ai1 li2 kiog4 kag4 hu1 bhuêng6
+迪克森#dêg8 kiog4 siam1
+克里斯迪克森#kiog4 li2 se1 dêg8 kiog4 siam1
+吉尔#gig4 re2
+塔特#tah4 dêg8
+吉尔塔特#gig4 re2 tah4 dêg8
+布希#bu3 hi1
+凯瑟琳布希#kai2 sêg4 lim5 bu3 hi1
+莱斯利#lai5 se1 li6
+莱斯利兰伯特#lai5 se1 li6 lang5 bêh4 dêg8
+维塔利克#rui6 tah4 li6 kiog4
+布特林#bu3 dêg8 lim5
+维塔利克布特林#rui6 tah4 li6 kiog4 bu3 dêg8 lim5
+班克曼#bang1 kiog4 bhuêng6
+弗里德#hug4 li2 dêg4
+萨姆班克曼弗里德#sag4 m2 bang1 kiog4 bhuêng6 hug4 li2 dêg4
+阿姆斯特朗#a1 m2 se1 dêg8 lang2
+布莱恩阿姆斯特朗#bu3 lai5 eng1 a1 m2 se1 dêg8 lang2
+弗雷德威尔逊#hug4 lui5 dêg4 ui1 re2 sung3
+杜尔#dou6 re2
+约翰杜尔#iêh4 hang5 dou6 re2
+埃里森#ai1 li2 siam1
+拉里埃里森#la1 li2 ai1 li2 siam1
+萨克斯#sag4 kiog4 se1
+大卫萨克斯#dai6 uê6 sag4 kiog4 se1
+查马斯#cê5 bhê2 se1
+帕里哈皮蒂亚#pê3 li2 hah4 puê5 di3 a1
+查马斯帕里哈皮蒂亚#cê5 bhê2 se1 pê3 li2 hah4 puê5 di3 a1
+埃里克施密特#ai1 li2 kiog4 si1 mig8 dêg8
+乔纳森施瓦茨#kiou5 nab8 siam1 si1 ua1 ce5
+梅格#bhuê5 gêh4
+惠特曼#hui6 dêg8 bhuêng6
+梅格惠特曼#bhuê5 gêh4 hui6 dêg8 bhuêng6
+玛丽莎#man2 li6 sa1
+梅耶尔#bhuê5 ia5 re2
+玛丽莎梅耶尔#man2 li6 sa1 bhuê5 ia5 re2
+沃西基#og4 sai1 gi1
+苏珊沃西基#sou1 sang1 og4 sai1 gi1
+桑达尔#sang1 dag8 re2
+皮查伊#puê5 cê5 i1
+桑达尔皮查伊#sang1 dag8 re2 puê5 cê5 i1
+特蕾西#dêg8 lui2 sai1
+格里姆斯#gêh4 li2 m2 se1
+特蕾西格里姆斯#dêg8 lui2 sai1 gêh4 li2 m2 se1
+伯纳斯#bêh4 nab8 se1
+蒂姆伯纳斯李#di3 m2 bêh4 nab8 se1 li2
+文特#bhung5 dêg8
+瑟夫#sêg4 hu1
+文特瑟夫#bhung5 dêg8 sêg4 hu1
+卡恩#ka2 eng1
+罗伯特卡恩#lo5 bêh4 dêg8 ka2 eng1
+戈登贝尔#ko1 dêng1 buê6 re2
+恩格尔巴特#eng1 gêh4 re2 ba1 dêg8
+道格拉斯恩格尔巴特#dao6 gêh4 la1 se1 eng1 gêh4 re2 ba1 dêg8
+兰普森#lang5 pou2 siam1
+巴特勒兰普森#ba1 dêg8 lêg8 lang5 pou2 siam1
+罗德尼#lo5 dêg4 nin5
+罗德尼布鲁克斯#lo5 dêg4 nin5 bu3 lu2 kiog4 se1
+斯蒂格利茨#se1 di3 gêh4 li6 ce5
+约瑟夫斯蒂格利茨#iêh4 sêg4 hu1 se1 di3 gêh4 li6 ce5
+卡尼曼#ka2 nin5 bhuêng6
+丹尼尔卡尼曼#dang1 nin5 re2 ka2 nin5 bhuêng6
+阿莫斯#a1 mog8 se1
+特沃斯基#dêg8 og4 se1 gi1
+阿莫斯特沃斯基#a1 mog8 se1 dêg8 og4 se1 gi1
+阿尔伯特#a1 re2 bêh4 dêg8
+爱因斯坦#ain3 ing1 se1 tang2
+阿尔伯特爱因斯坦#a1 re2 bêh4 dêg8 ain3 ing1 se1 tang2
+艾萨克牛顿#ain3 sag4 kiog4 ghu5 dung6
+达尔文#dag8 re2 bhung5
+查尔斯达尔文#cê5 re2 se1 dag8 re2 bhung5
+特斯拉#dêg8 se1 la1
+尼古拉特斯拉#nin5 gou2 la1 dêg8 se1 la1
+爱迪生#ain3 dêg8 sêng1
+托马斯爱迪生#toh4 bhê2 se1 ain3 dêg8 sêng1
+格拉汉姆#gêh4 la1 hang3 m2
+亚历山大格拉汉姆贝尔#a1 lêh8 suan1 dai6 gêh4 la1 hang3 m2 buê6 re2
+伽利略#gia1 li6 liag8
+伽利莱#gia1 li6 lai5
+伽利略伽利莱#gia1 li6 liag8 gia1 li6 lai5
+居里#ge1 li2
+玛丽居里#man2 li6 ge1 li2
+皮埃尔居里#puê5 ai1 re2 ge1 li2
+卢瑟福#lu5 sêg4 hog4
+欧内斯特卢瑟福#ao1 lai6 se1 dêg8 lu5 sêg4 hog4
+尼尔斯#nin5 re2 se1
+玻尔#bo1 re2
+尼尔斯玻尔#nin5 re2 se1 bo1 re2
+沃纳#og4 nab8
+海森堡#hai2 siam1 bao2
+沃纳海森堡#og4 nab8 hai2 siam1 bao2
+薛定谔#sih4 dian7 ngag8
+埃尔温薛定谔#ai1 re2 ung1 sih4 dian7 ngag8
+马克斯#bhê2 kiog4 se1
+普朗克#pou2 lang2 kiog4
+马克斯普朗克#bhê2 kiog4 se1 pou2 lang2 kiog4
+费曼#hui3 bhuêng6
+理查德费曼#li2 cê5 dêg4 hui3 bhuêng6
+霍金#kag4 gim1
+斯蒂芬霍金#se1 di3 hung1 kag4 gim1
+彭罗斯#pên5 lo5 se1
+罗杰彭罗斯#lo5 giêg8 pên5 lo5 se1
+萨根#sag4 geng1
+卡尔萨根#ka2 re2 sag4 geng1
+尼尔#nin5 re2
+德格拉斯#dêg4 gêh4 la1 se1
+泰森#tai3 siam1
+尼尔德格拉斯泰森#nin5 re2 dêg4 gêh4 la1 se1 tai3 siam1
+道金斯#dao6 gim1 se1
+理查德道金斯#li2 cê5 dêg4 dao6 gim1 se1
+史蒂芬#se2 di3 hung1
+杰伊#giêg8 i1
+古尔德#gou2 re2 dêg4
+史蒂芬杰伊古尔德#se2 di3 hung1 giêg8 i1 gou2 re2 dêg4
+古道尔#gou2 dao6 re2
+利基#li6 gi1
+路易斯利基#lou7 êg8 se1 li6 gi1
+玛丽利基#man2 li6 li6 gi1
+夏皮罗#hê7 puê5 lo5
+欧文夏皮罗#ao1 bhung5 hê7 puê5 lo5
+费米#hui3 bhi2
+恩里科费米#eng1 li2 kuê1 hui3 bhi2
+奥本海默#o3 bung2 hai2 mig8
+罗伯特奥本海默#lo5 bêh4 dêg8 o3 bung2 hai2 mig8
+爱德华泰勒#ain3 dêg4 hua5 tai3 lêg8
+诺依曼#nab8 i1 bhuêng6
+约翰冯诺依曼#iêh4 hang5 bang5 nab8 i1 bhuêng6
+图灵#tu5 lêng5
+阿兰图灵#a1 lang5 tu5 lêng5
+香农#hiang1 long5
+克劳德香农#kiog4 lao5 dêg4 hiang1 long5
+诺姆#nab8 m2
+乔姆斯基#kiou5 m2 se1 gi1
+诺姆乔姆斯基#nab8 m2 kiou5 m2 se1 gi1
+纳什#nab8 sib8
+约翰纳什#iêh4 hang5 nab8 sib8
+哥德尔#go1 dêg4 re2
+库尔特哥德尔#kou3 re2 dêg8 go1 dêg4 re2
+康托尔#kang1 toh4 re2
+格奥尔格康托尔#gêh4 o3 re2 gêh4 kang1 toh4 re2
+伯特兰#bêh4 dêg8 lang5
+罗素#lo5 su3
+伯特兰罗素#bêh4 dêg8 lang5 lo5 su3
+诺斯#nab8 se1
+怀特海#huai5 dêg8 hai2
+阿尔弗雷德诺斯怀特海#a1 re2 hug4 lui5 dêg4 nab8 se1 huai5 dêg8 hai2
+维特根斯坦#rui6 dêg8 geng1 se1 tang2
+路德维希维特根斯坦#lou7 dêg4 rui6 hi1 rui6 dêg8 geng1 se1 tang2
+海德格尔#hai2 dêg4 gêh4 re2
+马丁海德格尔#bhê2 dêng1 hai2 dêg4 gêh4 re2
+萨特#sag4 dêg8
+让保罗萨特#riang6 bo2 lo5 sag4 dêg8
+福柯#hog4 ko1
+米歇尔福柯#bhi2 hiah4 re2 hog4 ko1
+德里达#dêg4 li2 dag8
+雅克德里达#ngian2 kiog4 dêg4 li2 dag8
+哈贝马斯#hah4 buê6 bhê2 se1
+尤尔根哈贝马斯#iu5 re2 geng1 hah4 buê6 bhê2 se1
+马克思#bhê2 kiog4 se1
+卡尔马克思#ka2 re2 bhê2 kiog4 se1
+恩格斯#eng1 gêh4 se1
+弗里德里希恩格斯#hug4 li2 dêg4 li2 hi1 eng1 gêh4 se1
+马克斯韦伯#bhê2 kiog4 se1 ui2 bêh4
+涂尔干#tu5 re2 gang1
+埃米尔涂尔干#ai1 bhi2 re2 tu5 re2 gang1
+斯密#se1 mig8
+亚当斯密#a1 dang1 se1 mig8
+李嘉图#li2 gia1 tu5
+大卫李嘉图#dai6 uê6 li2 gia1 tu5
+梅纳德#bhuê5 nab8 dêg4
+凯恩斯#kai2 eng1 se1
+约翰梅纳德凯恩斯#iêh4 hang5 bhuê5 nab8 dêg4 kai2 eng1 se1
+米尔顿#bhi2 re2 dung6
+弗里德曼#hug4 li2 dêg4 bhuêng6
+米尔顿弗里德曼#bhi2 re2 dung6 hug4 li2 dêg4 bhuêng6
+哈耶克#hah4 ia5 kiog4
+弗里德里希哈耶克#hug4 li2 dêg4 li2 hi1 hah4 ia5 kiog4
+克鲁格曼#kiog4 lu2 gêh4 bhuêng6
+保罗克鲁格曼#bo2 lo5 kiog4 lu2 gêh4 bhuêng6
+皮凯蒂#puê5 kai2 di3
+托马斯皮凯蒂#toh4 bhê2 se1 puê5 kai2 di3
+克莱恩#kiog4 lai5 eng1
+娜奥米克莱恩#non5 o3 bhi2 kiog4 lai5 eng1
+马尔科姆#bhê2 re2 kuê1 m2
+格拉德威尔#gêh4 la1 dêg4 ui1 re2
+马尔科姆格拉德威尔#bhê2 re2 kuê1 m2 gêh4 la1 dêg4 ui1 re2
+乔丹彼得森#kiou5 dang1 bi2 dig4 siam1
+荣格#iong5 gêh4
+卡尔荣格#ka2 re2 iong5 gêh4
+西格蒙德#sai1 gêh4 mong5 dêg4
+西格蒙德弗洛伊德#sai1 gêh4 mong5 dêg4 hug4 log8 i1 dêg4
+阿德勒#a1 dêg4 lêg8
+阿尔弗雷德阿德勒#a1 re2 hug4 lui5 dêg4 a1 dêg4 lêg8
+卡伦#ka2 lung5
+霍妮#kag4 nin5
+卡伦霍妮#ka2 lung5 kag4 nin5
+埃里克森#ai1 li2 kiog4 siam1
+埃里克埃里克森#ai1 li2 kiog4 ai1 li2 kiog4 siam1
+皮亚杰#puê5 a1 giêg8
+列维#liêg8 rui6
+斯特劳斯#se1 dêg8 lao5 se1
+列维斯特劳斯#liêg8 rui6 se1 dêg8 lao5 se1
+克劳德列维斯特劳斯#kiog4 lao5 dêg4 liêg8 rui6 se1 dêg8 lao5 se1
+米德#bhi2 dêg4
+玛格丽特米德#man2 gêh4 li6 dêg8 bhi2 dêg4
+本尼迪克特#bung2 nin5 dêg8 kiog4 dêg8
+露丝本尼迪克特#lou7 si1 bung2 nin5 dêg8 kiog4 dêg8
+马林诺夫斯基#bhê2 lim5 nab8 hu1 se1 gi1
+布罗尼斯拉夫#bu3 lo5 nin5 se1 la1 hu1
+布罗尼斯拉夫马林诺夫斯基#bu3 lo5 nin5 se1 la1 hu1 bhê2 lim5 nab8 hu1 se1 gi1
+爱弥尔#ain3 min5 re2
+爱弥尔涂尔干#ain3 min5 re2 tu5 re2 gang1
+默顿#mig8 dung6
+罗伯特金默顿#lo5 bêh4 dêg8 gim1 mig8 dung6
+塔尔科特#tah4 re2 kuê1 dêg8
+帕森斯#pê3 siam1 se1
+塔尔科特帕森斯#tah4 re2 kuê1 dêg8 pê3 siam1 se1
+吉登斯#gig4 dêng1 se1
+安东尼吉登斯#ang1 dang1 nin5 gig4 dêng1 se1
+乌尔里希#ou1 re2 li2 hi1
+乌尔里希贝克#ou1 re2 li2 hi1 buê6 kiog4
+曼纽尔#bhuêng6 niun2 re2
+卡斯特#ka2 se1 dêg8
+曼纽尔卡斯特#bhuêng6 niun2 re2 ka2 se1 dêg8
+尤瓦尔#iu5 ua1 re2
+赫拉利#hêh4 la1 li6
+尤瓦尔赫拉利#iu5 ua1 re2 hêh4 la1 li6
+贾雷德#gia2 lui5 dêg4
+戴蒙德#dai3 mong5 dêg4
+贾雷德戴蒙德#gia2 lui5 dêg4 dai3 mong5 dêg4
+平克#pêng5 kiog4
+史蒂芬平克#se2 di3 hung1 pêng5 kiog4
+布莱恩阿瑟#bu3 lai5 eng1 a1 sêg4
+克里斯安德森#kiog4 li2 se1 ang1 dêg4 siam1
+杰弗里摩尔#giêg8 hug4 li2 mon5 re2
+科特勒#kuê1 dêg8 lêg8
+菲利普科特勒#hui1 li6 pou2 kuê1 dêg8 lêg8
+波特#bo1 dêg8
+迈克尔波特#main6 kiog4 re2 bo1 dêg8
+罗杰马丁#lo5 giêg8 bhê2 dêng1
+泰普斯科特#tai3 pou2 se1 kuê1 dêg8
+亚历克斯#a1 lêh8 kiog4 se1
+彭兰#pên5 lang5
+亚历克斯彭兰泰普斯科特#a1 lêh8 kiog4 se1 pên5 lang5 tai3 pou2 se1 kuê1 dêg8
+阿尔文#a1 re2 bhung5
+托夫勒#toh4 hu1 lêg8
+阿尔文托夫勒#a1 re2 bhung5 toh4 hu1 lêg8
+海蒂#hai2 di3
+海蒂托夫勒#hai2 di3 toh4 hu1 lêg8
+奈斯比特#nain6 se1 bi2 dêg8
+约翰奈斯比特#iêh4 hang5 nain6 se1 bi2 dêg8
+德鲁克#dêg4 lu2 kiog4
+彼得德鲁克#bi2 dig4 dêg4 lu2 kiog4
+沃伦#og4 lung5
+本尼斯#bung2 nin5 se1
+沃伦本尼斯#og4 lung5 bung2 nin5 se1
+吉姆#gig4 m2
+吉姆柯林斯#gig4 m2 ko1 lim5 se1
+詹姆斯柯林斯#ziam1 m2 se1 ko1 lim5 se1
+科特#kuê1 dêg8
+约翰科特#iêh4 hang5 kuê1 dêg8
+戈尔曼#ko1 re2 bhuêng6
+丹尼尔戈尔曼#dang1 nin5 re2 ko1 re2 bhuêng6
+圣吉#sêng3 gig4
+彼得圣吉#bi2 dig4 sêng3 gig4
+马歇尔#bhê2 hiah4 re2
+卢森堡#lu5 siam1 bao2
+马歇尔卢森堡#bhê2 hiah4 re2 lu5 siam1 bao2
+沃斯#og4 se1
+克里斯沃斯#kiog4 li2 se1 og4 se1
+西奥迪尼#sai1 o3 dêg8 nin5
+罗伯特西奥迪尼#lo5 bêh4 dêg8 sai1 o3 dêg8 nin5
+芒格#mang5 gêh4
+查理芒格#cê5 li2 mang5 gêh4
+巴菲特#ba1 hui1 dêg8
+沃伦巴菲特#og4 lung5 ba1 hui1 dêg8
+本杰明格雷厄姆#bung2 giêg8 mêng5 gêh4 lui5 êh4 m2
+费雪#hui3 soh4
+菲利普费雪#hui1 li6 pou2 hui3 soh4
+索罗斯#sog4 lo5 se1
+乔治索罗斯#kiou5 di7 sog4 lo5 se1
+达利欧#dag8 li6 ao1
+霍华德马克斯#kag4 hua5 dêg4 bhê2 kiog4 se1
+阿克曼#a1 kiog4 bhuêng6
+比尔阿克曼#bi2 re2 a1 kiog4 bhuêng6
+伊坎#i1 kam2
+卡尔伊坎#ka2 re2 i1 kam2
+泰珀#tai3 pêg4
+大卫泰珀#dai6 uê6 tai3 pêg4
+格里芬#gêh4 li2 hung1
+科恩#kuê1 eng1
+史蒂夫科恩#se2 di3 hu1 kuê1 eng1
+勒布#lêg8 bu3
+丹尼尔勒布#dang1 nin5 re2 lêg8 bu3
+保尔森#bo2 re2 siam1
+约翰保尔森#iêh4 hang5 bo2 re2 siam1
+巴里#ba1 li2
+迈克尔巴里#main6 kiog4 re2 ba1 li2
+克利夫#kiog4 li6 hu1
+阿斯尼斯#a1 se1 nin5 se1
+克利夫阿斯尼斯#kiog4 li6 hu1 a1 se1 nin5 se1
+吉姆西蒙斯#gig4 m2 sai1 mong5 se1
+索普#sog4 pou2
+爱德华索普#ain3 dêg4 hua5 sog4 pou2
+汤姆#teng1 m2
+汉克斯#hang3 kiog4 se1
+汤姆汉克斯#teng1 m2 hang3 kiog4 se1
+克鲁斯#kiog4 lu2 se1
+汤姆克鲁斯#teng1 m2 kiog4 lu2 se1
+布拉德#bu3 la1 dêg4
+皮特#puê5 dêg8
+布拉德皮特#bu3 la1 dêg4 puê5 dêg8
+迪卡普里奥#dêg8 ka2 pou2 li2 o3
+莱昂纳多迪卡普里奥#lai5 ngang1 nab8 do1 dêg8 ka2 pou2 li2 o3
+德普#dêg4 pou2
+约翰尼德普#iêh4 hang5 nin5 dêg4 pou2
+威尔#ui1 re2
+威尔史密斯#ui1 re2 se2 mig8 se1
+丹泽尔#dang1 zêg8 re2
+丹泽尔华盛顿#dang1 zêg8 re2 hua5 sêng6 dung6
+摩根弗里曼#mon5 geng1 hug4 li2 bhuêng6
+霍普金斯#kag4 pou2 gim1 se1
+安东尼霍普金斯#ang1 dang1 nin5 kag4 pou2 gim1 se1
+阿尔#a1 re2
+帕西诺#pê3 sai1 nab8
+阿尔帕西诺#a1 re2 pê3 sai1 nab8
+德尼罗#dêg4 nin5 lo5
+罗伯特德尼罗#lo5 bêh4 dêg8 dêg4 nin5 lo5
+佩西#buê6 sai1
+达斯汀#dag8 se1 dêng1
+达斯汀霍夫曼#dag8 se1 dêng1 kag4 hu1 bhuêng6
+梅丽尔#bhuê5 li6 re2
+斯特里普#se1 dêg8 li2 pou2
+梅丽尔斯特里普#bhuê5 li6 re2 se1 dêg8 li2 pou2
+茱莉亚#zu1 li6 a1
+茱莉亚罗伯茨#zu1 li6 a1 lo5 bêh4 ce5
+布洛克#bu3 log8 kiog4
+桑德拉布洛克#sang1 dêg4 la1 bu3 log8 kiog4
+妮可#nin5 ko2
+基德曼#gi1 dêg4 bhuêng6
+妮可基德曼#nin5 ko2 gi1 dêg4 bhuêng6
+查理兹#cê5 li2 ze1
+塞隆#sai3 long5
+查理兹塞隆#cê5 li2 ze1 sai3 long5
+波特曼#bo1 dêg8 bhuêng6
+娜塔莉波特曼#non5 tah4 li6 bo1 dêg8 bhuêng6
+斯嘉丽#se1 gia1 li6
+斯嘉丽约翰逊#se1 gia1 li6 iêh4 hang5 sung3
+詹妮弗#ziam1 nin5 hug4
+詹妮弗劳伦斯#ziam1 nin5 hug4 lao5 lung5 se1
+艾玛斯通#ain3 man2 se1 tong1
+沃特森#og4 dêg8 siam1
+艾玛沃特森#ain3 man2 og4 dêg8 siam1
+海瑟薇#hai2 sêg4 muin5
+安妮海瑟薇#ang1 nin5 hai2 sêg4 muin5
+安吉丽娜#ang1 gig4 li6 non5
+朱莉#zu1 li6
+安吉丽娜朱莉#ang1 gig4 li6 non5 zu1 li6
+哈莉#hah4 li6
+贝瑞#buê6 sui6
+哈莉贝瑞#hah4 li6 buê6 sui6
+凯特#kai2 dêg8
+温斯莱特#ung1 se1 lai5 dêg8
+凯特温斯莱特#kai2 dêg8 ung1 se1 lai5 dêg8
+布兰切特#bu3 lang5 ciêg4 dêg8
+凯特布兰切特#kai2 dêg8 bu3 lang5 ciêg4 dêg8
+蒂尔达#di3 re2 dag8
+斯文顿#se1 bhung5 dung6
+蒂尔达斯文顿#di3 re2 dag8 se1 bhung5 dung6
+奥黛丽#o3 dai3 li6
+赫本#hêh4 bung2
+奥黛丽赫本#o3 dai3 li6 hêh4 bung2
+玛丽莲#man2 li6 liêng5
+梦露#mang7 lou7
+玛丽莲梦露#man2 li6 liêng5 mang7 lou7
+伊丽莎白泰勒#i1 li6 sa1 bêh8 tai3 lêg8
+亨弗莱#hêng1 hug4 lai5
+鲍嘉#bao6 gia1
+亨弗莱鲍嘉#hêng1 hug4 lai5 bao6 gia1
+詹姆斯迪恩#ziam1 m2 se1 dêg8 eng1
+马龙#bhê2 lêng5
+白兰度#bêh8 lang5 dou7
+马龙白兰度#bhê2 lêng5 bêh8 lang5 dou7
+盖博#gai3 pag4
+克拉克盖博#kiog4 la1 kiog4 gai3 pag4
+格兰特#gêh4 lang5 dêg8
+加里格兰特#gia1 li2 gêh4 lang5 dêg8
+辛纳屈#sing1 nab8 kug4
+弗兰克辛纳屈#hug4 lang5 kiog4 sing1 nab8 kug4
+猫王#ngioun1 uang5
+埃尔维斯#ai1 re2 rui6 se1
+普雷斯利#pou2 lui5 se1 li6
+埃尔维斯普雷斯利#ai1 re2 rui6 se1 pou2 lui5 se1 li6
+迈克尔杰克逊#main6 kiog4 re2 giêg8 kiog4 sung3
+麦当娜#bhêh8 dang1 non5
+碧昂丝#pêg4 ngang1 si1
+斯威夫特#se1 ui1 hu1 dêg8
+泰勒斯威夫特#tai3 lêg8 se1 ui1 hu1 dêg8
+凯蒂#kai2 di3
+凯蒂佩里#kai2 di3 buê6 li2
+阿黛尔#a1 dai3 re2
+艾德#ain3 dêg4
+希兰#hi1 lang5
+艾德希兰#ain3 dêg4 hi1 lang5
+马尔斯#bhê2 re2 se1
+布鲁诺马尔斯#bu3 lu2 nab8 bhê2 re2 se1
+比伯#bi2 bêh4
+贾斯汀比伯#gia2 se1 dêng1 bi2 bêh4
+赛琳娜#sai3 lim5 non5
+赛琳娜戈麦斯#sai3 lim5 non5 ko1 bhêh8 se1
+水果姐#zui2 guê2 zê2
+蕾哈娜#lui2 hah4 non5
+爱莉安娜#ain3 li6 ang1 non5
+格兰德#gêh4 lang5 dêg4
+爱莉安娜格兰德#ain3 li6 ang1 non5 gêh4 lang5 dêg4
+比莉#bi2 li6
+艾利什#ain3 li6 sib8
+比莉艾利什#bi2 li6 ain3 li6 sib8
+诺兰#nab8 lang5
+克里斯托弗诺兰#kiog4 li2 se1 toh4 hug4 nab8 lang5
+斯皮尔伯格#se1 puê5 re2 bêh4 gêh4
+史蒂文斯皮尔伯格#se2 di3 bhung5 se1 puê5 re2 bêh4 gêh4
+斯科塞斯#se1 kuê1 sai3 se1
+马丁斯科塞斯#bhê2 dêng1 se1 kuê1 sai3 se1
+昆汀#kung1 dêng1
+塔伦蒂诺#tah4 lung5 di3 nab8
+昆汀塔伦蒂诺#kung1 dêng1 tah4 lung5 di3 nab8
+詹姆斯卡梅隆#ziam1 m2 se1 ka2 bhuê5 long5
+彼得杰克逊#bi2 dig4 giêg8 kiog4 sung3
+乔治卢卡斯#kiou5 di7 lu5 ka2 se1
+雷德利#lui5 dêg4 li6
+雷德利斯科特#lui5 dêg4 li6 se1 kuê1 dêg8
+芬奇#hung1 ki5
+大卫芬奇#dai6 uê6 hung1 ki5
+韦斯#ui2 se1
+韦斯安德森#ui2 se1 ang1 dêg4 siam1
+维伦纽瓦#rui6 lung5 niun2 ua1
+丹尼斯维伦纽瓦#dang1 nin5 se1 rui6 lung5 niun2 ua1
+奉俊昊#hong6 zung3 hao1
+朴赞郁#piou5 zang3 hiog4
+是枝裕和#si6 gi1 ru6 hua5
+宫崎骏#gêng1 ki1 zung3
+新海诚#sing1 hai2 sêng5
+基努#gi1 non3
+里维斯#li2 rui6 se1
+基努里维斯#gi1 non3 li2 rui6 se1
+乌玛#ou1 man2
+瑟曼#sêg4 bhuêng6
+乌玛瑟曼#ou1 man2 sêg4 bhuêng6
+特拉沃尔塔#dêg8 la1 og4 re2 tah4
+约翰特拉沃尔塔#iêh4 hang5 dêg8 la1 og4 re2 tah4
+塞缪尔杰克逊#sai3 niun6 re2 giêg8 kiog4 sung3
+布鲁斯#bu3 lu2 se1
+威利斯#ui1 li6 se1
+布鲁斯威利斯#bu3 lu2 se1 ui1 li6 se1
+史泰龙#se2 tai3 lêng5
+西尔维斯特史泰龙#sai1 re2 rui6 se1 dêg8 se2 tai3 lêng5
+施瓦辛格#si1 ua1 sing1 gêh4
+阿诺德施瓦辛格#a1 nab8 dêg4 si1 ua1 sing1 gêh4
+尚格#siang6 gêh4
+云顿#hung5 dung6
+尚格云顿#siang6 gêh4 hung5 dung6
+席格#siah8 gêh4
+史蒂文席格#se2 di3 bhung5 siah8 gêh4
+杜夫#dou6 hu1
+龙格尔#lêng5 gêh4 re2
+杜夫龙格尔#dou6 hu1 lêng5 gêh4 re2
+斯坦森#se1 tang2 siam1
+杰森斯坦森#giêg8 siam1 se1 tang2 siam1
+巨石强森#ge6 ziêh8 kiang5 siam1
+迪塞尔#dêg8 sai3 re2
+保罗沃克#bo2 lo5 og4 kiog4
+唐尼#tang5 nin5
+罗伯特唐尼#lo5 bêh4 dêg8 tang5 nin5
+克里斯埃文斯#kiog4 li2 se1 ai1 bhung5 se1
+海姆斯沃斯#hai2 m2 se1 og4 se1
+克里斯海姆斯沃斯#kiog4 li2 se1 hai2 m2 se1 og4 se1
+鲁法洛#lu2 huab4 log8
+马克鲁法洛#bhê2 kiog4 lu2 huab4 log8
+杰瑞米#giêg8 sui6 bhi2
+雷纳#lui5 nab8
+杰瑞米雷纳#giêg8 sui6 bhi2 lui5 nab8
+康伯巴奇#kang1 bêh4 ba1 ki5
+本尼迪克特康伯巴奇#bung2 nin5 dêg8 kiog4 dêg8 kang1 bêh4 ba1 ki5
+赫兰德#hêh4 lang5 dêg4
+汤姆赫兰德#teng1 m2 hêh4 lang5 dêg4
+扎克瑞#zag4 kiog4 sui6
+莱维#lai5 rui6
+扎克瑞莱维#zag4 kiog4 sui6 lai5 rui6
+卡维尔#ka2 rui6 re2
+亨利卡维尔#hêng1 li6 ka2 rui6 re2
+盖尔#gai3 re2
+加朵#gia1 do5
+盖尔加朵#gai3 re2 gia1 do5
+莫玛#mog8 man2
+杰森莫玛#giêg8 siam1 mog8 man2
+艾梅柏#ain3 bhuê5 bêh4
+希尔德#hi1 re2 dêg4
+艾梅柏希尔德#ain3 bhuê5 bêh4 hi1 re2 dêg4
+梅根#bhuê5 geng1
+福克斯#hog4 kiog4 se1
+梅根福克斯#bhuê5 geng1 hog4 kiog4 se1
+希亚#hi1 a1
+拉博夫#la1 pag4 hu1
+希亚拉博夫#hi1 a1 la1 pag4 hu1
+贾达#gia2 dag8
+萍克特#piê5 kiog4 dêg8
+贾达萍克特史密斯#gia2 dag8 piê5 kiog4 dêg8 se2 mig8 se1
+洛克#log8 kiog4
+克里斯洛克#kiog4 li2 se1 log8 kiog4
+迈克尔乔丹#main6 kiog4 re2 kiou5 dang1
+勒布朗詹姆斯#lêg8 bu3 lang2 ziam1 m2 se1
+科比#kuê1 bi2
+布莱恩特#bu3 lai5 eng1 dêg8
+科比布莱恩特#kuê1 bi2 bu3 lai5 eng1 dêg8
+沙奎尔#sa1 gui1 re2
+沙奎尔奥尼尔#sa1 gui1 re2 o3 nin5 re2
+邓肯#dêng6 kêng2
+蒂姆邓肯#di3 m2 dêng6 kêng2
+库里#kou3 li2
+斯蒂芬库里#se1 di3 hung1 kou3 li2
+杜兰特#dou6 lang5 dêg8
+凯文杜兰特#kai2 bhung5 dou6 lang5 dêg8
+哈登#hah4 dêng1
+詹姆斯哈登#ziam1 m2 se1 hah4 dêng1
+威斯布鲁克#ui1 se1 bu3 lu2 kiog4
+拉塞尔威斯布鲁克#la1 sai3 re2 ui1 se1 bu3 lu2 kiog4
+扬尼斯#iang5 nin5 se1
+阿德托昆博#a1 dêg4 toh4 kung1 pag4
+扬尼斯阿德托昆博#iang5 nin5 se1 a1 dêg4 toh4 kung1 pag4
+科怀#kuê1 huai5
+伦纳德#lung5 nab8 dêg4
+科怀伦纳德#kuê1 huai5 lung5 nab8 dêg4
+凯里#kai2 li2
+凯里欧文#kai2 li2 ao1 bhung5
+克里斯保罗#kiog4 li2 se1 bo2 lo5
+德克#dêg4 kiog4
+诺维茨基#nab8 rui6 ce5 gi1
+德克诺维茨基#dêg4 kiog4 nab8 rui6 ce5 gi1
+德维恩#dêg4 rui6 eng1
+韦德#ui2 dêg4
+德维恩韦德#dêg4 rui6 eng1 ui2 dêg4
+卡梅隆安东尼#ka2 bhuê5 long5 ang1 dang1 nin5
+阿伦#a1 lung5
+艾弗森#ain3 hug4 siam1
+阿伦艾弗森#a1 lung5 ain3 hug4 siam1
+魔术师约翰逊#mon5 sug8 se1 iêh4 hang5 sung3
+伯德#bêh4 dêg4
+拉里伯德#la1 li2 bêh4 dêg4
+威尔特#ui1 re2 dêg8
+张伯伦#diên1 bêh4 lung5
+威尔特张伯伦#ui1 re2 dêg8 diên1 bêh4 lung5
+卡里姆#ka2 li2 m2
+阿卜杜尔#a1 bog4 dou6 re2
+贾巴尔#gia2 ba1 re2
+卡里姆阿卜杜尔贾巴尔#ka2 li2 m2 a1 bog4 dou6 re2 gia2 ba1 re2
+哈基姆#hah4 gi1 m2
+奥拉朱旺#o3 la1 zu1 uang6
+哈基姆奥拉朱旺#hah4 gi1 m2 o3 la1 zu1 uang6
+罗宾逊#lo5 bing1 sung3
+大卫罗宾逊#dai6 uê6 lo5 bing1 sung3
+皮蓬#puê5 pong5
+斯科特皮蓬#se1 kuê1 dêg8 puê5 pong5
+罗德曼#lo5 dêg4 bhuêng6
+丹尼斯罗德曼#dang1 nin5 se1 lo5 dêg4 bhuêng6
+布雷迪#bu3 lui5 dêg8
+汤姆布雷迪#teng1 m2 bu3 lui5 dêg8
+佩顿#buê6 dung6
+曼宁#bhuêng6 lêng5
+佩顿曼宁#buê6 dung6 bhuêng6 lêng5
+梅西#bhuê5 sai1
+克里斯蒂亚诺#kiog4 li2 se1 di3 a1 nab8
+罗纳尔多#lo5 nab8 re2 do1
+克里斯蒂亚诺罗纳尔多#kiog4 li2 se1 di3 a1 nab8 lo5 nab8 re2 do1
+内马尔#lai6 bhê2 re2
+姆巴佩#m2 ba1 buê6
+凯恩#kai2 eng1
+哈里凯恩#hah4 li2 kai2 eng1
+厄林#êh4 lim5
+哈兰德#hah4 lang5 dêg4
+厄林哈兰德#êh4 lim5 hah4 lang5 dêg4
+莱万多夫斯基#lai5 bhuêng7 do1 hu1 se1 gi1
+罗伯特莱万多夫斯基#lo5 bêh4 dêg8 lai5 bhuêng7 do1 hu1 se1 gi1
+莫德里奇#mog8 dêg4 li2 ki5
+德布劳内#dêg4 bu3 lao5 lai6
+萨拉赫#sag4 la1 hêh4
+孙兴慜#seng1 hêng1 miêng2
+朴智星#piou5 di3 cên1
+中田英寿#dong1 cang5 êng1 siu7
+本田圭佑#bung2 cang5 gui1 iu6
+香川真司#hiang1 cuêng1 zing1 si1
+三笘薰#san1 diam6 hung1
+久保建英#gu2 bo2 giêng6 êng1
+麦格雷戈#bhêh8 gêh4 lui5 ko1
+康纳麦格雷戈#kang1 nab8 bhêh8 gêh4 lui5 ko1
+哈比布#hah4 bi2 bu3
+努曼格莫多夫#non3 bhuêng6 gêh4 mog8 do1 hu1
+哈比布努曼格莫多夫#hah4 bi2 bu3 non3 bhuêng6 gêh4 mog8 do1 hu1
+梅威瑟#bhuê5 ui1 sêg4
+弗洛伊德梅威瑟#hug4 log8 i1 dêg4 bhuê5 ui1 sêg4
+曼尼#bhuêng6 nin5
+帕奎奥#pê3 gui1 o3
+曼尼帕奎奥#bhuêng6 nin5 pê3 gui1 o3
+迈克泰森#main6 kiog4 tai3 siam1
+穆罕默德阿里#mog8 hang2 mig8 dêg4 a1 li2
+泰格#tai3 gêh4
+伍兹#ngoun2 ze1
+泰格伍兹#tai3 gêh4 ngoun2 ze1
+纳达尔#nab8 dag8 re2
+拉斐尔纳达尔#la1 hui1 re2 nab8 dag8 re2
+费德勒#hui3 dêg4 lêg8
+罗杰费德勒#lo5 giêg8 hui3 dêg4 lêg8
+诺瓦克#nab8 ua1 kiog4
+德约科维奇#dêg4 iêh4 kuê1 rui6 ki5
+诺瓦克德约科维奇#nab8 ua1 kiog4 dêg4 iêh4 kuê1 rui6 ki5
+穆雷#mog8 lui5
+安迪穆雷#ang1 dêg8 mog8 lui5
+大阪直美#dai6 bang2 dig8 muin2
+小威#siou2 ui1
+塞雷娜#sai3 lui5 non5
+塞雷娜威廉姆斯#sai3 lui5 non5 ui1 liam5 m2 se1
+尤塞恩#iu5 sai3 eng1
+博尔特#pag4 re2 dêg8
+尤塞恩博尔特#iu5 sai3 eng1 pag4 re2 dêg8
+卡尔刘易斯#ka2 re2 lao5 êg8 se1
+菲尔普斯#hui1 re2 pou2 se1
+迈克尔菲尔普斯#main6 kiog4 re2 hui1 re2 pou2 se1
+莱德基#lai5 dêg4 gi1
+凯蒂莱德基#kai2 di3 lai5 dêg4 gi1
+拜尔斯#bai3 re2 se1
+西蒙拜尔斯#sai1 mong5 bai3 re2 se1
+羽生结弦#u2 sêng1 gig4 hin5
+车俊焕#cia1 zung3 huêng3
+马奎斯#bhê2 gui1 se1
+马克马奎斯#bhê2 kiog4 bhê2 gui1 se1
+瓦伦蒂诺#ua1 lung5 di3 nab8
+瓦伦蒂诺罗西#ua1 lung5 di3 nab8 lo5 sai1
+刘易斯汉密尔顿#lao5 êg8 se1 hang3 mig8 re2 dung6
+维斯塔潘#rui6 se1 tah4 puan1
+马克斯维斯塔潘#bhê2 kiog4 se1 rui6 se1 tah4 puan1
+舒马赫#su1 bhê2 hêh4
+迈克尔舒马赫#main6 kiog4 re2 su1 bhê2 hêh4
+埃尔顿#ai1 re2 dung6
+塞纳#sai3 nab8
+埃尔顿塞纳#ai1 re2 dung6 sai3 nab8
+莎士比亚#sa1 se6 bi2 a1
+威廉莎士比亚#ui1 liam5 sa1 se6 bi2 a1
+狄更斯#dêg8 gêng1 se1
+查尔斯狄更斯#cê5 re2 se1 dêg8 gêng1 se1
+吐温#tou3 ung1
+马克吐温#bhê2 kiog4 tou3 ung1
+海明威#hai2 mêng5 ui1
+欧内斯特海明威#ao1 lai6 se1 dêg8 hai2 mêng5 ui1
+菲茨杰拉德#hui1 ce5 giêg8 la1 dêg4
+斯科特菲茨杰拉德#se1 kuê1 dêg8 hui1 ce5 giêg8 la1 dêg4
+奥威尔#o3 ui1 re2
+乔治奥威尔#kiou5 di7 o3 ui1 re2
+奥尔德斯#o3 re2 dêg4 se1
+赫胥黎#hêh4 su1 li5
+奥尔德斯赫胥黎#o3 re2 dêg4 se1 hêh4 su1 li5
+塞林格#sai3 lim5 gêh4
+凯鲁亚克#kai2 lu2 a1 kiog4
+杰克凯鲁亚克#giêg8 kiog4 kai2 lu2 a1 kiog4
+金斯堡#gim1 se1 bao2
+艾伦金斯堡#ain3 lung5 gim1 se1 bao2
+巴勒斯#ba1 lêg8 se1
+威廉巴勒斯#ui1 liam5 ba1 lêg8 se1
+亨特汤普森#hêng1 dêg8 teng1 pou2 siam1
+罗琳#lo5 lim5
+乔治马丁#kiou5 di7 bhê2 dêng1
+托尔金#toh4 re2 gim1
+柯艾略#ko1 ain3 liag8
+保罗柯艾略#bo2 lo5 ko1 ain3 liag8
+村上春树#ceng1 ziên7 cung1 ciu7
+石黑一雄#ziêh8 hêg4 ig4 hiong5
+吉本芭娜娜#gig4 bung2 ba1 non5 non5
+大江健三郎#dai6 gang1 giêng6 san1 lang5
+三岛由纪夫#san1 dao2 iu5 gi2 hu1
+芥川龙之介#gai3 cuêng1 lêng5 ze1 gai3
+太宰治#tai3 zai2 di7
+夏目漱石#hê7 mag8 suag4 ziêh8
+陀思妥耶夫斯基#to5 se1 to2 ia5 hu1 se1 gi1
+托尔斯泰#toh4 re2 se1 tai3
+列夫托尔斯泰#liêg8 hu1 toh4 re2 se1 tai3
+安东#ang1 dang1
+契诃夫#ki3 ho1 hu1
+安东契诃夫#ang1 dang1 ki3 ho1 hu1
+尼古莱#nin5 gou2 lai5
+果戈理#guê2 ko1 li2
+尼古莱果戈理#nin5 gou2 lai5 guê2 ko1 li2
+卡夫卡#ka2 hu1 ka2
+弗朗茨卡夫卡#hug4 lang2 ce5 ka2 hu1 ka2
+黑塞#hêg4 sai3
+赫尔曼黑塞#hêh4 re2 bhuêng6 hêg4 sai3
+歌德#go1 dêg4
+席勒#siah8 lêg8
+弗里德里希席勒#hug4 li2 dêg4 li2 hi1 siah8 lêg8
+维克多#rui6 kiog4 do1
+维克多雨果#rui6 kiog4 do1 u2 guê2
+大仲马#dai6 dong6 bhê2
+奥诺雷#o3 nab8 lui5
+巴尔扎克#ba1 re2 zag4 kiog4
+奥诺雷德巴尔扎克#o3 nab8 lui5 dêg4 ba1 re2 zag4 kiog4
+司汤达#si1 teng1 dag8
+居斯塔夫#ge1 se1 tah4 hu1
+福楼拜#hog4 lao5 bai3
+居斯塔夫福楼拜#ge1 se1 tah4 hu1 hog4 lao5 bai3
+普鲁斯特#pou2 lu2 se1 dêg8
+马塞尔普鲁斯特#bhê2 sai3 re2 pou2 lu2 se1 dêg8
+阿尔贝#a1 re2 buê6
+加缪#gia1 niun6
+阿尔贝加缪#a1 re2 buê6 gia1 niun6
+西蒙娜#sai1 mong5 non5
+波伏娃#bo1 hog8 ua1
+西蒙娜德波伏娃#sai1 mong5 non5 dêg4 bo1 hog8 ua1
+左拉#zo2 la1
+埃米尔左拉#ai1 bhi2 re2 zo2 la1
+居伊#ge1 i1
+莫泊桑#mog8 boh4 sang1
+居伊德莫泊桑#ge1 i1 dêg4 mog8 boh4 sang1
+儒勒#ru5 lêg8
+凡尔纳#huam5 re2 nab8
+儒勒凡尔纳#ru5 lêg8 huam5 re2 nab8
+萨德侯爵#sag4 dêg4 hou5 ziag4
+伏尔泰#hog8 re2 tai3
+让雅克卢梭#riang6 ngian2 kiog4 lu5 so1
+孟德斯鸠#mêng6 dêg4 se1 kiu1
+蒙田#mong5 cang5
+米歇尔德蒙田#bhi2 hiah4 re2 dêg4 mong5 cang5
+但丁#dang6 dêng1
+阿利吉耶里#a1 li6 gig4 ia5 li2
+但丁阿利吉耶里#dang6 dêng1 a1 li6 gig4 ia5 li2
+乔万尼#kiou5 bhuêng7 nin5
+薄伽丘#boh8 gia1 kiu1
+乔万尼薄伽丘#kiou5 bhuêng7 nin5 boh8 gia1 kiu1
+彼得拉克#bi2 dig4 la1 kiog4
+华兹华斯#hua5 ze1 hua5 se1
+威廉华兹华斯#ui1 liam5 hua5 ze1 hua5 se1
+拜伦勋爵#bai3 lung5 hng1 ziag4
+珀西#pêg4 sai1
+比希#bi2 hi1
+雪莱#soh4 lai5
+珀西比希雪莱#pêg4 sai1 bi2 hi1 soh4 lai5
+济慈#zi3 ce5
+约翰济慈#iêh4 hang5 zi3 ce5
+罗伯特彭斯#lo5 bêh4 dêg8 pên5 se1
+威廉布莱克#ui1 liam5 bu3 lai5 kiog4
+埃兹拉#ai1 ze1 la1
+庞德#pang5 dêg4
+埃兹拉庞德#ai1 ze1 la1 pang5 dêg4
+叶芝#hiab8 ze1
+乔伊斯#kiou5 i1 se1
+詹姆斯乔伊斯#ziam1 m2 se1 kiou5 i1 se1
+伍尔夫#ngoun2 re2 hu1
+弗吉尼亚伍尔夫#hug4 gig4 nin5 a1 ngoun2 re2 hu1
+乔治艾略特#kiou5 di7 ain3 liag8 dêg8
+夏洛蒂#hê7 log8 di3
+勃朗特#buêg8 lang2 dêg8
+夏洛蒂勃朗特#hê7 log8 di3 buêg8 lang2 dêg8
+艾米莉#ain3 bhi2 li6
+艾米莉勃朗特#ain3 bhi2 li6 buêg8 lang2 dêg8
+安妮勃朗特#ang1 nin5 buêg8 lang2 dêg8
+哈代#hah4 dai3
+托马斯哈代#toh4 bhê2 se1 hah4 dai3
+王尔德#uang5 re2 dêg4
+奥斯卡王尔德#o3 se1 ka2 uang5 re2 dêg4
+柯南#ko1 lam5
+道尔#dao6 re2
+阿瑟柯南道尔#a1 sêg4 ko1 lam5 dao6 re2
+阿加莎#a1 gia1 sa1
+克里斯蒂#kiog4 li2 se1 di3
+阿加莎克里斯蒂#a1 gia1 sa1 kiog4 li2 se1 di3
+弗莱明#hug4 lai5 mêng5
+伊恩弗莱明#i1 eng1 hug4 lai5 mêng5
+威尔斯#ui1 re2 se1
+萧伯纳#siou1 bêh4 nab8
+贝克特#buê6 kiog4 dêg8
+塞缪尔贝克特#sai3 niun6 re2 buê6 kiog4 dêg8
+品特#bing2 dêg8
+哈罗德品特#hah4 lo5 dêg4 bing2 dêg8
+阿瑟米勒#a1 sêg4 bhi2 lêg8
+田纳西#cang5 nab8 sai1
+威廉斯#ui1 liam5 se1
+田纳西威廉斯#cang5 nab8 sai1 ui1 liam5 se1
+尤金奥尼尔#iu5 gim1 o3 nin5 re2
+奥古斯特#o3 gou2 se1 dêg8
+波瓦尔#bo1 ua1 re2
+奥古斯特波瓦尔#o3 gou2 se1 dêg8 bo1 ua1 re2
+布莱希特#bu3 lai5 hi1 dêg8
+贝托尔特布莱希特#buê6 toh4 re2 dêg8 bu3 lai5 hi1 dêg8
+高尔基#go1 re2 gi1
+马克西姆高尔基#bhê2 kiog4 sai1 m2 go1 re2 gi1
+布尔加科夫#bu3 re2 gia1 kuê1 hu1
+米哈伊尔布尔加科夫#bhi2 hah4 i1 re2 bu3 re2 gia1 kuê1 hu1
+帕斯捷尔纳克#pê3 se1 ziab8 re2 nab8 kiog4
+鲍里斯帕斯捷尔纳克#bao6 li2 se1 pê3 se1 ziab8 re2 nab8 kiog4
+索尔仁尼琴#sog4 re2 ring5 nin5 kim5
+亚历山大索尔仁尼琴#a1 lêh8 suan1 dai6 sog4 re2 ring5 nin5 kim5
+纳博科夫#nab8 pag4 kuê1 hu1
+弗拉基米尔纳博科夫#hug4 la1 gi1 bhi2 re2 nab8 pag4 kuê1 hu1
+布罗茨基#bu3 lo5 ce5 gi1
+约瑟夫布罗茨基#iêh4 sêg4 hu1 bu3 lo5 ce5 gi1
+切斯瓦夫#ciêg4 se1 ua1 hu1
+米沃什#bhi2 og4 sib8
+切斯瓦夫米沃什#ciêg4 se1 ua1 hu1 bhi2 og4 sib8
+维斯瓦娃#rui6 se1 ua1 ua1
+辛波斯卡#sing1 bo1 se1 ka2
+维斯瓦娃辛波斯卡#rui6 se1 ua1 ua1 sing1 bo1 se1 ka2
+聂鲁达#niab4 lu2 dag8
+巴勃罗聂鲁达#ba1 buêg8 lo5 niab4 lu2 dag8
+加西亚马尔克斯#gia1 sai1 a1 bhê2 re2 kiog4 se1
+巴尔加斯#ba1 re2 gia1 se1
+略萨#liag8 sag4
+巴尔加斯略萨#ba1 re2 gia1 se1 liag8 sag4
+博尔赫斯#pag4 re2 hêh4 se1
+豪尔赫路易斯博尔赫斯#hao5 re2 hêh4 lou7 êg8 se1 pag4 re2 hêh4 se1
+胡利奥#hu5 li6 o3
+科塔萨尔#kuê1 tah4 sag4 re2
+胡利奥科塔萨尔#hu5 li6 o3 kuê1 tah4 sag4 re2
+伊莎贝尔#i1 sa1 buê6 re2
+阿连德#a1 liêng5 dêg4
+伊莎贝尔阿连德#i1 sa1 buê6 re2 a1 liêng5 dêg4
+卡波特#ka2 bo1 dêg8
+杜鲁门卡波特#dou6 lu2 mung5 ka2 bo1 dêg8
+伦敦#lung5 dung1
+杰克伦敦#giêg8 kiog4 lung5 dung1
+冯内古特#bang5 lai6 gou2 dêg8
+库尔特冯内古特#kou3 re2 dêg8 bang5 lai6 gou2 dêg8
+海勒#hai2 lêg8
+约瑟夫海勒#iêh4 sêg4 hu1 hai2 lêg8
+品钦#bing2 kim1
+托马斯品钦#toh4 bhê2 se1 bing2 kim1
+德里罗#dêg4 li2 lo5
+科马克#kuê1 bhê2 kiog4
+麦卡锡#bhêh8 ka2 siah4
+科马克麦卡锡#kuê1 bhê2 kiog4 bhêh8 ka2 siah4
+菲利普罗斯#hui1 li6 pou2 lo5 se1
+索尔#sog4 re2
+贝娄#buê6 lou5
+索尔贝娄#sog4 re2 buê6 lou5
+厄普代克#êh4 pou2 dai3 kiog4
+约翰厄普代克#iêh4 hang5 êh4 pou2 dai3 kiog4
+普鲁#pou2 lu2
+安妮普鲁#ang1 nin5 pou2 lu2
+托妮#toh4 nin5
+莫里森#mog8 li2 siam1
+托妮莫里森#toh4 nin5 mog8 li2 siam1
+艾丽斯#ain3 li6 se1
+艾丽斯沃克#ain3 li6 se1 og4 kiog4
+奥克塔维娅#o3 kiog4 tah4 rui6 a1
+奥克塔维娅巴特勒#o3 kiog4 tah4 rui6 a1 ba1 dêg8 lêg8
+厄休拉#êh4 hiun1 la1
+勒古恩#lêg8 gou2 eng1
+厄休拉勒古恩#êh4 hiun1 la1 lêg8 gou2 eng1
+赫伯特#hêh4 bêh4 dêg8
+弗兰克赫伯特#hug4 lang5 kiog4 hêh4 bêh4 dêg8
+阿西莫夫#a1 sai1 mog8 hu1
+艾萨克阿西莫夫#ain3 sag4 kiog4 a1 sai1 mog8 hu1
+阿瑟克拉克#a1 sêg4 kiog4 la1 kiog4
+海因莱因#hai2 ing1 lai5 ing1
+罗伯特海因莱因#lo5 bêh4 dêg8 hai2 ing1 lai5 ing1
+迪克#dêg8 kiog4
+菲利普迪克#hui1 li6 pou2 dêg8 kiog4
+威廉吉布森#ui1 liam5 gig4 bu3 siam1
+斯蒂芬森#se1 di3 hung1 siam1
+尼尔斯蒂芬森#nin5 re2 se1 di3 hung1 siam1
+斯坦利#se1 tang2 li6
+金斯坦利罗宾逊#gim1 se1 tang2 li6 lo5 bing1 sung3
+安迪威尔#ang1 dêg8 ui1 re2
+克劳奇#kiog4 lao5 ki5
+布莱克克劳奇#bu3 lai5 kiog4 kiog4 lao5 ki5
+欧内斯特克莱恩#ao1 lai6 se1 dêg8 kiog4 lai5 eng1
+格罗斯曼#gêh4 lo5 se1 bhuêng6
+列夫格罗斯曼#liêg8 hu1 gêh4 lo5 se1 bhuêng6
+罗斯福斯#lo5 se1 hog4 se1
+帕特里克罗斯福斯#pê3 dêg8 li2 kiog4 lo5 se1 hog4 se1
+布兰登#bu3 lang5 dêng1
+桑德森#sang1 dêg4 siam1
+布兰登桑德森#bu3 lang5 dêng1 sang1 dêg4 siam1
+罗伯特乔丹#lo5 bêh4 dêg8 kiou5 dang1
+卡佛#ka2 hug8
+雷蒙德卡佛#lui5 mong5 dêg4 ka2 hug8
+契弗#ki3 hug4
+约翰契弗#iêh4 hang5 ki3 hug4
+弗兰纳里#hug4 lang5 nab8 li2
+弗兰纳里奥康纳#hug4 lang5 nab8 li2 o3 kang1 nab8
+尤多拉#iu5 do1 la1
+韦尔蒂#ui2 re2 di3
+尤多拉韦尔蒂#iu5 do1 la1 ui2 re2 di3
+裘帕#kiu5 pê3
+拉希莉#la1 hi1 li6
+裘帕拉希莉#kiu5 pê3 la1 hi1 li6
+扎迪#zag4 dêg8
+扎迪史密斯#zag4 dêg8 se2 mig8 se1
+维勒贝克#rui6 lêg8 buê6 kiog4
+米歇尔维勒贝克#bhi2 hiah4 re2 rui6 lêg8 buê6 kiog4
+奥韦#o3 ui2
+克瑙斯高#kiog4 naon2 se1 gao1
+卡尔奥韦克瑙斯高#ka2 re2 o3 ui2 kiog4 naon2 se1 gao1
+埃莱娜#ai1 lai5 non5
+费兰特#hui3 lang5 dêg8
+埃莱娜费兰特#ai1 lai5 non5 hui3 lang5 dêg8
+尼采#nin5 cai2
+弗里德里希尼采#hug4 li2 dêg4 li2 hi1 nin5 cai2
+伊曼努尔#i1 bhuêng6 non3 re2
+康德#kang1 dêg4
+伊曼努尔康德#i1 bhuêng6 non3 re2 kang1 dêg4
+黑格尔#hêg4 gêh4 re2
+格奥尔格威廉弗里德里希黑格尔#gêh4 o3 re2 gêh4 ui1 liam5 hug4 li2 dêg4 li2 hi1 hêg4 gêh4 re2
+叔本华#sog4 bung2 hua5
+阿图尔叔本华#a1 tu5 re2 sog4 bung2 hua5
+休谟#hiun1 mog8
+大卫休谟#dai6 uê6 hiun1 mog8
+约翰洛克#iêh4 hang5 log8 kiog4
+霍布斯#kag4 bu3 se1
+托马斯霍布斯#toh4 bhê2 se1 kag4 bu3 se1
+巴鲁赫#ba1 lu2 hêh4
+斯宾诺莎#se1 bing1 nab8 sa1
+巴鲁赫斯宾诺莎#ba1 lu2 hêh4 se1 bing1 nab8 sa1
+笛卡尔#dêg8 ka2 re2
+勒内笛卡尔#lêg8 lai6 dêg8 ka2 re2
+戈特弗里德#ko1 dêg8 hug4 li2 dêg4
+莱布尼茨#lai5 bu3 nin5 ce5
+戈特弗里德威廉莱布尼茨#ko1 dêg8 hug4 li2 dêg4 ui1 liam5 lai5 bu3 nin5 ce5
+弗朗西斯#hug4 lang2 sai1 se1
+培根#buê5 geng1
+弗朗西斯培根#hug4 lang2 sai1 se1 buê5 geng1
+尼可罗#nin5 ko2 lo5
+马基雅维利#bhê2 gi1 ngian2 rui6 li6
+尼可罗马基雅维利#nin5 ko2 lo5 bhê2 gi1 ngian2 rui6 li6
+密尔#mig8 re2
+约翰斯图尔特密尔#iêh4 hang5 se1 tu5 re2 dêg8 mig8 re2
+边沁#biêng1 cim3
+杰里米边沁#giêg8 li2 bhi2 biêng1 cim3
+维果茨基#rui6 guê2 ce5 gi1
+列夫维果茨基#liêg8 hu1 rui6 guê2 ce5 gi1
+斯金纳#se1 gim1 nab8
+巴甫洛夫#ba1 pou2 log8 hu1
+伊万巴甫洛夫#i1 bhuêng7 ba1 pou2 log8 hu1
+华生#hua5 sêng1
+约翰华生#iêh4 hang5 hua5 sêng1
+费尔迪南#hui3 re2 dêg8 lam5
+索绪尔#sog4 su2 re2
+费尔迪南德索绪尔#hui3 re2 dêg8 lam5 dêg4 sog4 su2 re2
+雅各布森#ngian2 gag4 bu3 siam1
+罗曼雅各布森#lo5 bhuêng6 ngian2 gag4 bu3 siam1
+巴特#ba1 dêg8
+罗兰巴特#lo5 lang5 ba1 dêg8
+德勒兹#dêg4 lêg8 ze1
+吉尔德勒兹#gig4 re2 dêg4 lêg8 ze1
+加塔利#gia1 tah4 li6
+费利克斯加塔利#hui3 li6 kiog4 se1 gia1 tah4 li6
+鲍德里亚#bao6 dêg4 li2 a1
+布迪厄#bu3 dêg8 êh4
+皮埃尔布迪厄#puê5 ai1 re2 bu3 dêg8 êh4
+齐格蒙特#ci5 gêh4 mong5 dêg8
+鲍曼#bao6 bhuêng6
+齐格蒙特鲍曼#ci5 gêh4 mong5 dêg8 bao6 bhuêng6
+斯拉沃热#se1 la1 og4 riêg8
+齐泽克#ci5 zêg8 kiog4
+斯拉沃热齐泽克#se1 la1 og4 riêg8 ci5 zêg8 kiog4
+朱迪斯#zu1 dêg8 se1
+朱迪斯巴特勒#zu1 dêg8 se1 ba1 dêg8 lêg8
+胡克斯#hu5 kiog4 se1
+贝尔胡克斯#buê6 re2 hu5 kiog4 se1
+弗里丹#hug4 li2 dang1
+贝蒂弗里丹#buê6 di3 hug4 li2 dang1
+格洛丽亚#gêh4 log8 li6 a1
+斯泰纳姆#se1 tai3 nab8 m2
+格洛丽亚斯泰纳姆#gêh4 log8 li6 a1 se1 tai3 nab8 m2
+马拉拉#bhê2 la1 la1
+优素福扎伊#iu1 su3 hog4 zag4 i1
+马拉拉优素福扎伊#bhê2 la1 la1 iu1 su3 hog4 zag4 i1
+罗莎#lo5 sa1
+帕克斯#pê3 kiog4 se1
+罗莎帕克斯#lo5 sa1 pê3 kiog4 se1
+路德#lou7 dêg4
+马丁路德金#bhê2 dêng1 lou7 dêg4 gim1
+曼德拉#bhuêng6 dêg4 la1
+纳尔逊曼德拉#nab8 re2 sung3 bhuêng6 dêg4 la1
+德斯蒙德#dêg4 se1 mong5 dêg4
+图图#tu5 tu5
+德斯蒙德图图#dêg4 se1 mong5 dêg4 tu5 tu5
+圣雄甘地#sêng3 hiong5 gam1 di7
+达赖喇嘛#dag8 nain6 la1 man7
+特蕾莎修女#dêg8 lui2 sa1 siu1 neng2
+教皇方济各#ga3 huang5 huang1 zi3 gag4
+教皇约翰#ga3 huang5 iêh4 hang5
+保罗二世#bo2 lo5 ri6 si3
+教皇约翰保罗二世#ga3 huang5 iêh4 hang5 bo2 lo5 ri6 si3
+马丁路德#bhê2 dêng1 lou7 dêg4
+加尔文#gia1 re2 bhung5
+约翰加尔文#iêh4 hang5 gia1 re2 bhung5
+德尼#dêg4 nin5
+狄德罗#dêg8 dêg4 lo5
+德尼狄德罗#dêg4 nin5 dêg8 dêg4 lo5
+罗尔斯#lo5 re2 se1
+约翰罗尔斯#iêh4 hang5 lo5 re2 se1
+诺齐克#nab8 ci5 kiog4
+罗伯特诺齐克#lo5 bêh4 dêg8 nab8 ci5 kiog4
+阿拉斯代尔#a1 la1 se1 dai3 re2
+麦金太尔#bhêh8 gim1 tai3 re2
+阿拉斯代尔麦金太尔#a1 la1 se1 dai3 re2 bhêh8 gim1 tai3 re2
+努斯鲍姆#non3 se1 bao6 m2
+玛莎努斯鲍姆#man2 sa1 non3 se1 bao6 m2
+辛格#sing1 gêh4
+彼得辛格#bi2 dig4 sing1 gêh4
+弗格森#hug4 gêh4 siam1
+尼尔弗格森#nin5 re2 hug4 gêh4 siam1
+福山#hog4 suan1
+弗朗西斯福山#hug4 lang2 sai1 se1 hog4 suan1
+亨廷顿#hêng1 têng5 dung6
+塞缪尔亨廷顿#sai3 niun6 re2 hêng1 têng5 dung6
+兹比格涅夫#ze1 bi2 gêh4 niab4 hu1
+布热津斯基#bu3 riêg8 zing1 se1 gi1
+兹比格涅夫布热津斯基#ze1 bi2 gêh4 niab4 hu1 bu3 riêg8 zing1 se1 gi1
+亨利基辛格#hêng1 li6 gi1 sing1 gêh4
+凯南#kai2 lam5
+乔治凯南#kiou5 di7 kai2 lam5
+米尔斯海默#bhi2 re2 se1 hai2 mig8
+约翰米尔斯海默#iêh4 hang5 bhi2 re2 se1 hai2 mig8
+卡根#ka2 geng1
+罗伯特卡根#lo5 bêh4 dêg8 ka2 geng1
+阿普尔鲍姆#a1 pou2 re2 bao6 m2
+安妮阿普尔鲍姆#ang1 nin5 a1 pou2 re2 bao6 m2
+斯奈德#se1 nain6 dêg4
+蒂莫西斯奈德#di3 mog8 sai1 se1 nain6 dêg4
+弗兰科潘#hug4 lang5 kuê1 puan1
+彼得弗兰科潘#bi2 dig4 hug4 lang5 kuê1 puan1
+麦克米伦#bhêh8 kiog4 bhi2 lung5
+玛格丽特麦克米伦#man2 gêh4 li6 dêg8 bhêh8 kiog4 bhi2 lung5
+比弗#bi2 hug4
+安东尼比弗#ang1 dang1 nin5 bi2 hug4
+黑斯廷斯#hêg4 se1 têng5 se1
+马克斯黑斯廷斯#bhê2 kiog4 se1 hêg4 se1 têng5 se1
+安德鲁罗伯茨#ang1 dêg4 lu2 lo5 bêh4 ce5
+拉森#la1 siam1
+埃里克拉森#ai1 li2 kiog4 la1 siam1
+劳伦#lao5 lung5
+格罗夫#gêh4 lo5 hu1
+劳伦格罗夫#lao5 lung5 gêh4 lo5 hu1
+唐娜塔特#tang5 non5 tah4 dêg8
+玛德琳#man2 dêg4 lim5
+玛德琳米勒#man2 dêg4 lim5 bhi2 lêg8
+施瓦布#si1 ua1 bu3
+巴杜戈#ba1 dou6 ko1
+马阿斯#bhê2 a1 se1
+萨拉马阿斯#sag4 la1 bhê2 a1 se1
+亚罗斯#a1 lo5 se1
+丽贝卡亚罗斯#li6 buê6 ka2 a1 lo5 se1
+艾米莉亨利#ain3 bhi2 li6 hêng1 li6
+阿莉#a1 li6
+黑兹尔伍德#hêg4 ze1 re2 ngoun2 dêg4
+阿莉黑兹尔伍德#a1 li6 hêg4 ze1 re2 ngoun2 dêg4
+科琳#kuê1 lim5
+胡佛#hu5 hug8
+科琳胡佛#kuê1 lim5 hu5 hug8
+斯蒂芬妮迈耶#se1 di3 hung1 nin5 main6 ia5
+苏珊柯林斯#sou1 sang1 ko1 lim5 se1
+哈利#hah4 li6
+哈利波特#hah4 li6 bo1 dêg8
+卡列尼娜#ka2 liêg8 nin5 non5
+安娜卡列尼娜#ang1 non5 ka2 liêg8 nin5 non5
+屠格涅夫#dou5 gêh4 niab4 hu1
+伊凡屠格涅夫#i1 huam5 dou5 gêh4 niab4 hu1
+奥克塔维奥#o3 kiog4 tah4 rui6 o3
+帕斯#pê3 se1
+奥克塔维奥帕斯#o3 kiog4 tah4 rui6 o3 pê3 se1
+埃科#ai1 kuê1
+翁贝托埃科#ong1 buê6 toh4 ai1 kuê1
+伊塔洛#i1 tah4 log8
+卡尔维诺#ka2 re2 rui6 nab8
+伊塔洛卡尔维诺#i1 tah4 log8 ka2 re2 rui6 nab8
+普里莫#pou2 li2 mog8
+普里莫莱维#pou2 li2 mog8 lai5 rui6
+吉奥乔#gig4 o3 kiou5
+阿甘本#a1 gam1 bung2
+吉奥乔阿甘本#gig4 o3 kiou5 a1 gam1 bung2
+汉娜#hang3 non5
+阿伦特#a1 lung5 dêg8
+汉娜阿伦特#hang3 non5 a1 lung5 dêg8
+本雅明#bung2 ngian2 mêng5
+瓦尔特本雅明#ua1 re2 dêg8 bung2 ngian2 mêng5
+狄奥多#dêg8 o3 do1
+阿多诺#a1 do1 nab8
+狄奥多阿多诺#dêg8 o3 do1 a1 do1 nab8
+霍克海默#kag4 kiog4 hai2 mig8
+马克斯霍克海默#bhê2 kiog4 se1 kag4 kiog4 hai2 mig8
+马尔库塞#bhê2 re2 kou3 sai3
+赫伯特马尔库塞#hêh4 bêh4 dêg8 bhê2 re2 kou3 sai3
+布洛赫#bu3 log8 hêh4
+恩斯特布洛赫#eng1 se1 dêg8 bu3 log8 hêh4
+卢卡奇#lu5 ka2 ki5
+格奥尔格卢卡奇#gêh4 o3 re2 gêh4 lu5 ka2 ki5
+葛兰西#guah4 lang5 sai1
+安东尼奥葛兰西#ang1 dang1 nin5 o3 guah4 lang5 sai1
+阿尔都塞#a1 re2 dou1 sai3
+路易阿尔都塞#lou7 êg8 a1 re2 dou1 sai3
+娜奥米沃尔夫#non5 o3 bhi2 og4 re2 hu1
+桑塔格#sang1 tah4 gêh4
+苏珊桑塔格#sou1 sang1 sang1 tah4 gêh4
+莱考夫#lai5 kao2 hu1
+乔治莱考夫#kiou5 di7 lai5 kao2 hu1
+马克约翰逊#bhê2 kiog4 iêh4 hang5 sung3
+塞勒#sai3 lêg8
+理查德塞勒#li2 cê5 dêg4 sai3 lêg8
+卡斯#ka2 se1
+桑斯坦#sang1 se1 tang2
+卡斯桑斯坦#ka2 se1 sang1 se1 tang2
+萨波斯基#sag4 bo1 se1 gi1
+罗伯特萨波斯基#lo5 bêh4 dêg8 sag4 bo1 se1 gi1
+列维特#liêg8 rui6 dêg8
+史蒂芬列维特#se2 di3 hung1 liêg8 rui6 dêg8
+都伯纳#dou1 bêh4 nab8
+史蒂芬都伯纳#se2 di3 hung1 dou1 bêh4 nab8
+伯里#bêh4 li2
+纳西姆#nab8 sai1 m2
+塔勒布#tah4 lêg8 bu3
+纳西姆尼古拉斯塔勒布#nab8 sai1 m2 nin5 gou2 la1 se1 tah4 lêg8 bu3
+艾瑞里#ain3 sui6 li2
+史蒂文约翰逊#se2 di3 bhung5 iêh4 hang5 sung3
+塔夫特#tah4 hu1 dêg8
+爱德华塔夫特#ain3 dêg4 hua5 tah4 hu1 dêg8
+菲尤#hui1 iu5
+斯蒂芬菲尤#se1 di3 hung1 hui1 iu5
+纳森#nab8 siam1
+开罗#kai1 lo5
+阿尔贝托开罗#a1 re2 buê6 toh4 kai1 lo5
+卢皮#lu5 puê5
+乔治娅卢皮#kiou5 di7 a1 lu5 puê5
+莫娜#mog8 non5
+查拉比#cê5 la1 bi2
+莫娜查拉比#mog8 non5 cê5 la1 bi2
+麦克坎德莱斯#bhêh8 kiog4 kam2 dêg4 lai5 se1
+大卫麦克坎德莱斯#dai6 uê6 bhêh8 kiog4 kam2 dêg4 lai5 se1
+罗斯林#lo5 se1 lim5
+汉斯罗斯林#hang3 se1 lo5 se1 lim5
+罗泽#lo5 zêg8
+马克斯罗泽#bhê2 kiog4 se1 lo5 zêg8
+迪弗洛#dêg8 hug4 log8
+埃丝特迪弗洛#ai1 si1 dêg8 dêg8 hug4 log8
+阿比吉特#a1 bi2 gig4 dêg8
+班纳吉#bang1 nab8 gig4
+阿比吉特班纳吉#a1 bi2 gig4 dêg8 bang1 nab8 gig4
+克雷默#kiog4 lui5 mig8
+迈克尔克雷默#main6 kiog4 re2 kiog4 lui5 mig8
+杰弗里萨克斯#giêg8 hug4 li2 sag4 kiog4 se1
+伊斯特利#i1 se1 dêg8 li6
+威廉伊斯特利#ui1 liam5 i1 se1 dêg8 li6
+丹比萨#dang1 bi2 sag4
+莫约#mog8 iêh4
+丹比萨莫约#dang1 bi2 sag4 mog8 iêh4
+安格斯#ang1 gêh4 se1
+迪顿#dêg8 dung6
+安格斯迪顿#ang1 gêh4 se1 dêg8 dung6
+凯斯#kai2 se1
+安妮凯斯#ang1 nin5 kai2 se1
+伊曼纽尔#i1 bhuêng6 niun2 re2
+赛斯#sai3 se1
+伊曼纽尔赛斯#i1 bhuêng6 niun2 re2 sai3 se1
+祖克曼#zou2 kiog4 bhuêng6
+加布里埃尔祖克曼#gia1 bu3 li2 ai1 re2 zou2 kiog4 bhuêng6
+图尔钦#tu5 re2 kim1
+彼得图尔钦#bi2 dig4 tu5 re2 kim1
+伊恩莫里斯#i1 eng1 mog8 li2 se1
+喀耳刻#kêh4 re2 kêg4
+科莫兰#kuê1 mog8 lang5
+斯特莱克#se1 dêg8 lai5 kiog4
+科莫兰斯特莱克#kuê1 mog8 lang5 se1 dêg8 lai5 kiog4
+加尔布雷思#gia1 re2 bu3 lui5 se1
+罗伯特加尔布雷思#lo5 bêh4 dêg8 gia1 re2 bu3 lui5 se1
+杰尼索维奇的一天#giêg8 nin5 sog4 rui6 ki5 di1 zêg8 tiêng1
+伊凡杰尼索维奇的一天#i1 huam5 giêg8 nin5 sog4 rui6 ki5 di1 zêg8 tiêng1
+伊娃#i1 ua1
+卢娜#lu5 non5
+伊娃卢娜#i1 ua1 lu5 non5
+埃登#ai1 dêng1
+阿扎尔#a1 zag4 re2
+埃登阿扎尔#ai1 dêng1 a1 zag4 re2
+博格巴#pag4 gêh4 ba1
+保罗博格巴#bo2 lo5 pag4 gêh4 ba1
+塞尔吉奥拉莫斯#sai3 re2 gig4 o3 la1 mog8 se1
+本泽马#bung2 zêg8 bhê2
+卡里姆本泽马#ka2 li2 m2 bung2 zêg8 bhê2
+穆勒#mog8 lêg8
+托马斯穆勒#toh4 bhê2 se1 mog8 lêg8
+诺伊尔#nab8 i1 re2
+曼努埃尔诺伊尔#bhuêng6 non3 ai1 re2 nab8 i1 re2
+克罗斯#kiog4 lo5 se1
+托尼克罗斯#toh4 nin5 kiog4 lo5 se1
+迪巴拉#dêg8 ba1 la1
+保罗迪巴拉#bo2 lo5 dêg8 ba1 la1
+因西涅#ing1 sai1 niab4
+洛伦佐因西涅#log8 lung5 zo2 ing1 sai1 niab4
+马尔科#bhê2 re2 kuê1
+维拉蒂#rui6 la1 di3
+马尔科维拉蒂#bhê2 re2 kuê1 rui6 la1 di3
+罗梅卢#lo5 bhuê5 lu5
+卢卡库#lu5 ka2 kou3
+罗梅卢卢卡库#lo5 bhuê5 lu5 lu5 ka2 kou3
+拉希姆#la1 hi1 m2
+斯特林#se1 dêg8 lim5
+拉希姆斯特林#la1 hi1 m2 se1 dêg8 lim5
+拉什福德#la1 sib8 hog4 dêg4
+马库斯拉什福德#bhê2 kou3 se1 la1 sib8 hog4 dêg4
+布卡约#bu3 ka2 iêh4
+萨卡#sag4 ka2
+布卡约萨卡#bu3 ka2 iêh4 sag4 ka2
+菲尔#hui1 re2
+福登#hog4 dêng1
+菲尔福登#hui1 re2 hog4 dêng1
+登贝莱#dêng1 buê6 lai5
+奥斯曼登贝莱#o3 se1 bhuêng6 dêng1 buê6 lai5
+劳塔罗#lao5 tah4 lo5
+劳塔罗马丁内斯#lao5 tah4 lo5 bhê2 dêng1 lai6 se1
+卡马文加#ka2 bhê2 bhung5 gia1
+费兰#hui3 lang5
+费兰托雷斯#hui3 lang5 toh4 lui5 se1
+皮克#puê5 kiog4
+杰拉德皮克#giêg8 la1 dêg4 puê5 kiog4
+布斯克茨#bu3 se1 kiog4 ce5
+塞尔吉奥布斯克茨#sai3 re2 gig4 o3 bu3 se1 kiog4 ce5
+蒂亚戈#di3 a1 ko1
+阿尔坎塔拉#a1 re2 kam2 tah4 la1
+蒂亚戈阿尔坎塔拉#di3 a1 ko1 a1 re2 kam2 tah4 la1
+卡瓦尼#ka2 ua1 nin5
+里卡多卡瓦尼#li2 ka2 do1 ka2 ua1 nin5
+路易斯苏亚雷斯#lou7 êg8 se1 sou1 a1 lui5 se1
+哈梅斯#hah4 bhuê5 se1
+哈梅斯罗德里格斯#hah4 bhuê5 se1 lo5 dêg4 li2 gêh4 se1
+昆卡#kung1 ka2
+阿尔贝托昆卡#a1 re2 buê6 toh4 kung1 ka2
+利拉德#li6 la1 dêg4
+达米安利拉德#dag8 bhi2 ang1 li6 la1 dêg4
+安东尼戴维斯#ang1 dang1 nin5 dai3 rui6 se1
+达龙#dag8 lêng5
+达龙福克斯#dag8 lêng5 hog4 kiog4 se1
+特雷#dêg8 lui5
+东契奇#dang1 ki3 ki5
+卢卡东契奇#lu5 ka2 dang1 ki3 ki5
+多诺万#do1 nab8 bhuêng7
+多诺万米切尔#do1 nab8 bhuêng7 bhi2 ciêg4 re2
+德文#dêg4 bhung5
+布克#bu3 kiog4
+德文布克#dêg4 bhung5 bu3 kiog4
+吉米巴特勒#gig4 bhi2 ba1 dêg8 lêg8
+保罗乔治#bo2 lo5 kiou5 di7
+克莱汤普森#kiog4 lai5 teng1 pou2 siam1
+德雷蒙德#dêg4 lui5 mong5 dêg4
+德雷蒙德格林#dêg4 lui5 mong5 dêg4 gêh4 lim5
+约基奇#iêh4 gi1 ki5
+尼古拉约基奇#nin5 gou2 la1 iêh4 gi1 ki5
+鲁迪#lu2 dêg8
+戈贝尔#ko1 buê6 re2
+鲁迪戈贝尔#lu2 dêg8 ko1 buê6 re2
+谢伊#sia7 i1
+吉尔杰斯#gig4 re2 giêg8 se1
+谢伊吉尔杰斯亚历山大#sia7 i1 gig4 re2 giêg8 se1 a1 lêh8 suan1 dai6
+阿尔卡拉斯#a1 re2 ka2 la1 se1
+卡洛斯阿尔卡拉斯#ka2 log8 se1 a1 re2 ka2 la1 se1
+扬尼克#iang5 nin5 kiog4
+辛纳#sing1 nab8
+扬尼克辛纳#iang5 nin5 kiog4 sing1 nab8
+斯特凡诺斯#se1 dêg8 huam5 nab8 se1
+齐齐帕斯#ci5 ci5 pê3 se1
+斯特凡诺斯齐齐帕斯#se1 dêg8 huam5 nab8 se1 ci5 ci5 pê3 se1
+哈恰诺夫#hah4 kab4 nab8 hu1
+卡伦哈恰诺夫#ka2 lung5 hah4 kab4 nab8 hu1
+丹尼尔梅德韦杰夫#dang1 nin5 re2 bhuê5 dêg4 ui2 giêg8 hu1
+阿丽娜#a1 li6 non5
+萨巴伦卡#sag4 ba1 lung5 ka2
+阿丽娜萨巴伦卡#a1 li6 non5 sag4 ba1 lung5 ka2
+伊加#i1 gia1
+斯瓦泰克#se1 ua1 tai3 kiog4
+伊加斯瓦泰克#i1 gia1 se1 ua1 tai3 kiog4
+费尔南德斯#hui3 re2 lam5 dêg4 se1
+莱拉费尔南德斯#lai5 la1 hui3 re2 lam5 dêg4 se1
+大坂直美#dai6 bang2 dig8 muin2
+拉杜卡努#la1 dou6 ka2 non3
+艾玛拉杜卡努#ain3 man2 la1 dou6 ka2 non3
+肖恩#siou1 eng1
+肖恩怀特#siou1 eng1 huai5 dêg8
+夏尔勒克莱尔#hê7 re2 lêg8 kiog4 lai5 re2
+乔治拉塞尔#kiou5 di7 la1 sai3 re2
+兰多#lang5 do1
+诺里斯#nab8 li2 se1
+兰多诺里斯#lang5 do1 nab8 li2 se1
+费尔南多阿隆索#hui3 re2 lam5 do1 a1 long5 sog4
+洛佩兹#log8 buê6 ze1
+詹妮弗洛佩兹#ziam1 nin5 hug4 log8 buê6 ze1
+夏奇拉#hê7 ki5 la1
+杜阿#dou6 a1
+利帕#li6 pê3
+杜阿利帕#dou6 a1 li6 pê3
+奥利维亚罗德里戈#o3 li6 rui6 a1 lo5 dêg4 li2 ko1
+卡莉#ka2 li6
+吉普森#gig4 pou2 siam1
+卡莉蕾吉普森#ka2 li6 lui2 gig4 pou2 siam1
+海尔希#hai2 re2 hi1
+特瑞娜#dêg8 sui6 non5
+梅根特瑞娜#bhuê5 geng1 dêg8 sui6 non5
+萨姆史密斯#sag4 m2 se2 mig8 se1
+斯泰尔斯#se1 tai3 re2 se1
+哈里斯泰尔斯#hah4 li2 se1 tai3 re2 se1
+泽恩#zêg8 eng1
+马利克#bhê2 li6 kiog4
+泽恩马利克#zêg8 eng1 bhê2 li6 kiog4
+佩恩#buê6 eng1
+利亚姆佩恩#li6 a1 m2 buê6 eng1
+尼尔霍兰#nin5 re2 kag4 lang5
+汤姆林森#teng1 m2 lim5 siam1
+路易斯汤姆林森#lou7 êg8 se1 teng1 m2 lim5 siam1
+德雷克#dêg4 lui5 kiog4
+肯德里克#kêng2 dêg4 li2 kiog4
+拉马尔#la1 bhê2 re2
+肯德里克拉马尔#kêng2 dêg4 li2 kiog4 la1 bhê2 re2
+特拉维斯#dêg8 la1 rui6 se1
+特拉维斯斯科特#dêg8 la1 rui6 se1 se1 kuê1 dêg8
+波兹#bo1 ze1
+波兹马龙#bo1 ze1 bhê2 lêng5
+克里斯布朗#kiog4 li2 se1 bu3 lang2
+威肯#ui1 kêng2
+妮琪#nin5 ki5
+米娜#bhi2 non5
+妮琪米娜#nin5 ki5 bhi2 non5
+卡迪#ka2 dêg8
+莉佐#li6 zo2
+凯莉#kai2 li6
+玛丽亚凯莉#man2 li6 a1 kai2 li6
+席琳#siah8 lim5
+迪翁#dêg8 ong1
+席琳迪翁#siah8 lim5 dêg8 ong1
+惠特妮#hui6 dêg8 nin5
+休斯顿#hiun1 se1 dung6
+惠特妮休斯顿#hui6 dêg8 nin5 hiun1 se1 dung6
+鲍勃#bao6 buêg8
+迪伦#dêg8 lung5
+鲍勃迪伦#bao6 buêg8 dêg8 lung5
+埃米纳姆#ai1 bhi2 nab8 m2
+亚瑟小子#a1 sêg4 siou2 ze2
+瑞安娜#sui6 ang1 non5
+哈德森#hah4 dêg4 siam1
+詹妮弗哈德森#ziam1 nin5 hug4 hah4 dêg4 siam1
+蒂朵#di3 do5
+诺拉#nab8 la1
+诺拉琼斯#nab8 la1 kuang5 se1
+乔维#kiou5 rui6
+弗雷迪#hug4 lui5 dêg8
+默丘里#mig8 kiu1 li2
+弗雷迪默丘里#hug4 lui5 dêg8 mig8 kiu1 li2
+鲍伊#bao6 i1
+大卫鲍伊#dai6 uê6 bao6 i1
+麦卡特尼#bhêh8 ka2 dêg8 nin5
+保罗麦卡特尼#bo2 lo5 bhêh8 ka2 dêg8 nin5
+列侬#liêg8 long5
+约翰列侬#iêh4 hang5 liêg8 long5
+米克#bhi2 kiog4
+贾格尔#gia2 gêh4 re2
+米克贾格尔#bhi2 kiog4 gia2 gêh4 re2
+埃尔顿约翰#ai1 re2 dung6 iêh4 hang5
+斯汀#se1 dêng1
+罗比#lo5 bi2
+罗比威廉姆斯#lo5 bi2 ui1 liam5 m2 se1
+安室奈美惠#ang1 sig4 nain6 muin2 hui6
+仓木麻衣#ceng1 bhag8 muan5 i1
+中岛美嘉#dong1 dao2 muin2 gia1
+米津玄师#bhi2 zing1 hiêng5 se1
+菅田将晖#gang1 cang5 ziang1 hui1
+宇野实彩子#u2 ia2 sig8 cai2 ze2
+田柾国#cang5 giu6 gog4
+金泰亨#gim1 tai3 hêng1
+朴智旻#piou5 di3 ming5
+金南俊#gim1 lam5 zung3
+闵玧其#miêng2 rung2 ki5
+郑号锡#dên7 hao1 siah4
+金硕珍#gim1 sêg4 diêng1
+李泰民#li2 tai3 ming5
+边伯贤#biêng1 bêh4 hiêng5
+吴世勋#ghou5 si3 hng1
+朴灿烈#piou5 cang3 liêg8
+宋慧乔#song3 hui6 kiou5
+金泰梨#gim1 tai3 lai5
+韩孝周#hang5 hao3 ziu1
+孔刘#kong2 lao5
+李钟硕#li2 zêng1 sêg4
+朴叙俊#piou5 su6 zung3
+马东锡#bhê2 dang1 siah4
+河正宇#ho5 zian3 u2
+雷德克里夫#lui5 dêg4 kiog4 li2 hu1
+丹尼尔雷德克里夫#dang1 nin5 re2 lui5 dêg4 kiog4 li2 hu1
+米拉#bhi2 la1
+乔沃维奇#kiou5 og4 rui6 ki5
+米拉乔沃维奇#bhi2 la1 kiou5 og4 rui6 ki5
+阿尔芭#a1 re2 ba1
+杰西卡阿尔芭#giêg8 sai1 ka2 a1 re2 ba1
+帕拉特#pê3 la1 dêg8
+克里斯帕拉特#kiog4 li2 se1 pê3 la1 dêg8
+加菲尔德#gia1 hui1 re2 dêg4
+安德鲁加菲尔德#ang1 dêg4 lu2 gia1 hui1 re2 dêg4
+托比#toh4 bi2
+马奎尔#bhê2 gui1 re2
+托比马奎尔#toh4 bi2 bhê2 gui1 re2
+吉伦哈尔#gig4 lung5 hah4 re2
+杰克吉伦哈尔#giêg8 kiog4 gig4 lung5 hah4 re2
+瑞恩#sui6 eng1
+高斯林#gao1 se1 lim5
+瑞恩高斯林#sui6 eng1 gao1 se1 lim5
+哈里森#hah4 li2 siam1
+哈里森福特#hah4 li2 siam1 hog4 dêg8
+克鲁尼#kiog4 lu2 nin5
+乔治克鲁尼#kiou5 di7 kiog4 lu2 nin5
+马特#bhê2 dêg8
+达蒙#dag8 mong5
+马特达蒙#bhê2 dêg8 dag8 mong5
+杰克曼#giêg8 kiog4 bhuêng6
+麦克莱恩#bhêh8 kiog4 lai5 eng1
+伊恩麦克莱恩#i1 eng1 bhêh8 kiog4 lai5 eng1
+拉尔夫#la1 re2 hu1
+费因斯#hui3 ing1 se1
+拉尔夫费因斯#la1 re2 hu1 hui3 ing1 se1
+凯拉#kai2 la1
+奈特莉#nain6 dêg8 li6
+凯拉奈特莉#kai2 la1 nain6 dêg8 li6
+鲁妮#lu2 nin5
+玛拉#man2 la1
+鲁妮玛拉#lu2 nin5 man2 la1
+西尔莎#sai1 re2 sa1
+罗南#lo5 lam5
+西尔莎罗南#sai1 re2 sa1 lo5 lam5
+柴勒梅德#ca5 lêg8 bhuê5 dêg4
+蒂莫西柴勒梅德#di3 mog8 sai1 ca5 lêg8 bhuê5 dêg4
+奥斯汀巴特勒#o3 se1 dêng1 ba1 dêg8 lêg8
+詹米#ziam1 bhi2
+多南#do1 lam5
+詹米多南#ziam1 bhi2 do1 lam5
+阿弗莱克#a1 hug4 lai5 kiog4
+奥德曼#o3 dêg4 bhuêng6
+加里奥德曼#gia1 li2 o3 dêg4 bhuêng6
+伊桑#i1 sang1
+霍克#kag4 kiog4
+伊桑霍克#i1 sang1 kag4 kiog4
+伍迪#ngoun2 dêg8
+伍迪哈里森#ngoun2 dêg8 hah4 li2 siam1
+伊娃格林#i1 ua1 gêh4 lim5
+莫妮卡#mog8 nin5 ka2
+贝鲁奇#buê6 lu2 ki5
+莫妮卡贝鲁奇#mog8 nin5 ka2 buê6 lu2 ki5
+苏菲#sou1 hui1
+玛索#man2 sog4
+苏菲玛索#sou1 hui1 man2 sog4
+塔图#tah4 tu5
+奥黛丽塔图#o3 dai3 li6 tah4 tu5
+文森特#bhung5 siam1 dêg8
+卡塞尔#ka2 sai3 re2
+文森特卡塞尔#bhung5 siam1 dêg8 ka2 sai3 re2
+于佩尔#i1 buê6 re2
+伊莎贝尔于佩尔#i1 sa1 buê6 re2 i1 buê6 re2
+阿德里安#a1 dêg4 li2 ang1
+布洛迪#bu3 log8 dêg8
+阿德里安布洛迪#a1 dêg4 li2 ang1 bu3 log8 dêg8
+佩内洛普克鲁兹#buê6 lai6 log8 pou2 kiog4 lu2 ze1
+巴登#ba1 dêng1
+哈维尔巴登#hah4 rui6 re2 ba1 dêng1
+班德拉斯#bang1 dêg4 la1 se1
+安东尼奥班德拉斯#ang1 dang1 nin5 o3 bang1 dêg4 la1 se1
+罗德里戈桑托罗#lo5 dêg4 li2 ko1 sang1 toh4 lo5
+费尔南达#hui3 re2 lam5 dag8
+蒙特内格罗#mong5 dêg8 lai6 gêh4 lo5
+费尔南达蒙特内格罗#hui3 re2 lam5 dag8 mong5 dêg8 lai6 gêh4 lo5
+山下智久#suan1 ê6 di3 gu2
+山崎贤人#suan1 ki1 hiêng5 nang5
+神木隆之介#sing5 bhag8 long5 ze1 gai3
+妻夫木聪#ci1 hu1 bhag8 cong1
+小栗旬#siou2 liêg8 sung5
+绫濑遥#lêng5 nain6 iou5
+长泽雅美#ciang5 zêg8 ngian2 muin2
+新垣结衣#sing1 huêng5 gig4 i1
+有村架纯#iu2 ceng1 gê3 sung5
+桥本环奈#giê5 bung2 huêng5 nain6
+滨边美波#bing1 biêng1 muin2 bo1
+广濑铃#guang2 nain6 lêng1
+北川景子#bag4 cuêng1 gêng2 ze2
+深田恭子#cim1 cang5 giong1 ze2
+松本润#song5 bung2 rung6
+二宫和也#ri6 gêng1 hua5 ia7
+大野智#dai6 ia2 di3
+樱井翔#êng1 zên2 siang5
+相叶雅纪#siang1 hiab8 ngian2 gi2
+堂本光一#tang5 bung2 guang1 zêg8
+堂本刚#tang5 bung2 gang1
+佐藤健#zo2 ding5 giêng6
+贺来贤人#ho7 lai5 hiêng5 nang5
+冈田将生#gang1 cang5 ziang1 sêng1
+三浦春马#san1 pou2 cung1 bhê2
+志尊淳#zi3 zung1 sung5
+古川雄辉#gou2 cuêng1 hiong5 hui1
+松坂桃李#song5 bang2 to5 li2
+绫野刚#lêng5 ia2 gang1
+浅野忠信#ciêng2 ia2 dong1 sing3
+役所广司#hiah8 so2 guang2 si1
+渡边谦#dou7 biêng1 kiam1
+黑木华#hêg4 bhag8 hua5
+满岛光#muan2 dao2 guang1
+安藤樱#ang1 ding5 êng1
+苍井优#cang1 zên2 iu1
+宫崎葵#gêng1 ki1 kui5
+菊地凛子#gêg4 di7 lim2 ze2
+水原希子#zui2 nguêng5 hi1 ze2
+福原爱#hog4 nguêng5 ain3
+坂本花织#bang2 bung2 huê1 zig4
+宇野昌磨#u2 ia2 ciang1 bhua5
+池江璃花子#di5 gang1 li5 huê1 ze2
+大谷翔平#dai6 gog4 siang5 pêng5
+达比修有#dag8 bi2 siu1 iu2
+铃木一朗#lêng1 bhag8 zêg8 lang2
+松井秀喜#song5 zên2 siu3 hi2
+桃田贤斗#to5 cang5 hiêng5 dao2
+安赛龙#ang1 sai3 lêng5
+阿塞尔森#a1 sai3 re2 siam1
+维克托阿塞尔森#rui6 kiog4 toh4 a1 sai3 re2 siam1
+金廷#gim1 têng5
+乔纳坦#kiou5 nab8 tang2
+马林#bhê2 lim5
+辛杜#sing1 dou6
+奥原希望#o3 nguêng5 hi1 mon7
+山口茜#suan1 kao2 cêng3
+因达农#ing1 dag8 long5
+普萨拉#pou2 sag4 la1
+文卡塔#bhung5 ka2 tah4
+普萨拉文卡塔辛杜#pou2 sag4 la1 bhung5 ka2 tah4 sing1 dou6
+基普乔格#gi1 pou2 kiou5 gêh4
+法拉赫#huab4 la1 hêh4
+科尔利#kuê1 re2 li6
+弗雷泽#hug4 lui5 zêg8
+普莱斯#pou2 lai5 se1
+弗雷泽普莱斯#hug4 lui5 zêg8 pou2 lai5 se1
+卡马乔#ka2 bhê2 kiou5
+奎因#gui1 ing1
+卡马乔奎因#ka2 bhê2 kiou5 gui1 ing1
+瓦尔霍姆#ua1 re2 kag4 m2
+杜普兰蒂斯#dou6 pou2 lang5 di3 se1
+肯德里克斯#kêng2 dêg4 li2 kiog4 se1
+巴尔希姆#ba1 re2 hi1 m2
+坦贝里#tang2 buê6 li2
+塞门亚#sai3 mung5 a1
+霍奇金森#kag4 ki5 gim1 siam1
+蒂亚姆#di3 a1 m2
+瓦尔达尼#ua1 re2 dag8 nin5
+拉维莱涅#la1 rui6 lai5 niab4
+伊巴古恩#i1 ba1 gou2 eng1
+罗哈斯#lo5 hah4 se1
+邦达连科#bang1 dag8 liêng5 kuê1
+科瓦奇#kuê1 ua1 ki5
+沃达什#og4 dag8 sib8
+施佩尔#si1 buê6 re2
+阿什拉夫#a1 sib8 la1 hu1
+哈基米#hah4 gi1 bhi2
+阿什拉夫哈基米#a1 sib8 la1 hu1 hah4 gi1 bhi2
+努诺#non3 nab8
+努诺门德斯#non3 nab8 mung5 dêg4 se1
+格瓦迪奥尔#gêh4 ua1 dêg8 o3 re2
+加维#gia1 rui6
+亚马尔#a1 bhê2 re2
+恩德里克#eng1 dêg4 li2 kiog4
+帕瓦尔#pê3 ua1 re2
+科曼#kuê1 bhuêng6
+楚阿梅尼#co2 a1 bhuê5 nin5
+贡多齐#gong3 do1 ci5
+贡萨洛拉莫斯#gong3 sag4 log8 la1 mog8 se1
+维蒂尼亚#rui6 di3 nin5 a1
+菲利克斯#hui1 li6 kiog4 se1
+若昂菲利克斯#riag8 ngang1 hui1 li6 kiog4 se1
+贝尔纳多席尔瓦#buê6 re2 nab8 do1 siah8 re2 ua1
+鲁本迪亚斯#lu2 bung2 dêg8 a1 se1
+坎塞洛#kam2 sai3 log8
+迪奥戈#dêg8 o3 ko1
+达洛特#dag8 log8 dêg8
+迪奥戈达洛特#dêg8 o3 ko1 dag8 log8 dêg8
+布鲁诺费尔南德斯#bu3 lu2 nab8 hui3 re2 lam5 dêg4 se1
+伊纳西奥#i1 nab8 sai1 o3
+贡萨洛伊纳西奥#gong3 sag4 log8 i1 nab8 sai1 o3
+里沙利松#li2 sa1 li6 song5
+阿利松#a1 li6 song5
+埃德森#ai1 dêg4 siam1
+马尔基尼奥斯#bhê2 re2 gi1 nin5 o3 se1
+蒂亚戈席尔瓦#di3 a1 ko1 siah8 re2 ua1
+法比尼奥#huab4 bi2 nin5 o3
+卡塞米罗#ka2 sai3 bhi2 lo5
+米利唐#bhi2 li6 tang5
+吕迪格#le6 dêg8 gêh4
+克瑙夫#kiog4 naon2 hu1
+维尔茨#rui6 re2 ce5
+穆西亚拉#mog8 sai1 a1 la1
+基米希#gi1 bhi2 hi1
+格雷茨卡#gêh4 lui5 ce5 ka2
+萨内#sag4 lai6
+格纳布里#gêh4 nab8 bu3 li2
+哈弗茨#hah4 hug4 ce5
+罗伊斯#lo5 i1 se1
+布兰特#bu3 lang5 dêg8
+奥尔莫#o3 re2 mog8
+奥亚萨瓦尔#o3 a1 sag4 ua1 re2
+梅里诺#bhuê5 li2 nab8
+苏维门迪#sou1 rui6 mung5 dêg8
+卡瓦哈尔#ka2 ua1 hah4 re2
+纳乔#nab8 kiou5
+巴尔韦德#ba1 re2 ui2 dêg4
+贝林厄姆#buê6 lim5 êh4 m2
+维尼修斯#rui6 nin5 siu1 se1
+何塞卢#ho5 sai3 lu5
+马内#bhê2 lai6
+菲尔米诺#hui1 re2 bhi2 nab8
+凯塔#kai2 tah4
+若塔#riag8 tah4
+麦卡利斯特#bhêh8 ka2 li6 se1 dêg8
+索博斯洛伊#sog4 pag4 se1 log8 i1
+赫拉芬贝赫#hêh4 la1 hung1 buê6 hêh4
+范戴克#huam6 dai3 kiog4
+科纳特#kuê1 nab8 dêg8
+马蒂普#bhê2 di3 pou2
+阿坎吉#a1 kam2 gig4
+斯通斯#se1 tong1 se1
+阿克#a1 kiog4
+格拉利什#gêh4 la1 li6 sib8
+阿尔瓦雷斯#a1 re2 ua1 lui5 se1
+马赫雷斯#bhê2 hêh4 lui5 se1
+科瓦契奇#kuê1 ua1 ki3 ki5
+罗德里#lo5 dêg4 li2
+凯塞多#kai2 sai3 do1
+恩佐#eng1 zo2
+恩佐费尔南德斯#eng1 zo2 hui3 re2 lam5 dêg4 se1
+库库雷利亚#kou3 kou3 lui5 li6 a1
+帕尔默#pê3 re2 mig8
+里斯#li2 se1
+里斯詹姆斯#li2 se1 ziam1 m2 se1
+奇尔韦尔#ki5 re2 ui2 re2
+迪萨西#dêg8 sag4 sai1
+桑乔#sang1 kiou5
+马夏尔#bhê2 hê7 re2
+霍伊伦德#kag4 i1 lung5 dêg4
+芒特#mang5 dêg8
+阿姆拉巴特#a1 m2 la1 ba1 dêg8
+瓦拉内#ua1 la1 lai6
+利桑德罗#li6 sang1 dêg4 lo5
+利桑德罗马丁内斯#li6 sang1 dêg4 lo5 bhê2 dêng1 lai6 se1
+奥纳纳#o3 nab8 nab8
+库利巴利#kou3 li6 ba1 li6
+克瓦拉茨赫利亚#kiog4 ua1 la1 ce5 hêh4 li6 a1
+奥斯梅恩#o3 se1 bhuê5 eng1
+金珉奎#gim1 ming5 gui1
+李泳知#li2 iong3 di1
+金泰妍#gim1 tai3 ngiêng2
+郑秀妍#dên7 siu3 ngiêng2
+郑秀晶#dên7 siu3 zian1
+林允儿#lim5 rung2 ri5
+黄美英#ng5 muin2 êng1
+徐珠贤#ce5 zu1 hiêng5
+李顺圭#li2 sung6 gui1
+金孝渊#gim1 hao3 iêng1
+权俞利#kuêng5 ru5 li6
+裴珠泫#puê5 zu1 hiêng5
+姜涩琪#giang1 siab4 ki5
+孙承完#sung1 sêng5 uêng5
+朴秀荣#piou5 siu3 iong5
+金艺琳#gim1 ghoi7 lim5
+金智秀#gim1 di3 siu3
+金珍妮#gim1 diêng1 nin5
+朴彩英#piou5 cai2 êng1
+赵美延#diên6 muin2 iêng6
+曺薇娟#cao5 muin5 giêng1
+宋雨琦#song3 u2 ki5
+叶舒华#hiab8 su1 hua5
+田小娟#cang5 siou2 giêng1
+黄礼志#ng5 loi2 zi3
+崔智寿#cui1 di3 siu7
+申留真#sing1 liu5 zing1
+李彩领#li2 cai2 nian2
+申有娜#sing1 iu2 non5
+李夏天#li2 hê7 tiêng1
+任多荣#rim6 do1 iong5
+俞延静#ru5 iêng6 zên6
+崔叡娜#cui1 ruê6 non5
+曺柔理#cao5 riu5 li2
+安宥真#ang1 iu6 zing1
+矢吹奈子#si2 cuê1 nain6 ze2
+权恩妃#kuêng5 eng1 hui1
+姜惠元#giang1 hui6 nguêng5
+本田仁美#bung2 cang5 ring5 muin2
+金采源#gim1 cai2 nguêng5
+金珉周#gim1 ming5 ziu1
+李彩演#li2 cai2 ing5
+宫胁咲良#gêng1 hiab8 ciê3 liang5
+许允真#kou2 rung2 zing1
+中村一叶#dong1 ceng1 zêg8 hiab8
+洪恩採#hong5 eng1 cai2
+崔然竣#cui1 riêng5 zung3
+崔秀彬#cui1 siu3 bing1
+崔杋圭#cui1 huam5 gui1
+姜太显#giang1 tai3 hiêng2
+休宁凯#hiun1 lêng5 kai2
+尹净汉#ng2 zêng6 hang3
+洪知秀#hong5 di1 siu3
+文俊辉#bhung5 zung3 hui1
+权顺荣#kuêng5 sung6 iong5
+全圆佑#cuêng5 in5 iu6
+李知勋#li2 di1 hng1
+徐明浩#ce5 mêng5 hao1
+李硕珉#li2 sêg4 ming5
+夫胜宽#hu1 sêng3 kuêng1
+崔韩率#cui1 hang5 sug4
+李灿#li2 cang3
+朴志焄#piou5 zi3 hung1
+金俊奎#gim1 zung3 gui1
+崔玹硕#cui1 玹 sêg4
+苏庭焕#sou1 têng5 huêng3
+渡边温斗#dou7 biêng1 ung1 dao2
+朴炡禹#piou5 zêng1 u2
+金道荣#gim1 dao6 iong5
+李炤熙#li2 ziê3 hi1
+韩维辰#hang5 rui6 sing5
+成韩彬#sêng5 hang5 bing1
+石马修#ziêh8 bhê2 siu1
+沈泉锐#sim2 zuan5 ruê6
+朴乾旭#piou5 kiêng5 hiog4
+金泰来#gim1 tai3 lai5
+金奎彬#gim1 gui1 bing1
+金地雄#gim1 di7 hiong5
+李会泽#li2 huê6 zêg8
+李旼赫#li2 ming5 hêh4
+李昌燮#li2 ciang1 siab8
+任炫植#rim6 hiêng5 sêg4
+郑镒勋#dên7 êg8 hng1
+陆星材#lêg8 cên1 cai5
+元浩#nguêng5 hao1
+民赫#ming5 hêh4
+基贤#gi1 hiêng5
+亨源#hêng1 nguêng5
+蔡亨源#cua3 hêng1 nguêng5
+李周宪#li2 ziu1 hiêng3
+孙贤祐#sung1 hiêng5 iu6
+刘奇贤#lao5 ki5 hiêng5
+任昌均#rim6 ciang1 geng1
+姜丹尼尔#giang1 dang1 nin5 re2
+朴志训#piou5 zi3 hung3
+李大辉#li2 dai6 hui1
+金在奂#gim1 zai6 huêng3
+邕圣祐#iong1 sêng3 iu6
+朴佑镇#piou5 iu6 ding3
+尹智圣#ng2 di3 sêng3
+黄旼炫#ng5 ming5 hiêng5
+河成云#ho5 sêng5 hung5
+裴珍映#puê5 diêng1 iang3
+金宇硕#gim1 u2 sêg4
+李镇赫#li2 ding3 hêh4
+金曜汉#gim1 iou6 hang3
+韩胜宇#hang5 sêng3 u2
+宋亨俊#song3 hêng1 zung3
+姜敏熙#giang1 miêng2 hi1
+李垠尚#li2 ngeng5 siang6
+孙东杓#sung1 dang1 ziag4
+李翰洁#li2 hang5 giêg4
+南道贤#lam5 dao6 hiêng5
+车俊昊#cia1 zung3 hao1
+咸元进#ham5 nguêng5 zing3
+崔秉灿#cui1 bêng2 cang3
+具正模#gu6 zian3 mon5
+姜贤秀#giang1 hiêng5 siu3
+黄允圣#ng5 rung2 sêng3
+李协#li2 hiab8
+梁爀#niên5 hêh4
+金仁赫#gim1 ring5 hêh4
+崔态训#cui1 tai3 hung3
+洪健熙#hong5 giêng6 hi1
+朴世浩#piou5 si3 hao1
+金施勲#gim1 si1 hng1
+金泰焕#gim1 tai3 huêng3
+金珉锡#gim1 ming5 siah4
+李相赫#li2 siang1 hêh4
+里奥内尔#li2 o3 lai6 re2
+里奥内尔梅西#li2 o3 lai6 re2 bhuê5 sai1
+基利安#gi1 li6 ang1
+基利安姆巴佩#gi1 li6 ang1 m2 ba1 buê6
+埃尔林#ai1 re2 lim5
+埃尔林哈兰德#ai1 re2 lim5 hah4 lang5 dêg4
+儒尼奥尔#ru5 nin5 o3 re2
+维尼修斯儒尼奥尔#rui6 nin5 siu1 se1 ru5 nin5 o3 re2
+卢卡莫德里奇#lu5 ka2 mog8 dêg4 li2 ki5
+齐内丁#ci5 lai6 dêng1
+齐达内#ci5 dag8 lai6
+齐内丁齐达内#ci5 lai6 dêng1 ci5 dag8 lai6
+罗纳尔迪尼奥#lo5 nab8 re2 dêg8 nin5 o3
+伊涅斯塔#i1 niab4 se1 tah4
+安德烈斯伊涅斯塔#ang1 dêg4 liêg8 se1 i1 niab4 se1 tah4
+哈维埃尔南德斯#hah4 rui6 ai1 re2 lam5 dêg4 se1
+贝克汉姆#buê6 kiog4 hang3 m2
+大卫贝克汉姆#dai6 uê6 buê6 kiog4 hang3 m2
+凯利安#kai2 li6 ang1
+凯利安德布劳内#kai2 li6 ang1 dêg4 bu3 lao5 lai6
+裘德贝林厄姆#kiu5 dêg4 buê6 lim5 êh4 m2
+焦科维奇#ziou1 kuê1 rui6 ki5
+诺瓦克焦科维奇#nab8 ua1 kiog4 ziou1 kuê1 rui6 ki5
+阿曼德#a1 bhuêng6 dêg4
+阿曼德杜普兰蒂斯#a1 bhuêng6 dêg4 dou6 pou2 lang5 di3 se1
+阿德金斯#a1 dêg4 gim1 se1
+阿黛尔阿德金斯#a1 dai3 re2 a1 dêg4 gim1 se1
+诺尔斯#nab8 re2 se1
+碧昂丝诺尔斯#pêg4 ngang1 si1 nab8 re2 se1
+卡米拉#ka2 bhi2 la1
+卡贝洛#ka2 buê6 log8
+卡米拉卡贝洛#ka2 bhi2 la1 ka2 buê6 log8
+萨布丽娜#sag4 bu3 li6 non5
+卡彭特#ka2 pên5 dêg8
+萨布丽娜卡彭特#sag4 bu3 li6 non5 ka2 pên5 dêg8
+弗瑞曼#hug4 sui6 bhuêng6
+马丁弗瑞曼#bhê2 dêng1 hug4 sui6 bhuêng6
+玛丽昂#man2 li6 ngang1
+歌迪亚#go1 dêg8 a1
+玛丽昂歌迪亚#man2 li6 ngang1 go1 dêg8 a1
+石原里美#ziêh8 nguêng5 li2 muin2
+滨崎步#bing1 ki1 bou7
+宇多田光#u2 do1 cang5 guang1
+权志龙#kuêng5 zi3 lêng5
+李知恩#li2 di1 eng1
+宋仲基#song3 dong6 gi1
+全智贤#cuêng5 di3 hiêng5
