@@ -1,3 +1,4 @@
+> English: [README.en.md](./README.en.md) | 中文
 
 # 字典、词典文件简介
 
