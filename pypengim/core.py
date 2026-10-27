@@ -10,7 +10,7 @@ from . import DATA_DIR
 
 
 def _data(*parts):
-    """包内数据文件的绝对路径，与当前工作目录无关。"""
+    """Absolute path to a data file inside the package; independent of CWD."""
     return os.path.join(DATA_DIR, *parts)
 
 
@@ -36,14 +36,14 @@ class pyPengIm():
 
         self._loaded_dicts = {}
         
-        # 是否启用中国历史词典，以支持古代年号、政权、官职、人名、民族等
+        # Whether to load the Chinese history dictionary (reign titles, regimes, offices, names, ethnic groups, …)
         if history:
             self.word_common.update(utils.load_dict(_data('word_dict', 'word_history.txt')))
             self.word_common.update(utils.load_dict(_data('word_dict', 'word_reign_title.txt')))
 
-        jieba.cut('')# 预热
+        jieba.cut('')# warm-up
 
-    # 旧属性名 -> 新属性名，兼容外部代码
+    # Legacy attribute name -> new name, for backward compatibility with external code
     _LEGACY_NAMES = {
         'vocab': 'char_main',
         'vocab_extension': 'char_extension',
@@ -78,10 +78,11 @@ class pyPengIm():
         return accent_dict
     
     def pinyin(self, text, heteronym=False, accent='', auto_split=True, scheme='pengim'):
-        """汉字转拼音。
+        """Convert hanzi to pinyin.
 
-        scheme: 输出的拼音方案，默认 'pengim'（潮拼）。可选值见 romanization.available_schemes()。
-                'result' 字段始终保持潮拼，只有 'pinyin_seq' 会按 scheme 转换。
+        scheme: output romanization scheme, default 'pengim' (Teochew pinyin).
+                See romanization.available_schemes() for options.
+                The 'result' field always stays Teochew pinyin; only 'pinyin_seq' follows scheme.
         """
         if scheme not in romanization.SCHEMES:
             raise ValueError("未知拼音方案: {}，可选: {}".format(scheme, ', '.join(romanization.SCHEMES)))
@@ -106,12 +107,14 @@ class pyPengIm():
         }
 
     def to_scheme(self, pinyin_seq, scheme='pengim', from_scheme='pengim'):
-        """拼音方案互转：把 from_scheme 写的拼音序列（空格分隔，多音字用 | 分隔）转成 scheme。
+        """Convert between romanization schemes: take a pinyin sequence written in from_scheme
+        (space-separated; polyphone candidates joined with |) and rewrite it in scheme.
 
-        不写 from_scheme 时，输入按潮拼处理。任意两个方案之间都可以互转，内部经潮拼中转。
-        scheme / from_scheme 可选: pengim(潮拼)、dieghv(潮语拼音)、fielde(斐尔德)、puj(白话字，符号声调)、
-        pujn(白话字，数字声调)、pujs(白话字，上标声调)、ggn(家己人)、ggns(家己人，上标声调)、chen(陈恩泉)。
-        反向解析时，无法识别的音节原样保留。
+        If from_scheme is omitted, input is treated as Teochew pinyin. Any pair of schemes
+        can convert; internally everything passes through Teochew pinyin.
+        scheme / from_scheme options: pengim (Teochew), dieghv, fielde, puj (Pe̍h-ūe-jī, diacritic),
+        pujn (digit), pujs (superscript), ggn (Gaginang), ggns (Gaginang superscript), chen (Chen Enquan).
+        On reverse parsing, unrecognized syllables pass through unchanged.
         """
         for name in (scheme, from_scheme):
             if name not in romanization.SCHEMES:
@@ -119,12 +122,15 @@ class pyPengIm():
         return romanization.convert_between(pinyin_seq, from_scheme, scheme)
 
     def convert_accent_between(self, word, pinyin_seq, from_accent, to_accent):
-        """口音互转：把 from_accent 口音下 word 的读音，转成 to_accent 口音。
+        """Accent-to-accent conversion: rewrite the readings of word under from_accent into to_accent.
 
-        word 是汉字串；pinyin_seq 是与汉字一一对应的潮拼序列（空格分隔，多音字候选用 | 分隔），
-        可以是任意口音的读音，只要和 from_accent 一致。返回同样格式的字符串。
-        口音代码见 accent_converter().accents()：tc 府城、ky 揭阳、st 汕头、th 澄海、gz_c / gz_g 金石、ap 庵埠。
-        已知汉字时能精确还原（词典里 99.9% 的 (字,音) 可唯一还原）；word 与读音数量对不上时抛 ValueError。
+        word is a hanzi string; pinyin_seq is a Teochew-pinyin sequence aligned one-to-one with
+        the characters (space-separated; polyphone candidates joined with |). It may use any
+        accent's readings as long as they are consistent with from_accent. Returns the same format.
+        Accent codes: see accent_converter().accents() — tc Fucheng, ky Jieyang, st Shantou,
+        th Chenghai, gz_c / gz_g Gimzieh, ap Ampou.
+        With known hanzi the restore is exact (99.9% of (char, reading) pairs in the dictionary
+        restore uniquely); raises ValueError when word and reading counts do not match.
         """
         syllables = [token.split('|') for token in pinyin_seq.split(' ')]
         if len(word) != len(syllables):
@@ -133,7 +139,7 @@ class pyPengIm():
         return ' '.join('|'.join(item) if item else syl for item, syl in zip(converted, pinyin_seq.split(' ')))
 
     def accent_converter(self):
-        """返回口音互转器，可直接调用 convert_char / convert_syllable / candidates 等。"""
+        """Return the accent converter; call convert_char / convert_syllable / candidates etc. directly."""
         return self._accent_converter
 
     def sentence_cut(self, text):
@@ -154,14 +160,15 @@ class pyPengIm():
                 if pinyin != ['None']:
                     result.append('|'.join([py.replace('*', '') for py in pinyin]))
                 else:
-                    result.append(item[0]) ## 非法字符，原样输出
+                    result.append(item[0]) ## invalid character: pass through unchanged
 
         return ' '.join(result)
 
     def _surname_notice(self, text):
-        """找出文本里的姓氏及其读音。复姓优先（最长匹配），如「诸葛亮」只报「诸葛」。
+        """Find surnames in the text and their readings. Compound surnames take priority
+        (longest match), e.g. 「诸葛亮」 only reports 「诸葛」.
 
-        返回格式与 pinyin() 的 result 一致：[姓氏, [第1字读音...], [第2字读音...]]。
+        Return format matches pinyin()'s result: [surname, [reading of char 1...], [reading of char 2...]].
         """
         surnames = self.word_surname
         max_len = max((len(k) for k in surnames), default=1)
@@ -218,7 +225,7 @@ class pyPengIm():
 
             if not word_translate_flag and word in self.word_common:
                 item = [word]
-                item.extend(self._word_to_pinyin(self.word_common[word]))  # 在非翻译模式下，清空之前的拼音，仅保留 word_common 结果，也就是只保存普通话语义
+                item.extend(self._word_to_pinyin(self.word_common[word]))  # in non-translation mode, clear previous pinyin and keep only word_common (Mandarin sense)
                 word_found_flag = True
 
             elif not word_translate_flag or not word_found_flag:
@@ -240,11 +247,12 @@ class pyPengIm():
         return result
 
     def convert_accent(self, pinyin_list, accent):
-        """府城音 -> 目标口音。每个分词结果内先匹配词级映射（如揭阳「家己」），其余按字转换。"""
+        """Fucheng -> target accent. Within each segmented word, try word-level mappings first
+        (e.g. Jieyang 「家己」), then convert character by character."""
         result = []
         for one_pair in pinyin_list:
             word, pinyins = one_pair[0], list(one_pair[1:])
-            if len(word) != len(pinyins):      # 字数与读音数对不上（如词典数据有误），原样保留
+            if len(word) != len(pinyins):      # char/reading count mismatch (e.g. bad dictionary data): keep as-is
                 result.append([word] + pinyins)
                 continue
             converted = self._accent_converter.convert_from_base(word, pinyins, accent)
@@ -287,7 +295,7 @@ class pyPengIm():
     def add_word_mapping(self, user_mapping: dict):
         self.mandarin_to_teochew.update(user_mapping)
 
-    # 查询单个字在不同地区的口音
+    # Query a single character's readings across regions
     def single_query(self, single_char):
         if single_char not in self.char_main and single_char not in self.char_extension:
             return None

@@ -1,24 +1,25 @@
 """
-多种潮州话拼音方案之间的转换。
+Conversion between multiple Teochew romanization schemes.
 
-内部统一使用本仓库的潮拼（``声母 + 韵母 + 声调数字``，如 ``zui2``）作为中间表示，
-其它方案都是 潮拼 -> 目标方案 的单向映射，映射表放在 ``pypengim/data/romanization/``。
+Internally this repo's Teochew pinyin (``initial + final + tone digit``, e.g. ``zui2``) is the
+intermediate representation; every other scheme is a one-way Teochew-pinyin -> target mapping,
+with tables under ``pypengim/data/romanization/``.
 
-支持的方案（``scheme`` 参数）：
+Supported schemes (``scheme`` parameter):
 
-    pengim    潮拼 (默认，原样输出)
-    dieghv    潮语拼音
-    fielde    斐尔德拼音 (声调用附加符号)
-    puj       白话字，声调用变音符号 (Pe̍h-ūe-jī)
-    pujn      白话字，数字声调
-    pujs      白话字，上标数字声调
-    ggn       家己人拼音 (Gaginang Peng'im)，数字声调
-    ggns      家己人拼音，上标数字声调
-    chen      陈恩泉《潮语拼音方案》，数字声调
-    ipa       国际音标 (由 pyPengIm.to_IPA 处理，这里也提供一个整合入口)
+    pengim    Teochew pinyin (default, passthrough)
+    dieghv    Dieghv
+    fielde    Fielde (diacritic tones)
+    puj       Pe̍h-ūe-jī, diacritic tones
+    pujn      Pe̍h-ūe-jī, digit tones
+    pujs      Pe̍h-ūe-jī, superscript tones
+    ggn       Gaginang Peng'im, digit tones
+    ggns      Gaginang Peng'im, superscript tones
+    chen      Chen Enquan's Teochew scheme, digit tones
+    ipa       IPA (handled by pyPengIm.to_IPA; an integrated entry point is also provided here)
 
-白话字、斐尔德、潮语拼音、家己人的声母/韵母对应关系整理自 pengim-js
-(MIT License, Copyright (c) 2024 Learn Teochew)。
+Initial/final tables for Pe̍h-ūe-jī, Fielde, Dieghv, and Gaginang were compiled from pengim-js
+(MIT License, Copyright (c) 2024 Learn Teochew).
 """
 import os
 import re
@@ -30,7 +31,7 @@ _ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'romani
 
 SUPERSCRIPT = {'1': '¹', '2': '²', '3': '³', '4': '⁴', '5': '⁵', '6': '⁶', '7': '⁷', '8': '⁸'}
 
-# 方案名 -> (映射文件, 声调风格, 展示名)
+# scheme name -> (mapping file, tone style, display name)
 SCHEMES = {
     'pengim': (None, 'digit', '潮拼 (Peng\'im)'),
     'dieghv': ('dieghv.txt', 'digit', '潮语拼音 (Dieghv)'),
@@ -43,7 +44,7 @@ SCHEMES = {
     'chen':   ('chen_enquan.txt', 'digit', '陈恩泉拼音'),
 }
 
-# 声调变音符号：1、4 调不标
+# Tone diacritics: tones 1 and 4 are unmarked
 _PUJ_TONES = {'2': '\u0301', '3': '\u0300', '5': '\u0302', '6': '\u0303', '7': '\u0304', '8': '\u030d'}
 _FIELDE_TONES = {'2': '\u0301', '3': '\u0300', '5': '\u0302', '6': '\u0306', '7': '\u0304', '8': '\u0302'}
 _TONE_MARKS = {'puj': _PUJ_TONES, 'fielde': _FIELDE_TONES}
@@ -52,7 +53,7 @@ _tables = {}
 
 
 def _load_table(filename):
-    """读取映射文件，返回 {'ini': {}, 'fin': {}, 'nas': {}}"""
+    """Load a mapping file; return {'ini': {}, 'fin': {}, 'nas': {}}"""
     if filename in _tables:
         return _tables[filename]
     table = {'ini': {}, 'fin': {}, 'nas': {}}
@@ -79,14 +80,14 @@ def _load_table(filename):
 
 
 def available_schemes():
-    """返回 {方案名: 展示名}，用于 GUI 下拉框"""
+    """Return {scheme_name: display_name}, for GUI dropdowns."""
     return {k: v[2] for k, v in SCHEMES.items()}
 
 
 def split_syllable(pinyin):
-    """把潮拼音节拆成 (声母, 韵母, 声调, 是否纯鼻音)。
+    """Split a Teochew syllable into (initial, final, tone, is_syllabic_nasal).
 
-    合法输入形如 ``zui2``、``ng5``；不合法（如非汉字字符、英文原词）返回 None。
+    Valid input looks like ``zui2``, ``ng5``; invalid (non-hanzi chars, English words) returns None.
     """
     if len(pinyin) < 2 or pinyin[-1] not in '12345678':
         return None
@@ -100,7 +101,7 @@ def split_syllable(pinyin):
 
 
 def _add_tone_mark(toneless, tone, marks):
-    """把变音符号放到音节的主要元音上：先 a/e/o/u/ṳ/w，其次 i，最后 n/m。"""
+    """Place the diacritic on the syllable's main vowel: a/e/o/u/ṳ/w first, then i, then n/m."""
     mark = marks.get(tone)
     if mark is None:
         return toneless
@@ -113,7 +114,7 @@ def _add_tone_mark(toneless, tone, marks):
             break
     if idx is None:
         return toneless
-    # 带下点的 ṳ / o̤ 有组合符号跟在后面，声调符号要放在它们之后
+    # dotted ṳ / o̤ have a combining mark after them; the tone mark must come after that
     end = idx + 1
     while end < len(text) and unicodedata.combining(text[end]) and text[end] == '\u0324':
         end += 1
@@ -121,7 +122,7 @@ def _add_tone_mark(toneless, tone, marks):
 
 
 def convert_syllable(pinyin, scheme='pengim'):
-    """把一个潮拼音节转换成目标方案。无法识别时原样返回。"""
+    """Convert one Teochew syllable to the target scheme. Unrecognized input passes through."""
     if scheme not in SCHEMES:
         raise ValueError("未知拼音方案: {}，可选: {}".format(scheme, ', '.join(SCHEMES)))
     filename, tone_style, _ = SCHEMES[scheme]
@@ -151,7 +152,7 @@ def convert_syllable(pinyin, scheme='pengim'):
 
 
 def convert_sequence(pinyin_seq, scheme='pengim'):
-    """转换以空格分隔的潮拼序列；``a|b`` 形式的多音字候选逐个转换。"""
+    """Convert a space-separated Teochew pinyin sequence; polyphone candidates in ``a|b`` form convert one by one."""
     if scheme == 'pengim':
         return pinyin_seq
     out = []
@@ -161,26 +162,28 @@ def convert_sequence(pinyin_seq, scheme='pengim'):
 
 
 # ---------------------------------------------------------------------------
-# 反向：其它方案 -> 潮拼。有了它，任意两个方案之间都可以互转（经潮拼中转）。
+# Reverse: other schemes -> Teochew pinyin. With this, any pair of schemes can convert (via Teochew pinyin).
 # ---------------------------------------------------------------------------
 
-_TONE_CHARS = {'\u0300', '\u0301', '\u0302', '\u0303', '\u0304', '\u0306', '\u030d'}
+_TONE_CHARS = {'̀', '́', '̂', '̃', '̄', '̆', '̍'}
 _SUPERSCRIPT_REVERSE = {v: k for k, v in SUPERSCRIPT.items()}
 _PUJ_TONES_REVERSE = {v: k for k, v in _PUJ_TONES.items()}
-# 斐尔德的 5 调与 8 调都写 ^，靠入声韵尾区分，所以不放进这张表
-_FIELDE_TONES_REVERSE = {'\u0301': '2', '\u0300': '3', '\u0306': '6', '\u0304': '7'}
+# Fielde writes both tone 5 and tone 8 as ^, distinguished only by entering-tone endings, so leave it out of this table
+_FIELDE_TONES_REVERSE = {'́': '2', '̀': '3', '̆': '6', '̄': '7'}
 
-# 同一个写法对应多个潮拼时的取舍。陈恩泉方案里 en 与 ng 都写成 wn，词典里 en 从未出现，故取 ng
+# Disambiguation when one spelling maps to several Teochew pinyin forms.
+# In Chen Enquan both en and ng are written wn; en never appears in the dictionary, so prefer ng
 _REVERSE_PREFER = {'chen_enquan.txt': {'wn': 'ng', 'hwn': 'hng'}}
 
 _reverse_tables = {}
 
 
 def _reverse_table(filename):
-    """生成反向索引 {'syl': 整个音节(去声调)的写法 -> 潮拼, 'nas': 成音节鼻音写法 -> 潮拼}。
+    """Build a reverse index {'syl': spelling of the whole syllable (toneless) -> Teochew pinyin,
+    'nas': syllabic-nasal spelling -> Teochew pinyin}.
 
-    以整个音节为单位索引，而不是分别索引声母和韵母：不同方案里声母和韵母的写法会粘连，
-    例如陈恩泉的 hwn 既可以是 h+wn，也可以是 hng 的整体写法。
+    Index by whole syllable rather than initial and final separately: in some schemes initial and
+    final spellings run together, e.g. Chen Enquan's hwn can be h+wn or the whole spelling of hng.
     """
     if filename in _reverse_tables:
         return _reverse_tables[filename]
@@ -193,19 +196,19 @@ def _reverse_table(filename):
     nas = {written: py for py, written in table['nas'].items()}
     for written, py in _REVERSE_PREFER.get(filename, {}).items():
         nas[written] = py
-    syl.update(nas)       # 成音节鼻音优先于“声母+韵母”的拆法
+    syl.update(nas)       # syllabic nasals take priority over the "initial+final" split
     result = {'syl': syl, 'nas': nas}
     _reverse_tables[filename] = result
     return result
 
 
 def _is_entering(toneless):
-    """入声：以 p t k h 收尾，或鼻化入声（白话字 ⁿh、斐尔德 hⁿ，即 h 后面再跟 ⁿ）。"""
+    """Entering tone: ends in p t k h, or nasalized entering (Pe̍h-ūe-jī ⁿh, Fielde hⁿ — h followed by ⁿ)."""
     return bool(re.search(r'[ptkh]ⁿ?$', toneless))
 
 
 def _parse_tone(text, tone_style):
-    """从目标方案的写法里拆出 (去掉声调的写法, 声调数字)。无法识别声调时声调为 None。"""
+    """Split (toneless spelling, tone digit) out of a target-scheme spelling. Tone is None if unrecognized."""
     if tone_style == 'digit':
         if text and text[-1] in '12345678':
             return text[:-1], text[-1]
@@ -214,21 +217,21 @@ def _parse_tone(text, tone_style):
         if text and text[-1] in _SUPERSCRIPT_REVERSE:
             return text[:-1], _SUPERSCRIPT_REVERSE[text[-1]]
         return text, None
-    # 变音符号方案（白话字、斐尔德）：声调符号在 NFD 里是独立的组合字符
+    # diacritic schemes (Pe̍h-ūe-jī, Fielde): tone marks are standalone combining chars in NFD
     decomposed = unicodedata.normalize('NFD', text)
     marks = [c for c in decomposed if c in _TONE_CHARS]
     plain = unicodedata.normalize('NFC', ''.join(c for c in decomposed if c not in _TONE_CHARS))
-    if not marks:   # 1 调、4 调不标，靠是否入声区分
+    if not marks:   # tones 1 and 4 are unmarked; distinguish by entering tone
         return plain, '4' if _is_entering(plain) else '1'
     mark = marks[0]
-    if tone_style == 'fielde' and mark == '\u0302':   # 斐尔德 ^：入声韵是 8 调，其余是 5 调
+    if tone_style == 'fielde' and mark == '̂':   # Fielde ^: entering finals are tone 8, else tone 5
         return plain, '8' if _is_entering(plain) else '5'
     table = _PUJ_TONES_REVERSE if tone_style == 'puj' else _FIELDE_TONES_REVERSE
     return plain, table.get(mark)
 
 
 def to_pengim_syllable(text, scheme):
-    """把某个方案的一个音节还原成潮拼。无法识别时返回 None。"""
+    """Restore one syllable of a scheme to Teochew pinyin. Returns None if unrecognized."""
     if scheme not in SCHEMES:
         raise ValueError("未知拼音方案: {}，可选: {}".format(scheme, ', '.join(SCHEMES)))
     filename, tone_style, _ = SCHEMES[scheme]
@@ -237,13 +240,14 @@ def to_pengim_syllable(text, scheme):
     plain, tone = _parse_tone(unicodedata.normalize('NFC', text), tone_style)
     if tone is None or not plain:
         return None
-    # 白话字、斐尔德的 5 调与 8 调以外的调号可能和声调符号无关，统一用 NFC 比对
+    # tone marks other than 5/8 in Pe̍h-ūe-jī/Fielde may be unrelated to tone; always compare in NFC
     py = _reverse_table(filename)['syl'].get(plain)
     return None if py is None else py + tone
 
 
 def to_pengim_sequence(seq, scheme):
-    """把某个方案的拼音序列还原成潮拼，格式同 convert_sequence。无法识别的 token 原样保留。"""
+    """Restore a scheme's pinyin sequence to Teochew pinyin, same format as convert_sequence.
+    Unrecognized tokens pass through unchanged."""
     if scheme == 'pengim':
         return seq
     out = []
@@ -253,5 +257,5 @@ def to_pengim_sequence(seq, scheme):
 
 
 def convert_between(seq, from_scheme, to_scheme):
-    """任意两个拼音方案互转（经潮拼中转）。"""
+    """Convert between any two romanization schemes (via Teochew pinyin)."""
     return convert_sequence(to_pengim_sequence(seq, from_scheme), to_scheme)

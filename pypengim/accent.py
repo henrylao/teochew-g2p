@@ -1,15 +1,15 @@
 """
-口音互转：任意口音 -> 任意口音（经府城音中转）。
+Accent conversion: any accent -> any accent (via Fucheng as pivot).
 
-口音映射表 ``pypengim/data/accent_convert/to_*.txt`` 记录的是 ``汉字_府城音节#目标口音音节``，
-只能府城 -> 其它口音。要反过来或在两个非府城口音之间互转，需要先还原成府城音节：
+Accent mapping tables ``pypengim/data/accent_convert/to_*.txt`` record ``hanzi_fucheng_syllable#target_syllable``
+and only go Fucheng -> other. To reverse, or convert between two non-Fucheng accents, restore to Fucheng first:
 
-* 知道汉字时（``convert_char``、``convert_word``）：用 (汉字, 本口音读音) 反查，
-  对词典里全部 12000 多个 (字, 音) 的测试里 99.9% 能唯一还原。
-* 只有音节时（``candidates``）：同一个音节可能对应多个府城音节，返回按字数排序的候选，
-  仅作参考，不保证唯一。
+* With known hanzi (``convert_char``, ``convert_word``): reverse-lookup by (hanzi, this accent's reading);
+  over all 12000+ (char, reading) pairs in the dictionary, 99.9% restore uniquely.
+* With only a syllable (``candidates``): one syllable may map to several Fucheng syllables;
+  candidates are sorted by char count and are only a reference, not guaranteed unique.
 
-口音代码：tc 府城、ky 揭阳、st 汕头、th 澄海、gz_c 金石-经典、gz_g 金石-泛、ap 庵埠。
+Accent codes: tc Fucheng, ky Jieyang, st Shantou, th Chenghai, gz_c Gimzieh-classical, gz_g Gimzieh-general, ap Ampou.
 """
 import collections
 import os
@@ -21,11 +21,11 @@ _ACCENT_DIR = os.path.join(_DATA_DIR, 'accent_convert')
 _VOCAB_DIR = os.path.join(_DATA_DIR, 'char_dict')
 _VOCAB_FILES = ('char_main.txt', 'char_extension.txt', 'char_low_frequency.txt')
 
-BASE = 'tc'   # 中转用的基准口音：府城
+BASE = 'tc'   # pivot accent: Fucheng
 
 
 def _load_dict(path):
-    """读取 ``键#值`` 格式的词典，跳过空行和 % 注释。"""
+    """Load a ``key#value`` dictionary, skipping blank lines and % comments."""
     result = {}
     with open(path, 'r', encoding='utf-8') as fr:
         for line in fr:
@@ -38,19 +38,19 @@ def _load_dict(path):
 
 
 class AccentConverter:
-    """口音互转。第一次使用时才加载词典和映射表。"""
+    """Accent conversion. Dictionaries and mapping tables load lazily on first use."""
 
     def __init__(self):
         self._names = {BASE: '府城'}
-        self._forward = {}          # 口音 -> {'字_府城音节': [目标音节, ...]}
-        self._reverse = {}          # 口音 -> {(字, 目标音节): {府城音节, ...}}
-        self._syllable_rev = {}     # 口音 -> {目标音节: Counter({府城音节: 字数})}
-        self._char_prons = None     # 字 -> [府城音节, ...]
-        self._word_rules = {}       # 口音 -> {词: [(府城读音列表, 目标读音候选列表), ...]}
+        self._forward = {}          # accent -> {'char_fucheng_syllable': [target_syllable, ...]}
+        self._reverse = {}          # accent -> {(char, target_syllable): {fucheng_syllable, ...}}
+        self._syllable_rev = {}     # accent -> {target_syllable: Counter({fucheng_syllable: n_chars})}
+        self._char_prons = None     # char -> [fucheng_syllable, ...]
+        self._word_rules = {}       # accent -> {word: [(fucheng_reading_list, target_reading_candidates), ...]}
         self._max_word_len = {}
         self._load_registry()
 
-    # ---------------------------------------------------------------- 加载
+    # ---------------------------------------------------------------- loading
     def _load_registry(self):
         with open(os.path.join(_ACCENT_DIR, 'accent.yaml'), 'r', encoding='utf-8') as fr:
             config = yaml.safe_load(fr)
@@ -60,7 +60,7 @@ class AccentConverter:
             self._paths[code] = item['path']
 
     def accents(self):
-        """返回 {口音代码: 口音名}，含府城。"""
+        """Return {accent_code: accent_name}, including Fucheng."""
         return dict(self._names)
 
     def _check(self, accent):
@@ -83,11 +83,12 @@ class AccentConverter:
         return self._char_prons
 
     def _load_tables(self, accent):
-        """读取口音表，拆成字级映射和词级映射。
+        """Load an accent table, split into char-level and word-level mappings.
 
-        字级：``字_府城音节#目标音节``，多个目标用 | 分隔。
-        词级：``词_府城读音#目标读音``，读音按字用空格分隔，每个字的多个候选用 | 分隔，
-        如 ``家己_ga1 gi7#ga1 di7|li7``。只有整个词、且读音对得上时才生效。
+        Char-level: ``char_fucheng_syllable#target_syllable``, multiple targets separated by |.
+        Word-level: ``word_fucheng_readings#target_readings``, readings space-separated per char,
+        multiple candidates per char separated by |, e.g. ``家己_ga1 gi7#ga1 di7|li7``.
+        Only applies when the whole word appears and the Fucheng readings match.
         """
         chars, words = {}, collections.defaultdict(list)
         for key, value in _load_dict(os.path.join(_ACCENT_DIR, self._paths[accent])).items():
@@ -111,7 +112,7 @@ class AccentConverter:
         return self._forward[accent]
 
     def _word_table(self, accent):
-        """词 -> [(府城读音列表, 目标读音候选列表), ...]"""
+        """word -> [(fucheng_reading_list, target_reading_candidates), ...]"""
         if accent == BASE:
             return {}
         if accent not in self._word_rules:
@@ -119,10 +120,10 @@ class AccentConverter:
         return self._word_rules[accent]
 
     def _match_words(self, word, syllables, accent, side):
-        """在 word 里从左到右做最长匹配，返回 {起始位置: (长度, 府城读音, 目标读音)}。
+        """Longest-match left-to-right over word; return {start: (length, fucheng_readings, target_readings)}.
 
-        side='tc'：syllables 是府城读音候选，规则的府城读音要在候选里；
-        side='target'：syllables 是该口音读音候选，规则的目标读音要和候选有交集。
+        side='tc': syllables are Fucheng reading candidates; the rule's Fucheng readings must appear among them;
+        side='target': syllables are this accent's reading candidates; the rule's target readings must intersect them.
         """
         rules = self._word_table(accent)
         if not rules:
@@ -149,10 +150,11 @@ class AccentConverter:
         return found
 
     def convert_from_base(self, word, syllables, accent):
-        """府城读音 -> 目标口音，先查词级映射，再按字转换。
+        """Fucheng readings -> target accent; try word-level mappings first, then convert per char.
 
-        word 是汉字串，syllables 与汉字一一对应，每项是该字的府城读音候选列表。
-        返回同样结构的列表（每项去重、保持顺序）。没有映射的读音原样保留。
+        word is a hanzi string; syllables align one-to-one with the chars, each a list of Fucheng
+        reading candidates for that char. Returns a list of the same structure (deduped, order kept).
+        Readings with no mapping pass through unchanged.
         """
         self._check(accent)
         table = self._forward_table(accent) if accent != BASE else {}
@@ -160,7 +162,7 @@ class AccentConverter:
         for ch, prons in zip(word, syllables):
             merged = []
             for py in prons:
-                # 表里没有就原样保留（含 * 标记）
+                # not in the table: keep as-is (including the * marker)
                 for target in table.get('{}_{}'.format(ch, py.replace('*', ''))) or [py]:
                     if target not in merged:
                         merged.append(target)
@@ -183,7 +185,7 @@ class AccentConverter:
         return out
 
     def word_to_base(self, word, syllables, from_accent):
-        """某口音读音 -> 府城读音，先查词级映射，再按字还原。结构同 convert_from_base。"""
+        """Readings of an accent -> Fucheng readings; word-level mappings first, then per char. Same structure as convert_from_base."""
         self._check(from_accent)
         out = []
         for ch, prons in zip(word, syllables):
@@ -206,13 +208,13 @@ class AccentConverter:
         return out
 
     def _to_accent(self, ch, tc_syllable, accent):
-        """府城 (字, 音节) -> 目标口音的音节列表。表里没有就和府城相同。"""
+        """Fucheng (char, syllable) -> target accent's syllable list. Not in the table: same as Fucheng."""
         if accent == BASE:
             return [tc_syllable]
         return self._forward_table(accent).get('{}_{}'.format(ch, tc_syllable)) or [tc_syllable]
 
     def _reverse_table(self, accent):
-        """(字, 该口音音节) -> 府城音节集合"""
+        """(char, this accent's syllable) -> set of Fucheng syllables"""
         if accent not in self._reverse:
             rev = collections.defaultdict(set)
             for ch, prons in self._vocab().items():
@@ -223,7 +225,7 @@ class AccentConverter:
         return self._reverse[accent]
 
     def _syllable_table(self, accent):
-        """该口音音节 -> Counter({府城音节: 词典里有多少个字这样对应})"""
+        """this accent's syllable -> Counter({fucheng_syllable: how many dict chars map that way})"""
         if accent not in self._syllable_rev:
             rev = collections.defaultdict(collections.Counter)
             for ch, prons in self._vocab().items():
@@ -233,12 +235,12 @@ class AccentConverter:
             self._syllable_rev[accent] = rev
         return self._syllable_rev[accent]
 
-    # ---------------------------------------------------------------- 转换
+    # ---------------------------------------------------------------- conversion
     def to_base(self, ch, syllable, from_accent):
-        """已知汉字时，把某口音的读音还原成府城音节列表（通常只有 1 个）。
+        """With known hanzi, restore an accent's reading to a list of Fucheng syllables (usually just 1).
 
-        字不在词典里、或该读音不是这个字在这个口音下的读音时，退化为按音节候选还原；
-        再不行就原样返回，不报错。
+        If the char is not in the dictionary, or the reading is not one of this char's readings under
+        this accent, fall back to syllable-level candidates; if that fails too, return as-is, no error.
         """
         self._check(from_accent)
         if from_accent == BASE:
@@ -250,7 +252,7 @@ class AccentConverter:
         return cands or [syllable]
 
     def convert_char(self, ch, syllable, from_accent, to_accent):
-        """单字转换：某口音的 (汉字, 读音) -> 另一个口音的读音列表（去重，保持顺序）。"""
+        """Single-char conversion: (hanzi, reading) under one accent -> reading list under another (deduped, order kept)."""
         self._check(to_accent)
         result = []
         for tc in self.to_base(ch, syllable, from_accent):
@@ -260,10 +262,12 @@ class AccentConverter:
         return result
 
     def convert_word(self, word, syllables, from_accent, to_accent):
-        """词转换。word 是汉字串，syllables 与汉字一一对应，每项是该字在 from_accent 下的候选读音列表。
+        """Word conversion. word is a hanzi string; syllables align one-to-one with the chars,
+        each a list of candidate readings under from_accent.
 
-        返回与 syllables 同样结构的列表。非汉字（字长不匹配、候选为 None 等）原样保留。
-        词级映射（如揭阳「家己」ga1 di7）在还原和转换两步都会生效。
+        Returns a list with the same structure as syllables. Non-hanzi (length mismatch, None
+        candidates, etc.) passes through unchanged. Word-level mappings (e.g. Jieyang 「家己」ga1 di7)
+        apply in both the restore and the convert step.
         """
         self._check(from_accent)
         self._check(to_accent)
@@ -271,7 +275,8 @@ class AccentConverter:
         return self.convert_from_base(word, base, to_accent)
 
     def candidates(self, syllable, from_accent):
-        """只有音节、不知道汉字时：返回可能的府城音节，按词典里对应的字数从多到少排序。"""
+        """When only a syllable is known (no hanzi): return possible Fucheng syllables,
+        sorted by how many dictionary chars map to them (most first)."""
         self._check(from_accent)
         if from_accent == BASE:
             return [syllable]
@@ -281,15 +286,17 @@ class AccentConverter:
         return [py for py, _ in counter.most_common()]
 
     def convert_syllable(self, syllable, from_accent, to_accent, top=1):
-        """只有音节时的粗略转换：取最可能的 top 个府城音节再转到目标口音。
+        """Rough conversion when only a syllable is known: take the most likely top Fucheng
+        syllables, then convert to the target accent.
 
-        同一音节可能对应多个府城音节（反向多解约占 8%–27%，因口音而异），
-        结果仅供参考；能提供汉字时请用 convert_char / convert_word。
+        One syllable may map to several Fucheng syllables (ambiguous reverse lookups are about
+        8%–27%, depending on accent); results are reference-only. Provide hanzi and use
+        convert_char / convert_word when possible.
         """
         self._check(to_accent)
         result = []
         for tc in self.candidates(syllable, from_accent)[:top] or [syllable]:
-            # 没有汉字时，目标口音的写法取“对词典里这个府城音节的字最常见的写法”
+            # without hanzi, the target accent's spelling is "the most common spelling for dict chars with this Fucheng syllable"
             counter = collections.Counter()
             for ch, prons in self._vocab().items():
                 if tc in prons:

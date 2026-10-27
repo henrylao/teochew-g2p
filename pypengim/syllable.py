@@ -1,5 +1,5 @@
 
-# 声母
+# initials
 INITIALS = [
     'b','bh','c','d','g',
     'gh','h','k','l','m',
@@ -7,24 +7,24 @@ INITIALS = [
     't','z'
 ]
 
-# 闭口韵 
+# labial-ending finals (closed finals)
 __rhyme_with_a_labial_ending__ = [
     "am","iam","im","om","uam",
     "ab","iab","ib","uab",
 ]
 
-# 鼻化韵、鼻化元音
+# nasalized finals, nasalized vowels
 __nasal_vowel__  = [
     "ain","an","en","ian",
     "in","iaon","iaonh","inh",
     "ioun","ion","oin","on","iun",
     "iounh","oun","uain","uan","uin","ên","ênh",
     "uên","aon","uanh",
-    # 鼻音声母(m n ng)后的元音统一带鼻化，以下韵母由此产生
+    # vowels after nasal initials (m n ng) always carry nasalization; the finals below derive from that
     "anh","aonh","iên","oinh","onh","uênh",
 ]
 
-# 韵母
+# finals
 FINALS = [
     "a","ag","ah","ai",
     "aih","ang",
@@ -49,13 +49,13 @@ FINALS = [
 
 
 
-# 金石、沙溪、龙湖
+# Gimzieh, Shaxi, Longhu
 __gimzieh__ = [
     'er','erh','ern'
 ]
 FINALS = FINALS + __nasal_vowel__ + __rhyme_with_a_labial_ending__ + __gimzieh__
 
-# 纯鼻音
+# syllabic nasals
 NASALS = [
     'hm','hng','hngh','ngh','ng','m'
 ]

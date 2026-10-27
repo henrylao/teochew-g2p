@@ -10,7 +10,7 @@ num_map = {
 
 
 
-# 将数字直接转为汉字，适用于年份、电话号、身份证号等情况，15->一五、幺五 ； 110->一一零、幺幺零
+# Digit-to-hanzi, for years, phone numbers, ID numbers, etc.: 15->一五/幺五, 110->一一零/幺幺零
 def num_to_chinese(num):
     chinese_num = ""
     for ch in num:
@@ -21,11 +21,11 @@ def num_to_chinese(num):
     # chinese_num = HanziConv.toSimplified(str(num))
     return chinese_num
 
-# 将数字智能转换，适用于表示数值的情况， 15->十五， 110->一百一十
+# Smart digit conversion for numeric values: 15->十五, 110->一百一十
 def num_to_chinese_smart(num):
     return cn2an.transform(num,'an2cn')
 
-# 在
+# Add spaces around Chinese punctuation
 def add_spaces_around_punctuation(text):
     punctuation = r"[，。？！、]"
     pattern = rf'(?<!\s)({punctuation})(?!\s)'
@@ -47,20 +47,20 @@ def load_dict(dict_path=os.path.join(os.path.dirname(os.path.abspath(__file__)),
     return vocab
 
 
-# 整合jieba库分割的词汇，因为遇到#会分割。
+# Merge jieba segments that were split on '#'.
 def preprocess_generator(input_gen):
     result = []
 
     for item in input_gen:
         if item == '#':
-            # 将#与前一个词合并
+            # merge '#' into the previous word
             if result:
                 result[-1] += '#'
         elif item == ' ':
-            # 忽略空字符串
+            # skip empty strings
             continue
         else:
-            # 直接添加到结果中
+            # append as-is
             result.append(item)
 
     return result

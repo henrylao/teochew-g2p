@@ -17,7 +17,7 @@ with open(os.path.join(DATA_DIR, "accent_convert", "accent.yaml"), 'r', encoding
 
 reversed_accent_dict = {value: key for key, value in accent_dict.items()}
 
-# 拼音方案：展示名 -> 方案代码，默认潮拼
+# romanization schemes: display name -> scheme code; default Teochew pinyin
 scheme_dict = romanization.available_schemes()
 reversed_scheme_dict = {value: key for key, value in scheme_dict.items()}
 default_scheme_name = scheme_dict['pengim']
@@ -73,7 +73,7 @@ def zi_and_pinyin(text, pinyin_seq):
 
     for i in range(len(text)):
         if text[i] == ls[i]:
-            # 非法字符
+            # invalid character
             result.append(text[i])
         else:
             result.append(text[i]+'@'+ls[i])
@@ -95,7 +95,8 @@ def process_text(input_text, location, return_seq, scheme_name=default_scheme_na
     return zi_at_pinyin_seq
 
 def convert_between(han, pinyin_seq, from_accent_name, to_accent_name, from_scheme_name, to_scheme_name):
-    """口音互转 + 拼音方案互转：读音按“源拼音方案”解析成潮拼，转口音后再按“目标拼音方案”输出。"""
+    """Accent conversion + scheme conversion: parse readings in the source scheme to Teochew pinyin,
+    convert accent, then output in the target scheme."""
     han = restrip(han)
     pinyin_seq = pinyin_seq.strip()
     if not pinyin_seq:
@@ -176,7 +177,7 @@ with gr.Blocks() as demo:
     convert_btn = gr.Button("互转")
     convert_output = gr.Textbox(label="互转结果")
 
-    # 按钮事件绑定
+    # button event bindings
     auto_seg_btn.click(auto_segment, input_text, seg_output)
     manual_seg_btn.click(manual_segment, input_text, seg_output)
     auto_translate_btn.click(auto_translate, input_text, seg_output)
